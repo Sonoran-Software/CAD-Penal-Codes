@@ -26,8 +26,8 @@ IC 35-47-2-1,Felony,Carrying a Handgun Without a License,Cash Bond,1-6 Years,500
 IC 35-47-4-5,Felony,Unlawful Possession of a Firearm by Serious Violent Felon,Cash Bond,3-16 Years,100000
 IC 35-48-4-1,Felony,Dealing in Cocaine or Narcotic Drug,Cash Bond,3-16 Years,100000
 IC 35-48-4-6,Felony,Possession of Cocaine or Narcotic Drug,Cash Bond,1-6 Years,50000
-IC 35-48-4-7,Felony,Dealing in a Schedule I, II, or III Controlled Substance,Cash Bond,1-6 Years,50000
-IC 35-48-4-8,Felony,Possession of a Schedule I, II, or III Controlled Substance,Cash Bond,1-6 Years,50000
+IC 35-48-4-7,Felony,"Dealing in a Schedule I, II, or III Controlled Substance",Cash Bond,1-6 Years,50000
+IC 35-48-4-8,Felony,"Possession of a Schedule I, II, or III Controlled Substance",Cash Bond,1-6 Years,50000
 IC 35-48-4-10,Felony,Dealing in Marijuana,Cash Bond,1-6 Years,50000
 IC 35-48-4-11,Misdemeanor,Possession of Marijuana,Cash Bond,Up to 1 Year,25000
 IC 35-50-2-9,Felony,Death Sentence,No Bail,Death,0
