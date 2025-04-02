@@ -16,10 +16,10 @@ CR 6-202,Felony,Burglary in the First Degree,Cash Bond,Up to 20 Years,200000
 CR 6-203,Felony,Burglary in the Second Degree,Cash Bond,Up to 15 Years,150000
 CR 6-204,Felony,Burglary in the Third Degree,Cash Bond,Up to 10 Years,100000
 CR 6-205,Misdemeanor,Burglary in the Fourth Degree,Cash Bond,Up to 3 Years,50000
-CR 7-104,Misdemeanor,Theft: Less than $1,500,Cash Bond,Up to 6 Months,10000
-CR 7-104,Felony,Theft: $1,500 to less than $25,000,Cash Bond,Up to 5 Years,50000
-CR 7-104,Felony,Theft: $25,000 to less than $100,000,Cash Bond,Up to 10 Years,100000
-CR 7-104,Felony,Theft: $100,000 or more,Cash Bond,Up to 20 Years,200000
+CR 7-104,Misdemeanor,"Theft: Less than $1,500",Cash Bond,Up to 6 Months,10000
+CR 7-104,Felony,"Theft: $1,500 to less than $25,000",Cash Bond,Up to 5 Years,50000
+CR 7-104,Felony,"Theft: $25,000 to less than $100,000",Cash Bond,Up to 10 Years,100000
+CR 7-104,Felony,"Theft: $100,000 or more",Cash Bond,Up to 20 Years,200000
 CR 8-301,Felony,Identity Fraud,Cash Bond,Up to 15 Years,150000
 CR 8-302,Felony,Credit Card Fraud,Cash Bond,Up to 12 Years,120000
 CR 9-302,Felony,Bribery,Cash Bond,Up to 12 Years,120000
