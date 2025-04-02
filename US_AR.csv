@@ -1,0 +1,47 @@
+code,type,title,bondType,jailTime,bondAmount
+5-10-101,Felony,Capital Murder,Federal Bail Bond,Life Without Parole or Death,500000
+5-10-102,Felony,Murder in the First Degree,Federal Bail Bond,10-40 Years or Life,400000
+5-10-103,Felony,Murder in the Second Degree,State Bail Bond,6-30 Years,250000
+5-10-104,Felony,Manslaughter,State Bail Bond,3-10 Years,150000
+5-10-105,Felony,Negligent Homicide,State Bail Bond,1-20 Years,100000
+5-13-201,Felony,Battery in the First Degree,State Bail Bond,5-20 Years,200000
+5-13-202,Felony,Battery in the Second Degree,State Bail Bond,3-10 Years,150000
+5-13-203,Misdemeanor,Battery in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+5-13-204,Felony,Aggravated Assault,State Bail Bond,3-10 Years,150000
+5-13-205,Misdemeanor,Assault in the First Degree,Personal Recognizance,Up to 1 Year,5000
+5-13-206,Misdemeanor,Assault in the Second Degree,Personal Recognizance,Up to 90 Days,2500
+5-13-207,Misdemeanor,Assault in the Third Degree,Personal Recognizance,Up to 30 Days,1000
+5-13-208,Misdemeanor,Coercion,Personal Recognizance,Up to 1 Year,5000
+5-13-209,Misdemeanor,Abuse of Athletic Contest Official,Personal Recognizance,Up to 90 Days,2500
+5-13-210,Felony,Introduction of Controlled Substance into Body of Another Person,State Bail Bond,3-10 Years,150000
+5-14-103,Felony,Rape,Federal Bail Bond,10-40 Years or Life,500000
+5-14-124,Felony,Sexual Assault in the First Degree,State Bail Bond,6-30 Years,250000
+5-14-125,Felony,Sexual Assault in the Second Degree,State Bail Bond,5-20 Years,200000
+5-14-126,Felony,Sexual Assault in the Third Degree,State Bail Bond,3-10 Years,150000
+5-14-127,Misdemeanor,Sexual Assault in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+5-14-128,Felony,Indecent Exposure,State Bail Bond,3-10 Years,150000
+5-14-129,Misdemeanor,Public Sexual Indecency,Personal Recognizance,Up to 1 Year,5000
+5-14-130,Misdemeanor,Sexual Misconduct,Personal Recognizance,Up to 90 Days,2500
+5-14-131,Felony,Engaging Children in Sexually Explicit Conduct for Use in Visual or Print Medium,Federal Bail Bond,5-20 Years,200000
+5-14-132,Felony,Transportation of Minors for Prohibited Sexual Conduct,Federal Bail Bond,5-20 Years,200000
+5-14-133,Felony,Employing or Consenting to Use of Child in Sexual Performance,Federal Bail Bond,5-20 Years,200000
+5-14-134,Felony,Producing, Directing, or Promoting Sexual Performance by a Child,Federal Bail Bond,5-20 Years,200000
+5-14-135,Felony,Computer Child Pornography,Federal Bail Bond,5-20 Years,200000
+5-14-136,Felony,Pandering or Possessing Visual or Print Medium Depicting Sexually Explicit Conduct Involving a Child,Federal Bail Bond,5-20 Years,200000
+5-14-137,Felony,Internet Stalking of a Child,Federal Bail Bond,5-20 Years,200000
+5-14-138,Felony,Sexual Solicitation of a Child,Federal Bail Bond,5-20 Years,200000
+5-14-201,Felony,Bestiality,State Bail Bond,3-10 Years,150000
+5-14-202,Misdemeanor,Public Display of Obscene Material,Personal Recognizance,Up to 1 Year,5000
+5-14-203,Felony,Promoting Obscene Materials,Federal Bail Bond,3-10 Years,150000
+5-14-204,Felony,Promoting Obscene Performance,Federal Bail Bond,3-10 Years,150000
+5-14-205,Misdemeanor,Obscene Performance at a Live Publicly Exhibited Play, Dance, or Other Performance,Personal Recognizance,Up to 1 Year,5000
+5-14-206,Felony,Use of a Child in a Sexual Performance,Federal Bail Bond,5-20 Years,200000
+5-14-207,Felony,Producing, Directing, or Promoting a Sexual Performance by a Child,Federal Bail Bond,5-20 Years,200000
+5-14-208,Felony,Computer Exploitation of a Child,Federal Bail Bond,5-20 Years,200000
+5-14-209,Felony,Distribution of Sexually Explicit Images,Federal Bail Bond,3-10 Years,150000
+5-14-210,Misdemeanor,Unlawful Distribution of Sexual Images or Recordings,Personal Recognizance,Up to 1 Year,5000
+5-14-211,Felony,Unlawful Use of a Computer to Facilitate the Commission of a Sex Offense,Federal Bail Bond,5-20 Years,200000
+5-14-212,Felony,Unlawful Use of a Communication Device to Facilitate the Commission of a Sex Offense,Federal Bail Bond,5-20 Years,200000
+5-14-213,Felony,Unlawful Distribution of Sexual Images or Recordings to Harass, Intimidate, or Threaten,Federal Bail Bond,3-10 Years,150000
+5-14-214,Felony,Unlawful Distribution of Sexual Images or Recordings Without Consent,Federal Bail Bond,3-10 Years,150000
+5-14-215,Felony,Unlawful Distribution of Sexual Images or Recordings to a Minor,Federal Bail Bond,5-20 Years

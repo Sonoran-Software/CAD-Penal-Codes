@@ -1,0 +1,56 @@
+code,type,title,bondType,jailTime,bondAmount
+187,Felony,Murder,Federal Bail Bond,25 Years to Life,500000
+192,Felony,Manslaughter,State Bail Bond,3-11 Years,250000
+203,Felony,Mayhem,State Bail Bond,2-8 Years,150000
+207,Felony,Kidnapping,Federal Bail Bond,3-8 Years,200000
+211,Felony,Robbery,Federal Bail Bond,3-9 Years,200000
+215,Felony,Carjacking,Federal Bail Bond,3-9 Years,200000
+240,Misdemeanor,Assault,Personal Recognizance,Up to 6 Months,5000
+242,Misdemeanor,Battery,Personal Recognizance,Up to 6 Months,5000
+245,Felony,Assault with a Deadly Weapon,State Bail Bond,2-4 Years,100000
+261,Felony,Rape,Federal Bail Bond,3-8 Years,250000
+273.5,Felony,Domestic Violence,State Bail Bond,2-4 Years,75000
+288,Felony,Child Molestation,Federal Bail Bond,3-8 Years,250000
+314,Misdemeanor,Indecent Exposure,Personal Recognizance,Up to 6 Months,5000
+368,Felony,Elder Abuse,State Bail Bond,2-4 Years,75000
+415,Misdemeanor,Disturbing the Peace,Personal Recognizance,Up to 90 Days,2500
+417,Misdemeanor,Brandishing a Weapon,Personal Recognizance,Up to 1 Year,5000
+422,Felony,Criminal Threats,State Bail Bond,2-4 Years,75000
+451,Felony,Arson,Federal Bail Bond,2-9 Years,200000
+459,Felony,Burglary,State Bail Bond,2-6 Years,100000
+470,Felony,Forgery,State Bail Bond,16 Months to 3 Years,75000
+484,Misdemeanor,Petty Theft,Personal Recognizance,Up to 6 Months,2500
+487,Felony,Grand Theft,State Bail Bond,16 Months to 3 Years,75000
+496,Felony,Receiving Stolen Property,State Bail Bond,16 Months to 3 Years,75000
+503,Felony,Embezzlement,State Bail Bond,16 Months to 3 Years,75000
+518,Felony,Extortion,State Bail Bond,2-4 Years,100000
+528,Misdemeanor,False Personation,Personal Recognizance,Up to 1 Year,5000
+594,Misdemeanor,Vandalism,Personal Recognizance,Up to 1 Year,5000
+597,Felony,Animal Cruelty,State Bail Bond,16 Months to 3 Years,75000
+602,Misdemeanor,Trespassing,Personal Recognizance,Up to 6 Months,2500
+646.9,Felony,Stalking,State Bail Bond,2-5 Years,75000
+647(b),Misdemeanor,Prostitution,Personal Recognizance,Up to 6 Months,2500
+647(f),Misdemeanor,Public Intoxication,Personal Recognizance,Up to 6 Months,2500
+664,Felony,Attempted Crime,Varies,Varies,Varies
+29800,Felony,Felon in Possession of a Firearm,State Bail Bond,16 Months to 3 Years,75000
+33215,Felony,Possession of Short-Barreled Rifle or Shotgun,State Bail Bond,16 Months to 3 Years,75000
+30305,Felony,Prohibited Person in Possession of Ammunition,State Bail Bond,16 Months to 3 Years,75000
+25400,Felony,Carrying a Concealed Firearm,State Bail Bond,16 Months to 3 Years,75000
+25850,Felony,Carrying a Loaded Firearm in Public,State Bail Bond,16 Months to 3 Years,75000
+27545,Misdemeanor,Unlawful Transfer of Firearm,Personal Recognizance,Up to 6 Months,2500
+30605,Felony,Possession of Assault Weapon,State Bail Bond,16 Months to 3 Years,75000
+33210,Felony,Possession of a Machine Gun,State Bail Bond,16 Months to 3 Years,75000
+33410,Felony,Possession of a Silencer,State Bail Bond,16 Months to 3 Years,75000
+186.22,Felony,Participation in a Criminal Street Gang,State Bail Bond,16 Months to 3 Years,75000
+12022.7,Felony,Infliction of Great Bodily Injury,State Bail Bond,3-6 Years,100000
+12022.5,Felony,Use of Firearm in Commission of Felony,State Bail Bond,3-10 Years,150000
+12034,Felony,Discharge of Firearm from Vehicle,State Bail Bond,3-7 Years,100000
+26100,Felony,Drive-By Shooting,State Bail Bond,3-7 Years,100000
+273a,Felony,Child Endangerment,State Bail Bond,2-6 Years,100000
+273d,Felony,Child Abuse,State Bail Bond,2-6 Years,100000
+422.6,Misdemeanor,Hate Crime,Personal Recognizance,Up to 1 Year,5000
+529,Felony,False Impersonation,State Bail Bond,16 Months to 3 Years,75000
+530.5,Felony,Identity Theft,State Bail Bond,16 Months to 3 Years,75000
+646.9,Felony,Stalking,State Bail Bond,2-5 Years,75000
+653.2,Misdemeanor,Cyber Harassment,Personal Recognizance,Up to 1 Year,5000
+653m,Misdemeanor,Annoying Phone Calls,Personal Recognizance,Up to 6 Months,2500
