@@ -1,0 +1,48 @@
+code,type,title,bondType,jailTime,bondAmount
+11.41.100,Felony,Murder in the First Degree,Federal Bail Bond,20-99 Years,500000
+11.41.110,Felony,Murder in the Second Degree,Federal Bail Bond,10-99 Years,400000
+11.41.120,Felony,Manslaughter,State Bail Bond,5-20 Years,250000
+11.41.130,Felony,Criminally Negligent Homicide,State Bail Bond,1-5 Years,100000
+11.41.200,Felony,Assault in the First Degree,State Bail Bond,5-20 Years,200000
+11.41.210,Felony,Assault in the Second Degree,State Bail Bond,1-10 Years,150000
+11.41.220,Felony,Assault in the Third Degree,State Bail Bond,1-5 Years,100000
+11.41.230,Misdemeanor,Assault in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+11.41.250,Misdemeanor,Reckless Endangerment,Personal Recognizance,Up to 1 Year,5000
+11.41.260,Felony,Stalking in the First Degree,State Bail Bond,1-5 Years,75000
+11.41.270,Misdemeanor,Stalking in the Second Degree,Personal Recognizance,Up to 1 Year,5000
+11.41.300,Felony,Kidnapping,Federal Bail Bond,5-99 Years,500000
+11.41.320,Felony,Custodial Interference in the First Degree,State Bail Bond,1-5 Years,100000
+11.41.330,Misdemeanor,Custodial Interference in the Second Degree,Personal Recognizance,Up to 1 Year,5000
+11.41.410,Felony,Sexual Assault in the First Degree,Federal Bail Bond,5-99 Years,500000
+11.41.420,Felony,Sexual Assault in the Second Degree,State Bail Bond,1-10 Years,150000
+11.41.425,Felony,Sexual Assault in the Third Degree,State Bail Bond,1-5 Years,100000
+11.41.427,Misdemeanor,Sexual Assault in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+11.41.434,Felony,Sexual Abuse of a Minor in the First Degree,Federal Bail Bond,5-99 Years,500000
+11.41.436,Felony,Sexual Abuse of a Minor in the Second Degree,State Bail Bond,1-10 Years,150000
+11.41.438,Felony,Sexual Abuse of a Minor in the Third Degree,State Bail Bond,1-5 Years,100000
+11.41.440,Misdemeanor,Sexual Abuse of a Minor in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+11.41.450,Felony,Incest,State Bail Bond,1-5 Years,100000
+11.41.455,Felony,Unlawful Exploitation of a Minor,Federal Bail Bond,5-99 Years,500000
+11.41.500,Felony,Robbery in the First Degree,Federal Bail Bond,5-99 Years,500000
+11.41.510,Felony,Robbery in the Second Degree,State Bail Bond,1-10 Years,150000
+11.41.520,Felony,Extortion,State Bail Bond,1-5 Years,100000
+11.41.530,Misdemeanor,Coercion,Personal Recognizance,Up to 1 Year,5000
+11.46.100,Felony,Theft in the First Degree,State Bail Bond,1-10 Years,150000
+11.46.120,Felony,Theft in the Second Degree,State Bail Bond,1-5 Years,100000
+11.46.130,Misdemeanor,Theft in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.140,Misdemeanor,Theft in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.150,Felony,Theft by Receiving,State Bail Bond,1-5 Years,100000
+11.46.180,Felony,Theft of Services,State Bail Bond,1-5 Years,100000
+11.46.190,Misdemeanor,Unauthorized Use of Vehicle or Property,Personal Recognizance,Up to 1 Year,5000
+11.46.300,Felony,Burglary in the First Degree,State Bail Bond,1-10 Years,150000
+11.46.310,Felony,Burglary in the Second Degree,State Bail Bond,1-5 Years,100000
+11.46.320,Misdemeanor,Criminal Trespass in the First Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.330,Misdemeanor,Criminal Trespass in the Second Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.400,Felony,Arson in the First Degree,Federal Bail Bond,5-99 Years,500000
+11.46.410,Felony,Arson in the Second Degree,State Bail Bond,1-10 Years,150000
+11.46.420,Misdemeanor,Arson in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.475,Felony,Criminal Mischief in the First Degree,State Bail Bond,1-10 Years,150000
+11.46.480,Felony,Criminal Mischief in the Second Degree,State Bail Bond,1-5 Years,100000
+11.46.482,Misdemeanor,Criminal Mischief in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+11.46.484,Misdemeanor,Criminal Mischief in the Fourth Degree,Personal Recognizance,Up to 1 Year,5000
+11.51.100,Felony,Endangering the Welfare of a Child in the First Degree,State Bail Bond,1-10 Years,150000
