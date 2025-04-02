@@ -27,7 +27,7 @@ code,type,title,bondType,jailTime,bondAmount
 (CO)18-4-302,Felony,Aggravated Robbery,Federal Bail Bond,10-32 Years,300000
 (CO)18-4-401,Felony,"Theft (over $2,000)",State Bail Bond,2-6 Years,150000
 (CO)18-4-409,Felony,Motor Vehicle Theft,State Bail Bond,2-6 Years,150000
-(CO)18-4-501,Misdemeanor,Criminal Mischief (damage under $1,000),Personal Recognizance,Up to 1 Year,5000
+(CO)18-4-501,Misdemeanor,Criminal Mischief (damage under $1,Personal Recognizance,Up to 1 Year,3000
 (CO)18-4-502,Misdemeanor,First Degree Criminal Trespass,Personal Recognizance,Up to 18 Months,5000
 (CO)18-4-503,Misdemeanor,Second Degree Criminal Trespass,Personal Recognizance,Up to 6 Months,2500
 (CO)18-4-504,Misdemeanor,Third Degree Criminal Trespass,Personal Recognizance,Up to 30 Days,1000
