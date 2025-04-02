@@ -1,0 +1,54 @@
+code,type,title,bondType,jailTime,bondAmount
+(DE)11-601,Felony,Assault in the First Degree,Cash Bond,2-25 Years,50000
+(DE)11-602,Felony,Assault in the Second Degree,Cash Bond,1-8 Years,30000
+(DE)11-603,Misdemeanor,Assault in the Third Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-604,Felony,Reckless Endangering in the First Degree,Cash Bond,Up to 5 Years,20000
+(DE)11-605,Misdemeanor,Reckless Endangering in the Second Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-611,Felony,Aggravated Menacing,Cash Bond,Up to 5 Years,20000
+(DE)11-612,Misdemeanor,Menacing,Recognizance Bond,Up to 1 Year,5000
+(DE)11-613,Felony,Terroristic Threatening,Cash Bond,Up to 5 Years,20000
+(DE)11-621,Felony,Unlawful Imprisonment in the First Degree,Cash Bond,Up to 8 Years,30000
+(DE)11-622,Misdemeanor,Unlawful Imprisonment in the Second Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-625,Felony,Kidnapping in the First Degree,Cash Bond,15 Years to Life,100000
+(DE)11-626,Felony,Kidnapping in the Second Degree,Cash Bond,2-25 Years,50000
+(DE)11-631,Felony,Murder in the First Degree,No Bond,Life Imprisonment,None
+(DE)11-632,Felony,Murder in the Second Degree,No Bond,15 Years to Life,None
+(DE)11-635,Felony,Manslaughter,Cash Bond,Up to 25 Years,75000
+(DE)11-636,Felony,Criminally Negligent Homicide,Cash Bond,Up to 5 Years,20000
+(DE)11-761,Felony,Rape in the First Degree,No Bond,15 Years to Life,None
+(DE)11-762,Felony,Rape in the Second Degree,Cash Bond,10-25 Years,100000
+(DE)11-763,Felony,Rape in the Third Degree,Cash Bond,2-25 Years,50000
+(DE)11-764,Felony,Rape in the Fourth Degree,Cash Bond,Up to 15 Years,30000
+(DE)11-801,Felony,Arson in the First Degree,Cash Bond,2-25 Years,50000
+(DE)11-802,Felony,Arson in the Second Degree,Cash Bond,Up to 8 Years,30000
+(DE)11-803,Misdemeanor,Arson in the Third Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-811,Felony,Criminal Mischief (Felony),Cash Bond,Up to 5 Years,20000
+(DE)11-812,Misdemeanor,Criminal Mischief (Misdemeanor),Recognizance Bond,Up to 1 Year,5000
+(DE)11-821,Felony,Burglary in the First Degree,Cash Bond,2-25 Years,50000
+(DE)11-822,Felony,Burglary in the Second Degree,Cash Bond,Up to 8 Years,30000
+(DE)11-823,Misdemeanor,Burglary in the Third Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-831,Felony,Robbery in the First Degree,Cash Bond,2-25 Years,50000
+(DE)11-832,Felony,Robbery in the Second Degree,Cash Bond,Up to 8 Years,30000
+(DE)11-841,Felony,Theft (Felony),Cash Bond,Up to 5 Years,20000
+(DE)11-842,Misdemeanor,Theft (Misdemeanor),Recognizance Bond,Up to 1 Year,5000
+(DE)11-851,Felony,Extortion,Cash Bond,Up to 5 Years,20000
+(DE)11-861,Felony,Identity Theft,Cash Bond,Up to 5 Years,20000
+(DE)11-871,Felony,Forgery in the First Degree,Cash Bond,Up to 5 Years,20000
+(DE)11-872,Felony,Forgery in the Second Degree,Cash Bond,Up to 3 Years,15000
+(DE)11-873,Misdemeanor,Forgery in the Third Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-881,Felony,Issuing a Bad Check (Felony),Cash Bond,Up to 3 Years,15000
+(DE)11-882,Misdemeanor,Issuing a Bad Check (Misdemeanor),Recognizance Bond,Up to 1 Year,5000
+(DE)11-901,Felony,Bribery,Cash Bond,Up to 5 Years,20000
+(DE)11-911,Felony,Perjury in the First Degree,Cash Bond,Up to 5 Years,20000
+(DE)11-912,Misdemeanor,Perjury in the Second Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-921,Felony,Escape in the First Degree,Cash Bond,Up to 5 Years,20000
+(DE)11-922,Misdemeanor,Escape in the Second Degree,Recognizance Bond,Up to 1 Year,5000
+(DE)11-931,Felony,Resisting Arrest with Force or Violence,Cash Bond,Up to 5 Years,20000
+(DE)11-932,Misdemeanor,Resisting Arrest,Recognizance Bond,Up to 1 Year,5000
+(DE)11-1105,Felony,Endangering the Welfare of a Child,Cash Bond,Up to 5 Years,20000
+(DE)11-1250,Misdemeanor,Offensive Touching,Recognizance Bond,Up to 1 Year,5000
+(DE)11-1301,Misdemeanor,Disorderly Conduct,Recognizance Bond,Up to 1 Year,5000
+(DE)11-1335,Felony,Violation of Privacy,Cash Bond,Up to 3 Years,15000
+(DE)11-1442,Felony,Carrying a Concealed Deadly Weapon,Cash Bond,Up to 5 Years,20000
+(DE)11-1444,Felony,Possessing a Destructive Weapon,Cash Bond,Up to 5 Years,20000
+(DE)11-1457,Felony,Possession of a Weapon in a Safe School and Recreation Zone,Cash Bond,Up to 5 Years,20000

@@ -1,0 +1,50 @@
+code,type,title,bondType,jailTime,bondAmount
+(FL)782.04,Felony,First Degree Murder,No Bond,Life,0
+(FL)782.07,Felony,Manslaughter,Cash Bond,Up to 15 Years,100000
+(FL)784.021,Felony,Aggravated Assault,Surety Bond,Up to 5 Years,25000
+(FL)784.045,Felony,Aggravated Battery,Cash Bond,Up to 15 Years,50000
+(FL)787.01,Felony,Kidnapping,No Bond,Up to Life,0
+(FL)787.02,Felony,False Imprisonment,Surety Bond,Up to 5 Years,20000
+(FL)794.011,Felony,Sexual Battery,No Bond,Up to Life,0
+(FL)806.01,Felony,Arson,Cash Bond,Up to 30 Years,75000
+(FL)810.02,Felony,Burglary,Surety Bond,Up to 15 Years,30000
+(FL)812.014,Felony,Grand Theft,Surety Bond,Up to 5 Years,10000
+(FL)812.13,Felony,Robbery,Cash Bond,Up to 15 Years,50000
+(FL)812.133,Felony,Carjacking,No Bond,Up to Life,0
+(FL)817.034,Felony,Scheme to Defraud,Surety Bond,Up to 30 Years,50000
+(FL)825.102,Felony,Abuse of Elderly Person or Disabled Adult,Cash Bond,Up to 5 Years,25000
+(FL)827.03,Felony,Child Abuse,Surety Bond,Up to 5 Years,20000
+(FL)831.01,Felony,Forgery,Surety Bond,Up to 5 Years,10000
+(FL)831.02,Felony,Uttering Forged Instruments,Surety Bond,Up to 5 Years,10000
+(FL)837.02,Felony,Perjury in Official Proceedings,Surety Bond,Up to 5 Years,10000
+(FL)843.01,Felony,Resisting Officer with Violence,Surety Bond,Up to 5 Years,15000
+(FL)843.025,Misdemeanor,Depriving Officer of Means of Protection or Communication,Recognizance Bond,Up to 1 Year,5000
+(FL)843.15,Felony,Failure to Appear,Surety Bond,Up to 5 Years,10000
+(FL)847.0135,Felony,Computer Pornography,Cash Bond,Up to 15 Years,50000
+(FL)893.13,Felony,Selling Controlled Substance,Cash Bond,Up to 15 Years,50000
+(FL)893.135,Felony,Trafficking in Controlled Substances,No Bond,Up to Life,0
+(FL)316.193,Felony,DUI Manslaughter,Cash Bond,Up to 15 Years,100000
+(FL)322.34,Felony,Driving While License Suspended (Habitual Offender),Surety Bond,Up to 5 Years,10000
+(FL)322.36,Misdemeanor,Permitting Unauthorized Person to Drive,Recognizance Bond,Up to 60 Days,1000
+(FL)806.13,Misdemeanor,Criminal Mischief (Damage Under $200),Recognizance Bond,Up to 60 Days,500
+(FL)806.13,Misdemeanor,Criminal Mischief (Damage $200-$1000),Recognizance Bond,Up to 1 Year,1000
+(FL)812.014,Misdemeanor,Petit Theft (First Degree),Recognizance Bond,Up to 1 Year,1000
+(FL)812.014,Misdemeanor,Petit Theft (Second Degree),Recognizance Bond,Up to 60 Days,500
+(FL)784.03,Misdemeanor,Battery,Recognizance Bond,Up to 1 Year,1000
+(FL)784.011,Misdemeanor,Assault,Recognizance Bond,Up to 60 Days,500
+(FL)870.01,Misdemeanor,Affrays and Riots,Recognizance Bond,Up to 1 Year,1000
+(FL)856.011,Misdemeanor,Disorderly Intoxication,Recognizance Bond,Up to 60 Days,500
+(FL)856.015,Misdemeanor,Open House Parties,Recognizance Bond,Up to 60 Days,500
+(FL)562.11,Misdemeanor,Possession of Alcohol by Person Under 21,Recognizance Bond,Up to 60 Days,500
+(FL)562.111,Misdemeanor,Possession of Tobacco by Person Under 21,Recognizance Bond,Up to 30 Days,250
+(FL)806.101,Felony,False Alarm of Fire,Surety Bond,Up to 5 Years,10000
+(FL)810.08,Misdemeanor,Trespass in Structure or Conveyance,Recognizance Bond,Up to 1 Year,1000
+(FL)810.09,Misdemeanor,Trespass on Property Other Than Structure or Conveyance,Recognizance Bond,Up to 60 Days,500
+(FL)812.015,Misdemeanor,Retail Theft,Recognizance Bond,Up to 1 Year,1000
+(FL)817.568,Felony,Criminal Use of Personal Identification Information,Cash Bond,Up to 5 Years,25000
+(FL)843.02,Misdemeanor,Resisting Officer Without Violence,Recognizance Bond,Up to 1 Year,1000
+(FL)870.03,Felony,Inciting a Riot,Surety Bond,Up to 5 Years,10000
+(FL)893.147,Misdemeanor,Use or Possession of Drug Paraphernalia,Recognizance Bond,Up to 1 Year,1000
+(FL)918.12,Felony,Tampering with or Fabricating Physical Evidence,Surety Bond,Up to 5 Years,10000
+(FL)944.40,Felony,Escapes,Surety Bond,Up to 15 Years,30000
+(FL)948.06,Felony,Violation of Probation or Community Control,No Bond,Determined by Court,0

@@ -1,53 +1,53 @@
 code,type,title,bondType,jailTime,bondAmount
-13-1105,Felony,First Degree Murder,Federal Bail Bond,25 Years to Life,500000
-13-1104,Felony,Second Degree Murder,Federal Bail Bond,10-25 Years,400000
-13-1103,Felony,Manslaughter,State Bail Bond,7-21 Years,250000
-13-1102,Felony,Negligent Homicide,State Bail Bond,1-3.75 Years,100000
-13-1204,Felony,Aggravated Assault,State Bail Bond,5-15 Years,150000
-13-1203,Misdemeanor,Assault,Personal Recognizance,Up to 1 Year,5000
-13-1304,Felony,Kidnapping,Federal Bail Bond,5-21 Years,200000
-13-1406,Felony,Sexual Assault,Federal Bail Bond,5-14 Years,250000
-13-1508,Felony,Burglary in the First Degree,State Bail Bond,7-21 Years,150000
-13-1507,Felony,Burglary in the Second Degree,State Bail Bond,5-15 Years,100000
-13-1506,Felony,Burglary in the Third Degree,State Bail Bond,2-8.75 Years,75000
-13-1603,Misdemeanor,Criminal Damage,Personal Recognizance,Up to 1 Year,5000
-13-1703,Felony,Arson of an Occupied Structure,Federal Bail Bond,7-21 Years,200000
-13-1702,Felony,Arson of a Structure or Property,State Bail Bond,2-8.75 Years,100000
-13-1802,Felony,Theft,State Bail Bond,1-15 Years,Varies
-13-1904,Felony,Armed Robbery,Federal Bail Bond,7-21 Years,250000
-13-1903,Felony,Robbery,State Bail Bond,5-15 Years,150000
-13-2002,Felony,Forgery,State Bail Bond,2-8.75 Years,75000
-13-2102,Felony,Theft of a Credit Card,State Bail Bond,1-15 Years,Varies
-13-2308,Felony,Participating in a Criminal Syndicate,Federal Bail Bond,5-15 Years,200000
-13-2503,Felony,Escape in the Second Degree,State Bail Bond,2-8.75 Years,75000
-13-2602,Felony,Bribery of a Public Servant,State Bail Bond,2-8.75 Years,100000
-13-2702,Felony,Perjury,State Bail Bond,2-8.75 Years,75000
-13-2802,Felony,Influencing a Witness,State Bail Bond,2-8.75 Years,75000
-13-2904,Misdemeanor,Disorderly Conduct,Personal Recognizance,Up to 6 Months,2500
-13-3102,Felony,Misconduct Involving Weapons,State Bail Bond,2-12.5 Years,100000
-13-3204,Misdemeanor,Prostitution,Personal Recognizance,Up to 6 Months,2500
-13-3303,Misdemeanor,Promoting Gambling,Personal Recognizance,Up to 6 Months,2500
-13-3405,Felony,Possession of Marijuana,State Bail Bond,1-3.75 Years,10000
-13-3407,Felony,Possession of Dangerous Drugs,State Bail Bond,1-3.75 Years,15000
-13-3408,Felony,Possession of Narcotic Drugs,State Bail Bond,1-3.75 Years,20000
-13-3415,Felony,Possession of Drug Paraphernalia,State Bail Bond,1-3.75 Years,5000
-13-3506,Felony,Furnishing Harmful Items to Minors,State Bail Bond,1-3.75 Years,10000
-13-3553,Felony,Sexual Exploitation of a Minor,Federal Bail Bond,10-24 Years,250000
-13-3601,Felony,Domestic Violence,State Bail Bond,1-15 Years,Varies
-13-3623,Felony,Child Abuse,State Bail Bond,2-12.5 Years,150000
-13-3704,Misdemeanor,Unlawful Use of Food Stamps,Personal Recognizance,Up to 6 Months,2500
-13-3806,Misdemeanor,Failure to Report a Crime,Personal Recognizance,Up to 6 Months,2500
-13-3904,Misdemeanor,Violation of Promise to Appear,Personal Recognizance,Up to 6 Months,2500
-13-4005,Felony,Failure to Appear in the First Degree,State Bail Bond,2-8.75 Years,75000
-13-4405,Misdemeanor,Interfering with Judicial Proceedings,Personal Recognizance,Up to 6 Months,2500
-13-4505,Felony,Unlawful Flight from Law Enforcement,State Bail Bond,2-8.75 Years,75000
-13-5005,Felony,Computer Tampering,State Bail Bond,1-15 Years,Varies
-13-6005,Felony,Identity Theft,State Bail Bond,1-15 Years,Varies
-13-7005,Felony,Terrorism,Federal Bail Bond,10-25 Years,500000
-13-8005,Felony,Environmental Violations,State Bail Bond,1-15 Years,Varies
-13-9005,Felony,Human Trafficking,Federal Bail Bond,10-25 Years,500000
-13-10005,Felony,Money Laundering,State Bail Bond,2-12.5 Years,150000
-13-11005,Felony,Aggravated Identity Theft,Federal Bail Bond,2-12.5 Years,200000
-13-12005,Felony,Smuggling,State Bail Bond,2-12.5 Years,150000
-13-13005,Felony,Extortion,Federal Bail Bond,5-15 Years,250000
-13-14005,Felony,Embezzlement,State Bail Bond,2-12.5 Years,Varies
+(AZ)13-1105,Felony,First Degree Murder,Federal Bail Bond,25 Years to Life,500000
+(AZ)13-1104,Felony,Second Degree Murder,Federal Bail Bond,10-25 Years,400000
+(AZ)13-1103,Felony,Manslaughter,State Bail Bond,7-21 Years,250000
+(AZ)13-1102,Felony,Negligent Homicide,State Bail Bond,1-3.75 Years,100000
+(AZ)13-1204,Felony,Aggravated Assault,State Bail Bond,5-15 Years,150000
+(AZ)13-1203,Misdemeanor,Assault,Personal Recognizance,Up to 1 Year,5000
+(AZ)13-1304,Felony,Kidnapping,Federal Bail Bond,5-21 Years,200000
+(AZ)13-1406,Felony,Sexual Assault,Federal Bail Bond,5-14 Years,250000
+(AZ)13-1508,Felony,Burglary in the First Degree,State Bail Bond,7-21 Years,150000
+(AZ)13-1507,Felony,Burglary in the Second Degree,State Bail Bond,5-15 Years,100000
+(AZ)13-1506,Felony,Burglary in the Third Degree,State Bail Bond,2-8.75 Years,75000
+(AZ)13-1603,Misdemeanor,Criminal Damage,Personal Recognizance,Up to 1 Year,5000
+(AZ)13-1703,Felony,Arson of an Occupied Structure,Federal Bail Bond,7-21 Years,200000
+(AZ)13-1702,Felony,Arson of a Structure or Property,State Bail Bond,2-8.75 Years,100000
+(AZ)13-1802,Felony,Theft,State Bail Bond,1-15 Years,Varies
+(AZ)13-1904,Felony,Armed Robbery,Federal Bail Bond,7-21 Years,250000
+(AZ)13-1903,Felony,Robbery,State Bail Bond,5-15 Years,150000
+(AZ)13-2002,Felony,Forgery,State Bail Bond,2-8.75 Years,75000
+(AZ)13-2102,Felony,Theft of a Credit Card,State Bail Bond,1-15 Years,Varies
+(AZ)13-2308,Felony,Participating in a Criminal Syndicate,Federal Bail Bond,5-15 Years,200000
+(AZ)13-2503,Felony,Escape in the Second Degree,State Bail Bond,2-8.75 Years,75000
+(AZ)13-2602,Felony,Bribery of a Public Servant,State Bail Bond,2-8.75 Years,100000
+(AZ)13-2702,Felony,Perjury,State Bail Bond,2-8.75 Years,75000
+(AZ)13-2802,Felony,Influencing a Witness,State Bail Bond,2-8.75 Years,75000
+(AZ)13-2904,Misdemeanor,Disorderly Conduct,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-3102,Felony,Misconduct Involving Weapons,State Bail Bond,2-12.5 Years,100000
+(AZ)13-3204,Misdemeanor,Prostitution,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-3303,Misdemeanor,Promoting Gambling,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-3405,Felony,Possession of Marijuana,State Bail Bond,1-3.75 Years,10000
+(AZ)13-3407,Felony,Possession of Dangerous Drugs,State Bail Bond,1-3.75 Years,15000
+(AZ)13-3408,Felony,Possession of Narcotic Drugs,State Bail Bond,1-3.75 Years,20000
+(AZ)13-3415,Felony,Possession of Drug Paraphernalia,State Bail Bond,1-3.75 Years,5000
+(AZ)13-3506,Felony,Furnishing Harmful Items to Minors,State Bail Bond,1-3.75 Years,10000
+(AZ)13-3553,Felony,Sexual Exploitation of a Minor,Federal Bail Bond,10-24 Years,250000
+(AZ)13-3601,Felony,Domestic Violence,State Bail Bond,1-15 Years,Varies
+(AZ)13-3623,Felony,Child Abuse,State Bail Bond,2-12.5 Years,150000
+(AZ)13-3704,Misdemeanor,Unlawful Use of Food Stamps,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-3806,Misdemeanor,Failure to Report a Crime,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-3904,Misdemeanor,Violation of Promise to Appear,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-4005,Felony,Failure to Appear in the First Degree,State Bail Bond,2-8.75 Years,75000
+(AZ)13-4405,Misdemeanor,Interfering with Judicial Proceedings,Personal Recognizance,Up to 6 Months,2500
+(AZ)13-4505,Felony,Unlawful Flight from Law Enforcement,State Bail Bond,2-8.75 Years,75000
+(AZ)13-5005,Felony,Computer Tampering,State Bail Bond,1-15 Years,Varies
+(AZ)13-6005,Felony,Identity Theft,State Bail Bond,1-15 Years,Varies
+(AZ)13-7005,Felony,Terrorism,Federal Bail Bond,10-25 Years,500000
+(AZ)13-8005,Felony,Environmental Violations,State Bail Bond,1-15 Years,Varies
+(AZ)13-9005,Felony,Human Trafficking,Federal Bail Bond,10-25 Years,500000
+(AZ)13-10005,Felony,Money Laundering,State Bail Bond,2-12.5 Years,150000
+(AZ)13-11005,Felony,Aggravated Identity Theft,Federal Bail Bond,2-12.5 Years,200000
+(AZ)13-12005,Felony,Smuggling,State Bail Bond,2-12.5 Years,150000
+(AZ)13-13005,Felony,Extortion,Federal Bail Bond,5-15 Years,250000
+(AZ)13-14005,Felony,Embezzlement,State Bail Bond,2-12.5 Years,Varies

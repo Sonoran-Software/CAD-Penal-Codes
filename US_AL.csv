@@ -1,47 +1,47 @@
 code,type,title,bondType,jailTime,bondAmount
-13A-6-1,Felony,Murder,Federal Bail Bond,10-99 Years,500000
-13A-6-2,Felony,Manslaughter,Federal Bail Bond,2-20 Years,100000
-13A-6-3,Felony,Criminally Negligent Homicide,State Bail Bond,1-5 Years,50000
-13A-6-20,Felony,Assault in the First Degree,State Bail Bond,2-20 Years,100000
-13A-6-21,Felony,Assault in the Second Degree,State Bail Bond,1-10 Years,75000
-13A-6-22,Misdemeanor,Assault in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-6-23,Misdemeanor,Reckless Endangerment,Personal Recognizance,Up to 6 Months,2500
-13A-6-24,Misdemeanor,Menacing,Personal Recognizance,Up to 6 Months,2500
-13A-6-25,Misdemeanor,Criminal Coercion,Personal Recognizance,Up to 6 Months,2500
-13A-6-26,Felony,Compelling Street Gang Membership,State Bail Bond,2-10 Years,50000
-13A-6-30,Felony,Kidnapping in the First Degree,Federal Bail Bond,10-99 Years,250000
-13A-6-31,Felony,Kidnapping in the Second Degree,State Bail Bond,2-20 Years,100000
-13A-6-40,Felony,Rape in the First Degree,Federal Bail Bond,10-99 Years,500000
-13A-6-41,Felony,Rape in the Second Degree,State Bail Bond,2-20 Years,100000
-13A-6-60,Felony,Sodomy in the First Degree,Federal Bail Bond,10-99 Years,500000
-13A-6-61,Felony,Sodomy in the Second Degree,State Bail Bond,2-20 Years,100000
-13A-6-65,Felony,Sexual Abuse in the First Degree,State Bail Bond,1-10 Years,75000
-13A-6-66,Misdemeanor,Sexual Abuse in the Second Degree,Personal Recognizance,Up to 1 Year,5000
-13A-6-90,Felony,Stalking in the First Degree,State Bail Bond,1-10 Years,75000
-13A-6-91,Misdemeanor,Stalking in the Second Degree,Personal Recognizance,Up to 6 Months,2500
-13A-6-130,Felony,Domestic Violence in the First Degree,State Bail Bond,2-20 Years,100000
-13A-6-131,Felony,Domestic Violence in the Second Degree,State Bail Bond,1-10 Years,75000
-13A-6-132,Misdemeanor,Domestic Violence in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-7-1,Felony,Burglary in the First Degree,Federal Bail Bond,10-99 Years,250000
-13A-7-2,Felony,Burglary in the Second Degree,State Bail Bond,2-20 Years,100000
-13A-7-3,Felony,Burglary in the Third Degree,State Bail Bond,1-10 Years,75000
-13A-7-5,Felony,Arson in the First Degree,Federal Bail Bond,10-99 Years,250000
-13A-7-6,Felony,Arson in the Second Degree,State Bail Bond,2-20 Years,100000
-13A-7-7,Misdemeanor,Arson in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-7-21,Felony,Criminal Mischief in the First Degree,State Bail Bond,1-10 Years,75000
-13A-7-22,Misdemeanor,Criminal Mischief in the Second Degree,Personal Recognizance,Up to 6 Months,2500
-13A-7-23,Misdemeanor,Criminal Mischief in the Third Degree,Personal Recognizance,Up to 30 Days,1000
-13A-7-27,Misdemeanor,Criminal Trespass in the First Degree,Personal Recognizance,Up to 1 Year,5000
-13A-7-28,Misdemeanor,Criminal Trespass in the Second Degree,Personal Recognizance,Up to 6 Months,2500
-13A-7-29,Violation,Criminal Trespass in the Third Degree,None,Up to 30 Days,500
-13A-8-2,Felony,Theft of Property in the First Degree,State Bail Bond,2-20 Years,100000
-13A-8-3,Felony,Theft of Property in the Second Degree,State Bail Bond,1-10 Years,75000
-13A-8-4,Misdemeanor,Theft of Property in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-8-5,Misdemeanor,Theft of Property in the Fourth Degree,Personal Recognizance,Up to 6 Months,2500
-13A-8-9,Felony,Theft of Services in the First Degree,State Bail Bond,2-20 Years,100000
-13A-8-10,Felony,Theft of Services in the Second Degree,State Bail Bond,1-10 Years,75000
-13A-8-11,Misdemeanor,Theft of Services in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-8-18,Felony,Receiving Stolen Property in the First Degree,State Bail Bond,2-20 Years,100000
-13A-8-19,Felony,Receiving Stolen Property in the Second Degree,State Bail Bond,1-10 Years,75000
-13A-8-20,Misdemeanor,Receiving Stolen Property in the Third Degree,Personal Recognizance,Up to 1 Year,5000
-13A-8-40,Felony,Robbery in the First Degree,Federal Bail Bond,10-99 Years,250000
+(AL)13A-6-1,Felony,Murder,Federal Bail Bond,10-99 Years,500000
+(AL)13A-6-2,Felony,Manslaughter,Federal Bail Bond,2-20 Years,100000
+(AL)13A-6-3,Felony,Criminally Negligent Homicide,State Bail Bond,1-5 Years,50000
+(AL)13A-6-20,Felony,Assault in the First Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-6-21,Felony,Assault in the Second Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-6-22,Misdemeanor,Assault in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-6-23,Misdemeanor,Reckless Endangerment,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-6-24,Misdemeanor,Menacing,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-6-25,Misdemeanor,Criminal Coercion,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-6-26,Felony,Compelling Street Gang Membership,State Bail Bond,2-10 Years,50000
+(AL)13A-6-30,Felony,Kidnapping in the First Degree,Federal Bail Bond,10-99 Years,250000
+(AL)13A-6-31,Felony,Kidnapping in the Second Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-6-40,Felony,Rape in the First Degree,Federal Bail Bond,10-99 Years,500000
+(AL)13A-6-41,Felony,Rape in the Second Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-6-60,Felony,Sodomy in the First Degree,Federal Bail Bond,10-99 Years,500000
+(AL)13A-6-61,Felony,Sodomy in the Second Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-6-65,Felony,Sexual Abuse in the First Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-6-66,Misdemeanor,Sexual Abuse in the Second Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-6-90,Felony,Stalking in the First Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-6-91,Misdemeanor,Stalking in the Second Degree,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-6-130,Felony,Domestic Violence in the First Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-6-131,Felony,Domestic Violence in the Second Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-6-132,Misdemeanor,Domestic Violence in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-7-1,Felony,Burglary in the First Degree,Federal Bail Bond,10-99 Years,250000
+(AL)13A-7-2,Felony,Burglary in the Second Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-7-3,Felony,Burglary in the Third Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-7-5,Felony,Arson in the First Degree,Federal Bail Bond,10-99 Years,250000
+(AL)13A-7-6,Felony,Arson in the Second Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-7-7,Misdemeanor,Arson in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-7-21,Felony,Criminal Mischief in the First Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-7-22,Misdemeanor,Criminal Mischief in the Second Degree,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-7-23,Misdemeanor,Criminal Mischief in the Third Degree,Personal Recognizance,Up to 30 Days,1000
+(AL)13A-7-27,Misdemeanor,Criminal Trespass in the First Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-7-28,Misdemeanor,Criminal Trespass in the Second Degree,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-7-29,Violation,Criminal Trespass in the Third Degree,None,Up to 30 Days,500
+(AL)13A-8-2,Felony,Theft of Property in the First Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-8-3,Felony,Theft of Property in the Second Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-8-4,Misdemeanor,Theft of Property in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-8-5,Misdemeanor,Theft of Property in the Fourth Degree,Personal Recognizance,Up to 6 Months,2500
+(AL)13A-8-9,Felony,Theft of Services in the First Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-8-10,Felony,Theft of Services in the Second Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-8-11,Misdemeanor,Theft of Services in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-8-18,Felony,Receiving Stolen Property in the First Degree,State Bail Bond,2-20 Years,100000
+(AL)13A-8-19,Felony,Receiving Stolen Property in the Second Degree,State Bail Bond,1-10 Years,75000
+(AL)13A-8-20,Misdemeanor,Receiving Stolen Property in the Third Degree,Personal Recognizance,Up to 1 Year,5000
+(AL)13A-8-40,Felony,Robbery in the First Degree,Federal Bail Bond,10-99 Years,250000
