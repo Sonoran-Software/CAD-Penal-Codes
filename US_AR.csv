@@ -34,14 +34,14 @@ code,type,title,bondType,jailTime,bondAmount
 (AR)5-14-202,Misdemeanor,Public Display of Obscene Material,Personal Recognizance,Up to 1 Year,5000
 (AR)5-14-203,Felony,Promoting Obscene Materials,Federal Bail Bond,3-10 Years,150000
 (AR)5-14-204,Felony,Promoting Obscene Performance,Federal Bail Bond,3-10 Years,150000
-(AR)5-14-205,"Misdemeanor,Obscene Performance at a Live Publicly Exhibited Play, Dance, or Other Performance",Personal Recognizance,Up to 1 Year,5000
-(AR)5-14-206,Felony,Use of a Child in a Sexual Performance,Federal Bail Bond,5-20 Years,200000,N/A
-(AR)5-14-207,Felony,Producing, Directing, or Promoting a Sexual Performance by a Child,Federal Bail Bond,5-20 Years,200000
+(AR)5-14-205,Misdemeanor,"Obscene Performance at a Live Publicly Exhibited Play, Dance, or Other Performance",Personal Recognizance,Up to 1 Year,5000
+(AR)5-14-206,Felony,Use of a Child in a Sexual Performance,Federal Bail Bond,5-20 Years,200000
+(AR)5-14-207,Felony,"Producing, Directing, or Promoting a Sexual Performance by a Child",Federal Bail Bond,5-20 Years,200000
 (AR)5-14-208,Felony,Computer Exploitation of a Child,Federal Bail Bond,5-20 Years,200000
 (AR)5-14-209,Felony,Distribution of Sexually Explicit Images,Federal Bail Bond,3-10 Years,150000
 (AR)5-14-210,Misdemeanor,Unlawful Distribution of Sexual Images or Recordings,Personal Recognizance,Up to 1 Year,5000
 (AR)5-14-211,Felony,Unlawful Use of a Computer to Facilitate the Commission of a Sex Offense,Federal Bail Bond,5-20 Years,200000
 (AR)5-14-212,Felony,Unlawful Use of a Communication Device to Facilitate the Commission of a Sex Offense,Federal Bail Bond,5-20 Years,200000
-(AR)5-14-213,Felony,Unlawful Distribution of Sexual Images or Recordings to Harass, Intimidate, or Threaten,Federal Bail Bond,3-10 Years,150000
+(AR)5-14-213,Felony,"Unlawful Distribution of Sexual Images or Recordings to Harass, Intimidate, or Threaten",Federal Bail Bond,3-10 Years,150000
 (AR)5-14-214,Felony,Unlawful Distribution of Sexual Images or Recordings Without Consent,Federal Bail Bond,3-10 Years,150000
-(AR)5-14-215,Felony,Unlawful Distribution of Sexual Images or Recordings to a Minor,Federal Bail Bond,5-20 Years
+(AR)5-14-215,Felony,Unlawful Distribution of Sexual Images or Recordings to a Minor,Federal Bail Bond,5-20 Years,200000
