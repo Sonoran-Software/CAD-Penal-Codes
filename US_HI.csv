@@ -34,7 +34,7 @@ code,type,title,bondType,jailTime,bondAmount
 (HRS)134-7,Felony,Ownership or Possession Prohibited,Cash Bond,5-10 Years,100000
 (HRS)134-8,Felony,Place to Keep Loaded Firearms Other Than Pistols and Revolvers,Cash Bond,3-5 Years,50000
 (HRS)134-9,Felony,Carrying or Possessing a Loaded Firearm on a Public Highway,Cash Bond,5-10 Years,100000
-(HRS)134-10,Felony,Manufacture, Possession, Sale, or Transfer of Prohibited Weapons,Cash Bond,5-10 Years,100000
+(HRS)134-10,Felony,"Manufacture, Possession, Sale, or Transfer of Prohibited Weapons",Cash Bond,5-10 Years,100000
 (HRS)134-17,Misdemeanor,Failure to Register Firearm,Cash Bond,Up to 1 Year,25000
 (HRS)291E-61,Misdemeanor,Operating a Vehicle Under the Influence of an Intoxicant,Cash Bond,Up to 1 Year,25000
 (HRS)291E-62,Misdemeanor,Operating a Vehicle After License and Privilege Have Been Suspended or Revoked for Operating a Vehicle Under the Influence of an Intoxicant,Cash Bond,Up to 1 Year,25000
@@ -44,6 +44,6 @@ code,type,title,bondType,jailTime,bondAmount
 (HRS)291C-172,Misdemeanor,Obedience to Police Officers,Cash Bond,Up to 30 Days,10000
 (HRS)291C-194,Misdemeanor,Pedestrians' Right-of-Way in Crosswalks,Cash Bond,Up to 30 Days,10000
 (HRS)291D-3,Violation,Traffic Infractions,Cash Bond,Fine Only,500
-(HRS)291E-11,Misdemeanor,Refusal to Submit to Breath, Blood, or Urine Test,Cash Bond,Up to 30 Days,10000
+(HRS)291E-11,Misdemeanor,"Refusal to Submit to Breath, Blood, or Urine Test",Cash Bond,Up to 30 Days,10000
 (HRS)291E-15,Misdemeanor,Consuming or Possessing Intoxicating Liquor While Operating Motor Vehicle or Moped,Cash Bond,Up to 30 Days,10000
 (HRS)291E-61.5,Felony,Habitually Operating a Vehicle Under the Influence of an Intoxicant,Cash Bond,5-10 Years,100000
