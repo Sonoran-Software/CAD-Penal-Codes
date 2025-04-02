@@ -28,7 +28,7 @@ code,type,title,bondType,jailTime,bondAmount
 (ID)18-4626,Misdemeanor,Vandalism,Recognizance,Up to 1 Year,1000
 (ID)18-6409,Misdemeanor,Disturbing the Peace,Recognizance,Up to 6 Months,1000
 (ID)18-1501,Misdemeanor,Child Endangerment,Recognizance,Up to 1 Year,1000
-(ID)18-918)Misdemeanor,Domestic Battery,Recognizance,Up to 6 Months,1000
+(ID)18-918,Misdemeanor,Domestic Battery,Recognizance,Up to 6 Months,1000
 (ID)18-4506,Felony,False Imprisonment,Cash Bond,1-5 Years,100000
 (ID)18-3125,Felony,Identity Theft,Cash Bond,1-5 Years,100000
 (ID)18-3106,Misdemeanor,Theft of Services,Recognizance,Up to 1 Year,1000
