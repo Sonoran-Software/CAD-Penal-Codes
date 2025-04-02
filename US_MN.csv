@@ -1,0 +1,58 @@
+code,type,title,bondType,jailTime,bondAmount
+609.185,Felony,Murder in the First Degree,No Bail,Life,0
+609.19,Felony,Murder in the Second Degree,Cash Bond,Up to 40 Years,500000
+609.195,Felony,Murder in the Third Degree,Cash Bond,Up to 25 Years,250000
+609.20,Felony,Manslaughter in the First Degree,Cash Bond,Up to 15 Years,150000
+609.205,Felony,Manslaughter in the Second Degree,Cash Bond,Up to 10 Years,100000
+609.221,Felony,Assault in the First Degree,Cash Bond,Up to 20 Years,200000
+609.222,Felony,Assault in the Second Degree,Cash Bond,Up to 7 Years,70000
+609.223,Felony,Assault in the Third Degree,Cash Bond,Up to 5 Years,50000
+609.224,Misdemeanor,Assault in the Fifth Degree,Cash Bond,Up to 90 Days,10000
+609.2242,Misdemeanor,Domestic Assault,Cash Bond,Up to 90 Days,10000
+609.25,Felony,Kidnapping,Cash Bond,Up to 40 Years,400000
+609.342,Felony,Criminal Sexual Conduct in the First Degree,Cash Bond,Up to 30 Years,300000
+609.343,Felony,Criminal Sexual Conduct in the Second Degree,Cash Bond,Up to 25 Years,250000
+609.344,Felony,Criminal Sexual Conduct in the Third Degree,Cash Bond,Up to 15 Years,150000
+609.345,Felony,Criminal Sexual Conduct in the Fourth Degree,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Burglary in the First Degree,Cash Bond,Up to 20 Years,200000
+609.582,Felony,Burglary in the Second Degree,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Burglary in the Third Degree,Cash Bond,Up to 5 Years,50000
+609.52,Felony,Theft (Over $35,000),Cash Bond,Up to 20 Years,200000
+609.52,Felony,Theft ($5,000 - $35,000),Cash Bond,Up to 10 Years,100000
+609.52,Misdemeanor,Theft (Under $500),Cash Bond,Up to 90 Days,10000
+609.24,Felony,Simple Robbery,Cash Bond,Up to 10 Years,100000
+609.245,Felony,Aggravated Robbery in the First Degree,Cash Bond,Up to 20 Years,200000
+609.245,Felony,Aggravated Robbery in the Second Degree,Cash Bond,Up to 15 Years,150000
+609.595,Felony,Criminal Damage to Property in the First Degree,Cash Bond,Up to 5 Years,50000
+609.595,Misdemeanor,Criminal Damage to Property in the Fourth Degree,Cash Bond,Up to 90 Days,10000
+609.53,Felony,Receiving Stolen Property,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Possession of Burglary Tools,Cash Bond,Up to 3 Years,30000
+609.713,Felony,Terroristic Threats,Cash Bond,Up to 5 Years,50000
+609.749,Felony,Stalking,Cash Bond,Up to 10 Years,100000
+609.2247,Felony,Domestic Assault by Strangulation,Cash Bond,Up to 3 Years,30000
+609.487,Felony,Fleeing a Peace Officer in a Motor Vehicle,Cash Bond,Up to 3 Years,30000
+609.50,Misdemeanor,Obstructing Legal Process,Cash Bond,Up to 1 Year,20000
+609.506,Misdemeanor,False Name to Police,Cash Bond,Up to 90 Days,10000
+609.78,Misdemeanor,False 911 Call,Cash Bond,Up to 1 Year,20000
+609.821,Felony,Financial Transaction Card Fraud,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Arson in the First Degree,Cash Bond,Up to 20 Years,200000
+609.582,Felony,Arson in the Second Degree,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Arson in the Third Degree,Cash Bond,Up to 5 Years,50000
+609.713,Felony,Bomb Threat,Cash Bond,Up to 5 Years,50000
+609.224,Misdemeanor,Disorderly Conduct,Cash Bond,Up to 90 Days,10000
+609.72,Misdemeanor,Public Nuisance,Cash Bond,Up to 90 Days,10000
+609.746,Misdemeanor,Interference with Privacy,Cash Bond,Up to 1 Year,20000
+609.79,Misdemeanor,Obscene or Harassing Phone Calls,Cash Bond,Up to 1 Year,20000
+609.27,Felony,Coercion,Cash Bond,Up to 5 Years,50000
+609.582,Felony,Computer Damage,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Computer Theft,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Identity Theft,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Mail Theft,Cash Bond,Up to 3 Years,30000
+609.582,Felony,Check Forgery,Cash Bond,Up to 5 Years,50000
+609.582,Felony,Counterfeiting Currency,Cash Bond,Up to 20 Years,200000
+609.582,Felony,Insurance Fraud,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Tax Evasion,Cash Bond,Up to 5 Years,50000
+609.582,Felony,Bribery,Cash Bond,Up to 10 Years,100000
+609.582,Felony,Perjury,Cash Bond,Up to 5 Years,50000
+609.582,Felony,Escape from Custody,Cash Bond,Up to 5 Years,50000
+609.582,Felony,Introducing Contraband into Jail,Cash Bond,Up to 5 Years,50000

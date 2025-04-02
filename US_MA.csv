@@ -1,0 +1,57 @@
+code,type,title,bondType,jailTime,bondAmount
+265-1,Felony,Murder,No Bail,Life,0
+265-13A,Misdemeanor,Assault and Battery,Recognizance,Up to 2.5 Years,5000
+265-15A,Felony,Assault and Battery with a Dangerous Weapon,Cash Bond,Up to 15 Years,25000
+265-18,Felony,Armed Robbery,Cash Bond,Up to Life,50000
+265-19,Felony,Unarmed Robbery,Cash Bond,Up to Life,40000
+266-14,Felony,Burglary,Cash Bond,Up to 20 Years,30000
+266-30,Felony,Larceny Over $250,Cash Bond,Up to 5 Years,10000
+266-30,Misdemeanor,Larceny Under $250,Recognizance,Up to 1 Year,1000
+266-60,Felony,Receiving Stolen Property Over $250,Cash Bond,Up to 5 Years,10000
+266-60,Misdemeanor,Receiving Stolen Property Under $250,Recognizance,Up to 1 Year,1000
+266-28,Felony,Motor Vehicle Theft,Cash Bond,Up to 15 Years,20000
+265-22,Felony,Aggravated Sexual Assault,No Bail,Up to Life,0
+265-23,Felony,Rape,Cash Bond,Up to 20 Years,30000
+265-24,Felony,Assault with Intent to Rape,Cash Bond,Up to 20 Years,30000
+265-26,Felony,Kidnapping,Cash Bond,Up to 10 Years,20000
+265-13B,Misdemeanor,Indecent Assault and Battery,Recognizance,Up to 5 Years,5000
+265-43,Felony,Stalking,Cash Bond,Up to 5 Years,10000
+265-43A,Misdemeanor,Criminal Harassment,Recognizance,Up to 2.5 Years,5000
+272-53,Misdemeanor,Disorderly Conduct,Recognizance,Up to 6 Months,1000
+272-53,Misdemeanor,Disturbing the Peace,Recognizance,Up to 6 Months,1000
+90-24,Misdemeanor,Operating Under the Influence (OUI),Recognizance,Up to 2.5 Years,5000
+90-24,Misdemeanor,Leaving the Scene of an Accident,Recognizance,Up to 2 Years,3000
+90-23,Misdemeanor,Operating with a Suspended License,Recognizance,Up to 10 Days,500
+90-25,Misdemeanor,Refusal to Submit to Police Officer,Recognizance,Up to 2.5 Years,5000
+94C-32A,Misdemeanor,Possession of a Controlled Substance,Recognizance,Up to 1 Year,1000
+94C-32E,Felony,Trafficking in Controlled Substances,Cash Bond,Up to 20 Years,50000
+94C-34,Misdemeanor,Possession of Drug Paraphernalia,Recognizance,Up to 1 Year,1000
+269-10,Felony,Unlawful Possession of a Firearm,Cash Bond,Up to 5 Years,10000
+269-10H,Misdemeanor,Carrying a Firearm without a License,Recognizance,Up to 2.5 Years,5000
+269-12,Felony,Possession of a Machine Gun,Cash Bond,Up to Life,50000
+269-14,Misdemeanor,Possession of Ammunition without FID Card,Recognizance,Up to 2 Years,3000
+272-28,Misdemeanor,Obscene Material Distribution,Recognizance,Up to 2.5 Years,5000
+272-34,Misdemeanor,Indecent Exposure,Recognizance,Up to 6 Months,1000
+272-53A,Misdemeanor,Prostitution,Recognizance,Up to 1 Year,1000
+272-8,Misdemeanor,Open and Gross Lewdness,Recognizance,Up to 3 Years,3000
+272-16,Misdemeanor,Annoying and Accosting Persons,Recognizance,Up to 6 Months,1000
+268-13,Felony,Perjury,Cash Bond,Up to 20 Years,25000
+268-32B,Misdemeanor,Resisting Arrest,Recognizance,Up to 2.5 Years,5000
+268-13B,Misdemeanor,Intimidation of a Witness,Recognizance,Up to 2.5 Years,5000
+268-40,Felony,Obstruction of Justice,Cash Bond,Up to 10 Years,20000
+274-7,Felony,Attempt to Commit a Crime,Cash Bond,Up to 10 Years,20000
+274-6,Felony,Accessory Before the Fact,Cash Bond,Up to 10 Years,20000
+274-4,Felony,Accessory After the Fact,Cash Bond,Up to 7 Years,15000
+266-127,Felony,Burning of a Dwelling,Cash Bond,Up to 20 Years,30000
+266-5,Felony,Breaking and Entering at Night,Cash Bond,Up to 20 Years,30000
+266-18,Felony,Embezzlement,Cash Bond,Up to 5 Years,10000
+266-37,Felony,Forgery,Cash Bond,Up to 10 Years,20000
+266-30A,Misdemeanor,Shoplifting,Recognizance,Up to 1 Year,1000
+265-13D,Felony,Strangulation or Suffocation,Cash Bond,Up to 5 Years,10000
+265-13M,Misdemeanor,Domestic Assault and Battery,Recognizance,Up to 2.5 Years,5000
+266-120,Felony,Identity Fraud,Cash Bond,Up to 5 Years,10000
+266-37E,Felony,Credit Card Fraud,Cash Bond,Up to 5 Years,10000
+266-28,Felony,Carjacking,Cash Bond,Up to 15 Years,20000
+265-25,Felony,Assault with Intent to Rob,Cash Bond,Up to 10 Years,20000
+265-13C,Felony,Assault and Battery on a Police Officer,Cash Bond,Up to 10 Years,20000
+265-15B,Felony,Assault and Battery on an Elderly Person,Cash Bond,Up to 10 Years,20000

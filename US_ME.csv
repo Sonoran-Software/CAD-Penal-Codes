@@ -1,0 +1,47 @@
+code,type,title,bondType,jailTime,bondAmount
+17-A M.R.S. §201,Felony,Murder,No Bail,25 Years to Life,0
+17-A M.R.S. §202,Felony,Felony Murder,Federal Bail Bond,Up to 30 Years,1000000
+17-A M.R.S. §203,Felony,Manslaughter,Federal Bail Bond,Up to 30 Years,750000
+17-A M.R.S. §204,Felony,Aiding or Soliciting Suicide,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §207,Misdemeanor,Assault,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §207-A,Misdemeanor,Domestic Violence Assault,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §208,Felony,Aggravated Assault,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §208-B,Felony,Elevated Aggravated Assault,Federal Bail Bond,Up to 30 Years,1000000
+17-A M.R.S. §209,Misdemeanor,Criminal Threatening,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §209-A,Misdemeanor,Domestic Violence Criminal Threatening,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §210,Felony,Terrorizing,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §210-A,Felony,Stalking,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §210-B,Misdemeanor,Domestic Violence Terrorizing,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §211,Misdemeanor,Reckless Conduct,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §211-A,Misdemeanor,Domestic Violence Reckless Conduct,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §213,Felony,Aggravated Reckless Conduct,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §253,Felony,Gross Sexual Assault,Federal Bail Bond,Up to 30 Years,1000000
+17-A M.R.S. §254,Felony,Sexual Abuse of Minors,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §260,Misdemeanor,Unlawful Sexual Touching,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §301,Felony,Kidnapping,Federal Bail Bond,Up to 30 Years,1000000
+17-A M.R.S. §302,Felony,Criminal Restraint,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §303,Felony,Criminal Forced Labor,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §351,Misdemeanor,Theft by Unauthorized Taking or Transfer (Under $1,000),Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §353,Felony,Theft by Deception (Over $1,000),Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §355,Felony,Theft of Services,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §357,Felony,Theft by Extortion,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §401,Felony,Burglary,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §402,Misdemeanor,Criminal Trespass,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §405,Felony,Possession or Transfer of Burglar's Tools,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §431,Felony,Unauthorized Computer Access,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §451,Felony,Perjury,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §452,Felony,False Swearing,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §453,Felony,Unsworn Falsification,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §501,Misdemeanor,Disorderly Conduct,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §503,Misdemeanor,Obstructing Public Ways,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §505,Misdemeanor,False Public Alarm or Report,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §506,Misdemeanor,Harassment,Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §551,Felony,Endangering Welfare of a Child,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §556,Felony,Incest,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §601,Felony,Bribery in Official and Political Matters,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §602,Felony,Improper Influence,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §603,Felony,Official Oppression,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §651,Felony,Robbery,Federal Bail Bond,Up to 30 Years,1000000
+17-A M.R.S. §701,Felony,Forgery,Federal Bail Bond,Up to 10 Years,500000
+17-A M.R.S. §752-F,Felony,Assault on an Officer,Federal Bail Bond,Up to 5 Years,250000
+17-A M.R.S. §805,Felony,Aggravated Criminal Mischief,Federal Bail Bond,Up to 5 Years,250000

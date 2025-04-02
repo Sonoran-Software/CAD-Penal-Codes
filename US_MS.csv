@@ -1,0 +1,42 @@
+code,type,title,bondType,jailTime,bondAmount
+97-3-19,Felony,Murder,No Bail,Life,0
+97-3-25,Felony,Manslaughter,Cash Bond,Up to 20 Years,500000
+97-3-7(2),Felony,Aggravated Assault,Cash Bond,Up to 20 Years,500000
+97-3-7(1),Misdemeanor,Simple Assault,Recognizance,Up to 6 Months,1000
+97-3-53,Felony,Kidnapping,Cash Bond,Up to Life,500000
+97-3-65,Felony,Statutory Rape,Cash Bond,Up to Life,500000
+97-3-95,Felony,Sexual Battery,Cash Bond,Up to 30 Years,500000
+97-3-73,Felony,Robbery,Cash Bond,Up to 15 Years,250000
+97-3-79,Felony,Armed Robbery,Cash Bond,Up to Life,500000
+97-17-23,Felony,Burglary of a Dwelling,Cash Bond,Up to 25 Years,250000
+97-17-33,Felony,Burglary of a Non-Dwelling,Cash Bond,Up to 7 Years,100000
+97-17-41,Felony,Grand Larceny,Cash Bond,Up to 10 Years,100000
+97-17-43,Misdemeanor,Petit Larceny,Recognizance,Up to 6 Months,1000
+97-17-67,Felony,Malicious Mischief (Damage over $1,000),Cash Bond,Up to 5 Years,100000
+97-17-67,Misdemeanor,Malicious Mischief (Damage under $1,000),Recognizance,Up to 1 Year,1000
+97-17-1,Felony,Arson of a Dwelling,Cash Bond,Up to 20 Years,250000
+97-17-3,Felony,Arson of Other Buildings,Cash Bond,Up to 10 Years,100000
+97-5-39,Felony,Child Abuse,Cash Bond,Up to Life,500000
+97-5-23,Felony,Gratification of Lust,Cash Bond,Up to 15 Years,250000
+97-5-33,Felony,Exploitation of a Child,Cash Bond,Up to 40 Years,500000
+97-29-63,Misdemeanor,Prostitution,Recognizance,Up to 6 Months,1000
+97-29-45,Misdemeanor,Public Drunkenness,Recognizance,Up to 30 Days,500
+97-29-47,Misdemeanor,Disturbing the Peace,Recognizance,Up to 6 Months,1000
+97-37-1,Felony,Possession of a Firearm by a Felon,Cash Bond,Up to 10 Years,250000
+97-37-5,Felony,Possession of a Stolen Firearm,Cash Bond,Up to 10 Years,250000
+97-37-9,Misdemeanor,Carrying Concealed Weapon Without Permit,Recognizance,Up to 6 Months,1000
+97-9-72,Felony,Fleeing or Eluding Law Enforcement in a Motor Vehicle,Cash Bond,Up to 5 Years,100000
+97-9-73,Misdemeanor,Resisting Arrest,Recognizance,Up to 6 Months,1000
+97-9-125,Felony,Tampering with Evidence,Cash Bond,Up to 3 Years,50000
+97-9-115,Felony,Tampering with a Witness,Cash Bond,Up to 2 Years,50000
+97-19-39,Felony,Identity Theft,Cash Bond,Up to 15 Years,250000
+97-19-83,Felony,False Pretense (Over $500),Cash Bond,Up to 10 Years,100000
+97-19-85,Misdemeanor,False Pretense (Under $500),Recognizance,Up to 6 Months,1000
+63-11-30(2),Misdemeanor,Driving Under the Influence (First Offense),Recognizance,Up to 48 Hours,1000
+63-11-30(2),Misdemeanor,Driving Under the Influence (Second Offense),Recognizance,Up to 1 Year,5000
+63-11-30(2),Felony,Driving Under the Influence (Third Offense),Cash Bond,Up to 5 Years,100000
+63-11-30(5),Felony,Aggravated DUI (Causing Injury or Death),Cash Bond,Up to 25 Years,500000
+63-1-69,Misdemeanor,Driving with a Suspended License,Recognizance,Up to 6 Months,1000
+63-3-401,Misdemeanor,Leaving the Scene of an Accident,Recognizance,Up to 1 Year,1000
+63-3-1201,Misdemeanor,Reckless Driving,Recognizance,Up to 90 Days,500
+63-11-21,Misdemeanor,Refusal to Submit to Chemical Test,Recognizance,Up to 90 Days,500

@@ -1,0 +1,55 @@
+code,type,title,bondType,jailTime,bondAmount
+707.2,Felony,Murder in the First Degree,No Bail,Life,0
+707.3,Felony,Murder in the Second Degree,Cash Bond,50 Years,1000000
+707.4,Felony,Voluntary Manslaughter,Cash Bond,10 Years,500000
+707.5,Felony,Involuntary Manslaughter,Cash Bond,5 Years,250000
+710.2,Felony,Kidnapping in the First Degree,No Bail,Life,0
+710.3,Felony,Kidnapping in the Second Degree,Cash Bond,25 Years,750000
+709.2,Felony,Sexual Abuse in the First Degree,No Bail,Life,0
+709.3,Felony,Sexual Abuse in the Second Degree,Cash Bond,25 Years,750000
+709.4,Felony,Sexual Abuse in the Third Degree,Cash Bond,10 Years,500000
+711.2,Felony,Robbery in the First Degree,Cash Bond,25 Years,750000
+711.3,Felony,Robbery in the Second Degree,Cash Bond,10 Years,500000
+713.3,Felony,Burglary in the First Degree,Cash Bond,25 Years,750000
+713.5,Felony,Burglary in the Second Degree,Cash Bond,10 Years,500000
+714.2(1),Felony,Theft in the First Degree,Cash Bond,10 Years,500000
+714.2(2),Felony,Theft in the Second Degree,Cash Bond,5 Years,250000
+714.2(3),Aggravated Misdemeanor,Theft in the Third Degree,Recognizance,2 Years,6250
+714.2(4),Serious Misdemeanor,Theft in the Fourth Degree,Recognizance,1 Year,2565
+714.2(5),Simple Misdemeanor,Theft in the Fifth Degree,Recognizance,30 Days,850
+708.2(2),Serious Misdemeanor,Assault Causing Bodily Injury,Recognizance,1 Year,2565
+708.2(3),Simple Misdemeanor,Assault,Recognizance,30 Days,850
+708.2A(2)(b),Serious Misdemeanor,Domestic Abuse Assault Causing Injury,Recognizance,1 Year,2565
+708.2A(2)(c),Aggravated Misdemeanor,Domestic Abuse Assault with Intent,Cash Bond,2 Years,6250
+708.11(3)(b),Aggravated Misdemeanor,Stalking,Cash Bond,2 Years,6250
+708.11(3)(c),Class D Felony,Stalking with Weapon,Cash Bond,5 Years,250000
+719.1(1)(a),Simple Misdemeanor,Interference with Official Acts,Recognizance,30 Days,850
+719.1(1)(b),Serious Misdemeanor,Interference with Official Acts Causing Injury,Recognizance,1 Year,2565
+719.1(1)(c),Aggravated Misdemeanor,Interference with Official Acts Causing Serious Injury,Cash Bond,2 Years,6250
+719.8,Aggravated Misdemeanor,Escape from Custody,Cash Bond,2 Years,6250
+719.9,Class D Felony,Escape from Custody While Charged with Felony,Cash Bond,5 Years,250000
+719.10,Class C Felony,Escape from Custody Resulting in Injury,Cash Bond,10 Years,500000
+124.401(1)(a),Class B Felony,Controlled Substance Violation (More than 100g),Cash Bond,50 Years,1000000
+124.401(1)(b),Class C Felony,Controlled Substance Violation (More than 5g),Cash Bond,10 Years,500000
+124.401(1)(c),Class D Felony,Controlled Substance Violation (5g or Less),Cash Bond,5 Years,250000
+124.401(5),Serious Misdemeanor,Possession of Controlled Substance,Recognizance,1 Year,2565
+124.414,Simple Misdemeanor,Possession of Drug Paraphernalia,Recognizance,30 Days,850
+321J.2(2)(a),Serious Misdemeanor,Operating While Intoxicated (First Offense),Recognizance,1 Year,2565
+321J.2(2)(b),Aggravated Misdemeanor,Operating While Intoxicated (Second Offense),Cash Bond,2 Years,6250
+321J.2(2)(c),Class D Felony,Operating While Intoxicated (Third Offense),Cash Bond,5 Years,250000
+321.261(1),Serious Misdemeanor,Hit and Run – Injury,Recognizance,1 Year,2565
+321.261(3),Aggravated Misdemeanor,Hit and Run – Serious Injury,Cash Bond,2 Years,6250
+321.261(4),Class D Felony,Hit and Run – Death,Cash Bond,5 Years,250000
+321.277,Aggravated Misdemeanor,Reckless Driving,Cash Bond,2 Years,6250
+321.218,Simple Misdemeanor,Driving While License Suspended,Recognizance,30 Days,850
+321.561,Aggravated Misdemeanor,Driving While Barred,Cash Bond,2 Years,6250
+716.5,Class D Felony,Criminal Mischief in the Second Degree,Cash Bond,5 Years,250000
+716.6,Aggravated Misdemeanor,Criminal Mischief in the Third Degree,Cash Bond,2 Years,6250
+716.8,Simple Misdemeanor,Trespassing,Recognizance,30 Days,850
+725.1,Simple Misdemeanor,Prostitution,Recognizance,30 Days,850
+725.2,Aggravated Misdemeanor,Pimping,Cash Bond,2 Years,6250
+725.3,Class D Felony,Pandering,Cash Bond,5 Years,250000
+718.6,Serious Misdemeanor,False Reports to Law Enforcement,Recognizance,1 Year,2565
+719.7,Serious Misdemeanor,Possessing Contraband in Correctional Facility,Recognizance,1 Year,2565
+719.8,Class D Felony,Failing to Appear,Cash Bond,5 Years,250000
+719.9,Aggravated Misdemeanor,Obstructing Prosecution,Cash Bond,2 Years,6250

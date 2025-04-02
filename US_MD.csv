@@ -1,0 +1,53 @@
+code,type,title,bondType,jailTime,bondAmount
+CR 2-201,Felony,Murder in the First Degree,No Bail,Life,0
+CR 2-204,Felony,Murder in the Second Degree,No Bail,Up to 40 Years,0
+CR 3-202,Felony,Assault in the First Degree,Cash Bond,Up to 25 Years,250000
+CR 3-203,Misdemeanor,Assault in the Second Degree,Cash Bond,Up to 10 Years,100000
+CR 3-303,Felony,Rape in the First Degree,Cash Bond,Up to Life,500000
+CR 3-304,Felony,Rape in the Second Degree,Cash Bond,Up to 20 Years,300000
+CR 3-402,Felony,Robbery,Cash Bond,Up to 15 Years,200000
+CR 3-403,Felony,Robbery with Dangerous Weapon,Cash Bond,Up to 20 Years,250000
+CR 3-502,Felony,Kidnapping,Cash Bond,Up to 30 Years,300000
+CR 3-503,Felony,Child Kidnapping,Cash Bond,Up to 25 Years,250000
+CR 5-602,Felony,Distribution of Controlled Dangerous Substance,Cash Bond,Up to 20 Years,200000
+CR 5-601,Misdemeanor,Possession of Controlled Dangerous Substance,Cash Bond,Up to 4 Years,50000
+CR 5-619,Misdemeanor,Possession of Drug Paraphernalia,Cash Bond,Up to 1 Year,25000
+CR 6-202,Felony,Burglary in the First Degree,Cash Bond,Up to 20 Years,200000
+CR 6-203,Felony,Burglary in the Second Degree,Cash Bond,Up to 15 Years,150000
+CR 6-204,Felony,Burglary in the Third Degree,Cash Bond,Up to 10 Years,100000
+CR 6-205,Misdemeanor,Burglary in the Fourth Degree,Cash Bond,Up to 3 Years,50000
+CR 7-104,Misdemeanor,Theft: Less than $1,500,Cash Bond,Up to 6 Months,10000
+CR 7-104,Felony,Theft: $1,500 to less than $25,000,Cash Bond,Up to 5 Years,50000
+CR 7-104,Felony,Theft: $25,000 to less than $100,000,Cash Bond,Up to 10 Years,100000
+CR 7-104,Felony,Theft: $100,000 or more,Cash Bond,Up to 20 Years,200000
+CR 8-301,Felony,Identity Fraud,Cash Bond,Up to 15 Years,150000
+CR 8-302,Felony,Credit Card Fraud,Cash Bond,Up to 12 Years,120000
+CR 9-302,Felony,Bribery,Cash Bond,Up to 12 Years,120000
+CR 9-305,Misdemeanor,Perjury,Cash Bond,Up to 10 Years,100000
+CR 9-306,Felony,Obstruction of Justice,Cash Bond,Up to 5 Years,50000
+CR 10-201,Misdemeanor,Disturbing the Peace,Cash Bond,Up to 60 Days,5000
+CR 10-203,Misdemeanor,Public Intoxication,Cash Bond,Up to 90 Days,7500
+CR 11-303,Misdemeanor,Prostitution,Cash Bond,Up to 1 Year,25000
+CR 11-306,Felony,Pandering,Cash Bond,Up to 10 Years,100000
+CR 4-203,Misdemeanor,Carrying a Handgun,Cash Bond,Up to 3 Years,50000
+CR 4-204,Felony,Use of Firearm in Commission of Crime,Cash Bond,Up to 20 Years,200000
+CR 4-101,Misdemeanor,Dangerous Weapon Concealment,Cash Bond,Up to 3 Years,50000
+CR 3-802,Misdemeanor,Stalking,Cash Bond,Up to 5 Years,50000
+CR 3-803,Misdemeanor,Harassment,Cash Bond,Up to 90 Days,10000
+CR 3-805,Misdemeanor,Misuse of Telephone Facilities,Cash Bond,Up to 3 Years,50000
+CR 3-901,Misdemeanor,Visual Surveillance,Cash Bond,Up to 1 Year,25000
+CR 3-902,Felony,Visual Surveillance with Prurient Intent,Cash Bond,Up to 5 Years,50000
+CR 3-503,Felony,Abduction of Child Under 16,Cash Bond,Up to 25 Years,250000
+CR 3-602,Felony,Child Abuse in the First Degree,Cash Bond,Up to 25 Years,250000
+CR 3-203,Misdemeanor,Reckless Endangerment,Cash Bond,Up to 5 Years,50000
+CR 3-206,Misdemeanor,Attempted Poisoning,Cash Bond,Up to 10 Years,100000
+CR 3-405,Felony,Carjacking,Cash Bond,Up to 30 Years,300000
+CR 3-503,Felony,Human Trafficking,Cash Bond,Up to 25 Years,250000
+CR 3-602,Felony,Sexual Abuse of a Minor,Cash Bond,Up to 25 Years,250000
+CR 3-603,Felony,Sexual Abuse of a Vulnerable Adult,Cash Bond,Up to 25 Years,250000
+CR 3-804,Misdemeanor,Annoying or Obscene Communications,Cash Bond,Up to 3 Years,50000
+CR 3-708,Misdemeanor,Extortion by False Accusation,Cash Bond,Up to 10 Years,100000
+CR 3-709,Misdemeanor,Extortion by Verbal Threat,Cash Bond,Up to 10 Years,100000
+CR 3-711,Felony,Extortion by Written Threat,Cash Bond,Up to 25 Years,250000
+CR 4-503,Felony,Manufacture or Possession of Destructive Device,Cash Bond,Up to 25 Years,250000
+CR 5-612,Felony,Volume Dealer,Cash Bond,Up to 25 Years,250000

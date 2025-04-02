@@ -1,0 +1,55 @@
+code,type,title,bondType,jailTime,bondAmount
+(ID)18-4001,Felony,Murder,No Bail,25-Life,0
+(ID)18-4006,Felony,Manslaughter,Cash Bond,1-15 Years,500000
+(ID)18-4501,Felony,Kidnapping,Cash Bond,5-Life,750000
+(ID)18-6101,Felony,Rape,No Bail,1-Life,0
+(ID)18-1508,Felony,Lewd Conduct with a Minor,Cash Bond,5-Life,750000
+(ID)18-1506,Felony,Sexual Abuse of a Child,Cash Bond,1-25 Years,500000
+(ID)18-1401,Felony,Burglary,Cash Bond,1-10 Years,250000
+(ID)18-2407,Felony,Grand Theft,Cash Bond,1-14 Years,250000
+(ID)18-2408,Misdemeanor,Petty Theft,Recognizance,Up to 1 Year,5000
+(ID)18-1401,Felony,Robbery,Cash Bond,5-Life,500000
+(ID)18-903,Misdemeanor,Assault,Recognizance,Up to 6 Months,2500
+(ID)18-907,Felony,Aggravated Assault,Cash Bond,Up to 5 Years,100000
+(ID)18-901,Misdemeanor,Battery,Recognizance,Up to 6 Months,2500
+(ID)18-905,Felony,Aggravated Battery,Cash Bond,Up to 15 Years,250000
+(ID)18-8004,Misdemeanor,Driving Under the Influence (DUI),Recognizance,Up to 6 Months,1000
+(ID)18-8001,Felony,Aggravated DUI,Cash Bond,Up to 15 Years,250000
+(ID)49-1401,Misdemeanor,Reckless Driving,Recognizance,Up to 6 Months,1000
+(ID)18-705,Misdemeanor,Resisting Arrest,Recognizance,Up to 1 Year,1000
+(ID)18-5413,Misdemeanor,False Reporting,Recognizance,Up to 1 Year,1000
+(ID)18-8001,Felony,Hit and Run (Injury),Cash Bond,Up to 5 Years,100000
+(ID)18-8007,Misdemeanor,Hit and Run (Property Damage),Recognizance,Up to 6 Months,1000
+(ID)18-3101,Felony,Possession of a Controlled Substance,Cash Bond,1-7 Years,250000
+(ID)37-2732,Misdemeanor,Possession of Drug Paraphernalia,Recognizance,Up to 1 Year,1000
+(ID)18-1502,Misdemeanor,Contributing to the Delinquency of a Minor,Recognizance,Up to 1 Year,1000
+(ID)18-3302,Misdemeanor,Carrying Concealed Weapon Without Permit,Recognizance,Up to 6 Months,1000
+(ID)18-3316,Felony,Unlawful Discharge of a Firearm,Cash Bond,Up to 5 Years,100000
+(ID)18-4626,Misdemeanor,Vandalism,Recognizance,Up to 1 Year,1000
+(ID)18-6409,Misdemeanor,Disturbing the Peace,Recognizance,Up to 6 Months,1000
+(ID)18-1501,Misdemeanor,Child Endangerment,Recognizance,Up to 1 Year,1000
+(ID)18-918)Misdemeanor,Domestic Battery,Recognizance,Up to 6 Months,1000
+(ID)18-4506,Felony,False Imprisonment,Cash Bond,1-5 Years,100000
+(ID)18-3125,Felony,Identity Theft,Cash Bond,1-5 Years,100000
+(ID)18-3106,Misdemeanor,Theft of Services,Recognizance,Up to 1 Year,1000
+(ID)18-6710,Misdemeanor,Harassment,Recognizance,Up to 1 Year,1000
+(ID)18-7906,Misdemeanor,Stalking in the Second Degree,Recognizance,Up to 1 Year,1000
+(ID)18-7905,Felony,Stalking in the First Degree,Cash Bond,1-5 Years,100000
+(ID)18-1509,Misdemeanor,Enticing a Child,Recognizance,Up to 6 Months,1000
+(ID)18-3126,Felony,Computer Fraud,Cash Bond,1-5 Years,100000
+(ID)18-6711,Misdemeanor,Telephone Harassment,Recognizance,Up to 1 Year,1000
+(ID)18-3317,Felony,Possession of a Bomb or Destructive Device,Cash Bond,1-5 Years,100000
+(ID)18-2501,Felony,Escape,Cash Bond,1-5 Years,100000
+(ID)18-2505,Misdemeanor,Aiding and Abetting Escape,Recognizance,Up to 1 Year,1000
+(ID)18-3124,Felony,Forgery,Cash Bond,1-14 Years,250000
+(ID)18-3105,Misdemeanor,Issuing a Bad Check,Recognizance,Up to 1 Year,1000
+(ID)18-1401,Felony,Possession of Burglary Tools,Cash Bond,1-3 Years,50000
+(ID)18-3318,Misdemeanor,Discharging Firearm in City Limits,Recognizance,Up to 6 Months,1000
+(ID)18-4629,Misdemeanor,Trespassing,Recognizance,Up to 6 Months,1000
+(ID)18-7001,Misdemeanor,Malicious Injury to Property,Recognizance,Up to 1 Year,1000
+(ID)18-3128,Felony,Embezzlement,Cash Bond,1-14 Years,250000
+(ID)18-2407,Misdemeanor,Shoplifting,Recognizance,Up to 1 Year,1000
+(ID)18-1505,Felony,Exploitation of a Child,Cash Bond,1-10 Years,250000
+(ID)18-1507,Misdemeanor,Possession of Child Pornography,Recognizance,Up to 1 Year,1000
+(ID)18-3312,Felony,Unlawful Possession of a Firearm,Cash Bond,1-5 Years,100000
+(ID)18-8004,Felony,Felony DUI (3rd Offense),Cash Bond,1-5 Years,100000

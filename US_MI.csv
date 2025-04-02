@@ -1,0 +1,48 @@
+code,type,title,bondType,jailTime,bondAmount
+MCL 750.316,Felony,First Degree Murder,No Bail,Life without Parole,0
+MCL 750.317,Felony,Second Degree Murder,Federal Bail Bond,Life or any term of years,1000000
+MCL 750.321,Felony,Manslaughter,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.328,Felony,Kidnapping,Federal Bail Bond,Up to Life,1000000
+MCL 750.349b,Felony,Unlawful Imprisonment,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.520b,Felony,Criminal Sexual Conduct First Degree,Federal Bail Bond,Up to Life,1000000
+MCL 750.520c,Felony,Criminal Sexual Conduct Second Degree,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.520d,Felony,Criminal Sexual Conduct Third Degree,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.520e,Felony,Criminal Sexual Conduct Fourth Degree,Federal Bail Bond,Up to 2 Years,100000
+MCL 750.81,Misdemeanor,Assault and Battery,Personal Recognizance,Up to 93 Days,2500
+MCL 750.81a,Felony,Aggravated Assault,Federal Bail Bond,Up to 1 Year,5000
+MCL 750.82,Felony,Felonious Assault,Federal Bail Bond,Up to 4 Years,100000
+MCL 750.83,Felony,Assault with Intent to Commit Murder,Federal Bail Bond,Up to Life,1000000
+MCL 750.84,Felony,Assault with Intent to do Great Bodily Harm,Federal Bail Bond,Up to 10 Years,250000
+MCL 750.86,Felony,Assault with Intent to Maim,Federal Bail Bond,Up to 10 Years,250000
+MCL 750.87,Felony,Assault with Intent to Commit Felony,Federal Bail Bond,Up to 10 Years,250000
+MCL 750.110,Felony,Breaking and Entering,Federal Bail Bond,Up to 10 Years,250000
+MCL 750.110a,Felony,Home Invasion First Degree,Federal Bail Bond,Up to 20 Years,500000
+MCL 750.110a(2),Felony,Home Invasion Second Degree,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.110a(3),Felony,Home Invasion Third Degree,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.115,Misdemeanor,Entering without Breaking,Personal Recognizance,Up to 90 Days,2500
+MCL 750.157b,Felony,Conspiracy to Commit Felony,Federal Bail Bond,Same as underlying felony,Varies
+MCL 750.174,Felony,Embezzlement (Over $1,000),Federal Bail Bond,Up to 10 Years,250000
+MCL 750.218,Felony,False Pretenses (Over $1,000),Federal Bail Bond,Up to 5 Years,250000
+MCL 750.227,Felony,Carrying Concealed Weapon,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.227a,Felony,Unlawful Possession of a Firearm,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.227b,Felony,Possession of a Firearm during Commission of a Felony,Federal Bail Bond,2 Years Consecutive,100000
+MCL 750.232a,Misdemeanor,Improper Transportation of a Firearm,Personal Recognizance,Up to 90 Days,2500
+MCL 750.248,Felony,Forgery,Federal Bail Bond,Up to 14 Years,500000
+MCL 750.249,Felony,Uttering and Publishing,Federal Bail Bond,Up to 14 Years,500000
+MCL 750.250,Felony,Counterfeiting,Federal Bail Bond,Up to 7 Years,250000
+MCL 750.316b,Felony,Human Trafficking,Federal Bail Bond,Up to Life,1000000
+MCL 750.349,Felony,Unlawful Imprisonment,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.356,Felony,Larceny (Over $1,000),Federal Bail Bond,Up to 5 Years,250000
+MCL 750.356d,Misdemeanor,Shoplifting (Under $200),Personal Recognizance,Up to 93 Days,2500
+MCL 750.360,Felony,Larceny from a Vehicle,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.362,Felony,Larceny by Conversion,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.377a,Felony,Malicious Destruction of Property (Over $1,000),Federal Bail Bond,Up to 5 Years,250000
+MCL 750.411h,Felony,Stalking,Federal Bail Bond,Up to 5 Years,250000
+MCL 750.479,Misdemeanor,Resisting and Obstructing a Police Officer,Personal Recognizance,Up to 2 Years,100000
+MCL 750.520g,Felony,Assault with Intent to Commit Criminal Sexual Conduct,Federal Bail Bond,Up to 10 Years,250000
+MCL 750.529,Felony,Armed Robbery,Federal Bail Bond,Up to Life,1000000
+MCL 750.530,Felony,Unarmed Robbery,Federal Bail Bond,Up to 15 Years,500000
+MCL 750.535,Felony,Receiving and Concealing Stolen Property (Over $1,000),Federal Bail Bond,Up to 5 Years,250000
+MCL 750.540,Misdemeanor,Malicious Use of Telephones,Personal Recognizance,Up to 6 Months,2500
+MCL 750.540e,Felony,False Report of a Felony,Federal Bail Bond,Up to 4 Years,100000
+MCL 750.81(4),Misdemeanor,Domestic Violence,Personal Recognizance,Up to 93 Days,2500

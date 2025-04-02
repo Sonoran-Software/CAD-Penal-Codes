@@ -1,0 +1,54 @@
+code,type,title,bondType,jailTime,bondAmount
+RS 14:30,Felony,First Degree Murder,No Bail,Life,0
+RS 14:30.1,Felony,Second Degree Murder,No Bail,Life,0
+RS 14:31,Felony,Manslaughter,Cash Bond,Up to 40 Years,500000
+RS 14:32,Felony,Necessary Homicide,Cash Bond,Up to 5 Years,250000
+RS 14:34,Felony,Aggravated Battery,Cash Bond,Up to 10 Years,250000
+RS 14:34.1,Felony,Second Degree Battery,Cash Bond,Up to 8 Years,200000
+RS 14:35,Misdemeanor,Simple Battery,Recognizance,Up to 6 Months,1000
+RS 14:37,Felony,Aggravated Assault,Cash Bond,Up to 5 Years,100000
+RS 14:37.1,Felony,Assault by Drive-By Shooting,Cash Bond,Up to 10 Years,250000
+RS 14:40.2,Felony,Stalking,Cash Bond,Up to 5 Years,100000
+RS 14:42,Felony,First Degree Rape,No Bail,Life,0
+RS 14:42.1,Felony,Second Degree Rape,Cash Bond,Up to 40 Years,500000
+RS 14:43,Felony,Third Degree Rape,Cash Bond,Up to 25 Years,250000
+RS 14:43.1,Felony,Sexual Battery,Cash Bond,Up to 10 Years,250000
+RS 14:44,Felony,Aggravated Kidnapping,No Bail,Life,0
+RS 14:44.1,Felony,Second Degree Kidnapping,Cash Bond,Up to 40 Years,500000
+RS 14:45,Felony,Simple Kidnapping,Cash Bond,Up to 5 Years,100000
+RS 14:46,Misdemeanor,False Imprisonment,Recognizance,Up to 6 Months,1000
+RS 14:46.2,Felony,Human Trafficking,Cash Bond,Up to 50 Years,750000
+RS 14:51,Felony,Aggravated Arson,Cash Bond,Up to 20 Years,500000
+RS 14:52,Felony,Simple Arson,Cash Bond,Up to 15 Years,250000
+RS 14:55,Felony,Aggravated Criminal Damage to Property,Cash Bond,Up to 15 Years,250000
+RS 14:56,Misdemeanor,Simple Criminal Damage to Property,Recognizance,Up to 6 Months,1000
+RS 14:60,Felony,Aggravated Burglary,Cash Bond,Up to 30 Years,500000
+RS 14:62,Felony,Simple Burglary,Cash Bond,Up to 12 Years,250000
+RS 14:62.2,Felony,Simple Burglary of an Inhabited Dwelling,Cash Bond,Up to 12 Years,250000
+RS 14:63,Misdemeanor,Criminal Trespass,Recognizance,Up to 6 Months,1000
+RS 14:64,Felony,Armed Robbery,No Bail,Up to 99 Years,0
+RS 14:64.1,Felony,First Degree Robbery,Cash Bond,Up to 40 Years,500000
+RS 14:65,Felony,Simple Robbery,Cash Bond,Up to 7 Years,250000
+RS 14:67,Felony,Theft,Cash Bond,Up to 10 Years,250000
+RS 14:67.26,Felony,Theft of a Motor Vehicle,Cash Bond,Up to 10 Years,250000
+RS 14:68,Misdemeanor,Unauthorized Use of a Movable,Recognizance,Up to 6 Months,1000
+RS 14:69,Felony,Illegal Possession of Stolen Things,Cash Bond,Up to 10 Years,250000
+RS 14:70,Misdemeanor,Issuing Worthless Checks,Recognizance,Up to 6 Months,1000
+RS 14:71,Felony,Forgery,Cash Bond,Up to 10 Years,250000
+RS 14:80,Felony,Felony Carnal Knowledge of a Juvenile,Cash Bond,Up to 10 Years,250000
+RS 14:81,Felony,Indecent Behavior with Juveniles,Cash Bond,Up to 7 Years,250000
+RS 14:81.1,Felony,Pornography Involving Juveniles,Cash Bond,Up to 20 Years,500000
+RS 14:81.2,Felony,Molestation of a Juvenile,Cash Bond,Up to 20 Years,500000
+RS 14:89,Felony,Crime Against Nature,Cash Bond,Up to 5 Years,100000
+RS 14:89.1,Felony,Aggravated Crime Against Nature,Cash Bond,Up to 15 Years,250000
+RS 14:93,Misdemeanor,Contributing to the Delinquency of Juveniles,Recognizance,Up to 6 Months,1000
+RS 14:95,Felony,Illegal Carrying of Weapons,Cash Bond,Up to 10 Years,250000
+RS 14:95.1,Felony,Possession of Firearm by Convicted Felon,No Bail,Up to 20 Years,0
+RS 14:95.2,Felony,Carrying Firearm on School Property,Cash Bond,Up to 5 Years,100000
+RS 14:98,Misdemeanor,Operating While Intoxicated (First Offense),Recognizance,Up to 6 Months,1000
+RS 14:98.1,Felony,Operating While Intoxicated (Second Offense),Cash Bond,Up to 5 Years,100000
+RS 14:108,Misdemeanor,Resisting an Officer,Recognizance,Up to 6 Months,1000
+RS 14:110,Felony,Simple Escape,Cash Bond,Up to 5 Years,100000
+RS 14:112,Misdemeanor,False Personation,Recognizance,Up to 6 Months,1000
+RS 14:122,Felony,Public Intimidation and Retaliation,Cash Bond,Up to 5 Years,100000
+RS 14:123,Felony,Perjury,Cash Bond,Up to 5 Years,100000

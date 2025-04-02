@@ -1,0 +1,46 @@
+code,type,title,bondType,jailTime,bondAmount
+K.S.A. 21-5401,Felony,Capital Murder,No Bail,Life Imprisonment,0
+K.S.A. 21-5402,Felony,Murder in the First Degree,Federal Bail Bond,25 Years to Life,1000000
+K.S.A. 21-5403,Felony,Murder in the Second Degree,Federal Bail Bond,15-40 Years,750000
+K.S.A. 21-5404,Felony,Voluntary Manslaughter,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5405,Felony,Involuntary Manslaughter,Federal Bail Bond,3-10 Years,250000
+K.S.A. 21-5406,Felony,Vehicular Homicide,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5408,Felony,Kidnapping,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5408(b),Felony,Aggravated Kidnapping,Federal Bail Bond,10-30 Years,750000
+K.S.A. 21-5412,Misdemeanor,Assault,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 21-5412(b),Felony,Aggravated Assault,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5413,Misdemeanor,Battery,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 21-5413(b),Felony,Aggravated Battery,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5503,Felony,Rape,Federal Bail Bond,10-30 Years,750000
+K.S.A. 21-5504,Felony,Criminal Sodomy,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5506,Felony,Indecent Liberties with a Child,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5602,Misdemeanor,Endangering a Child,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 21-5601,Felony,Abuse of a Child,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5705,Felony,Possession of Controlled Substance,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5706,Felony,Distribution of Controlled Substance,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5801,Misdemeanor,Theft (Under $1,500),Personal Recognizance,Up to 1 Year,2500
+K.S.A. 21-5801(b),Felony,Theft (Over $1,500),Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5807,Felony,Burglary,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5807(b),Felony,Aggravated Burglary,Federal Bail Bond,10-30 Years,750000
+K.S.A. 21-5812,Felony,Arson,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-5812(b),Felony,Aggravated Arson,Federal Bail Bond,10-30 Years,750000
+K.S.A. 21-5821,Felony,Criminal Damage to Property,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5904,Misdemeanor,Interference with Law Enforcement,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 21-5909,Felony,Intimidation of a Witness,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-5911,Felony,Escape from Custody,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-6101,Misdemeanor,Breach of Privacy,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 21-6203,Misdemeanor,Disorderly Conduct,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 21-6206,Misdemeanor,Harassment by Telecommunication Device,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 21-6301,Felony,Criminal Use of Weapons,Federal Bail Bond,1-5 Years,100000
+K.S.A. 21-6304,Felony,Criminal Possession of Firearm by Felon,Federal Bail Bond,5-20 Years,500000
+K.S.A. 8-1567,Misdemeanor,Driving Under the Influence (First Offense),Personal Recognizance,Up to 1 Year,2500
+K.S.A. 8-1568,Felony,Fleeing or Attempting to Elude a Police Officer,Federal Bail Bond,1-5 Years,100000
+K.S.A. 8-262,Misdemeanor,Driving While License Suspended or Revoked,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 8-1602,Misdemeanor,Leaving the Scene of an Accident,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 8-1599,Misdemeanor,Transporting an Open Container,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 32-1002,Misdemeanor,Illegal Hunting,Fishing or Trapping,Personal Recognizance,Up to 6 Months,2500
+K.S.A. 41-727,Misdemeanor,Minor in Possession of Alcohol,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 65-4162,Misdemeanor,Possession of Marijuana,Personal Recognizance,Up to 1 Year,2500
+K.S.A. 65-4160,Felony,Possession of Narcotic Drugs,Federal Bail Bond,1-5 Years,100000
+K.S.A. 65-4159,Felony,Unlawful Manufacture of Controlled Substance,Federal Bail Bond,5-20 Years,500000
+K.S.A. 21-6419,Misdemeanor,Prostitution,Personal Recognizance
