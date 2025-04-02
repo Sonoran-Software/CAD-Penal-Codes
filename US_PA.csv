@@ -1,0 +1,43 @@
+code,type,title,bondType,jailTime,bondAmount
+18 Pa.C.S. § 2501,Felony,Criminal Homicide,Federal Bail Bond,Varies,500000
+18 Pa.C.S. § 2502(a),Felony,Murder of the First Degree,Federal Bail Bond,Life Imprisonment or Death,1000000
+18 Pa.C.S. § 2502(b),Felony,Murder of the Second Degree,Federal Bail Bond,Life Imprisonment,1000000
+18 Pa.C.S. § 2502(c),Felony,Murder of the Third Degree,Federal Bail Bond,Up to 40 Years,750000
+18 Pa.C.S. § 2503,Felony,Voluntary Manslaughter,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 2504,Felony,Involuntary Manslaughter,Federal Bail Bond,Up to 5 Years,250000
+18 Pa.C.S. § 2701,Misdemeanor,Simple Assault,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 2702,Felony,Aggravated Assault,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 2706,Misdemeanor,Terroristic Threats,State Bail Bond,Up to 5 Years,10000
+18 Pa.C.S. § 2709,Misdemeanor,Harassment,State Bail Bond,Up to 1 Year,5000
+18 Pa.C.S. § 2901,Felony,Kidnapping,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 2903,Felony,False Imprisonment,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 3121,Felony,Rape,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 3123,Felony,Involuntary Deviate Sexual Intercourse,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 3125,Felony,Aggravated Indecent Assault,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 3301,Felony,Arson,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 3304,Misdemeanor,Criminal Mischief,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 3502,Felony,Burglary,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 3503,Misdemeanor,Criminal Trespass,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 3701,Felony,Robbery,Federal Bail Bond,Up to 20 Years,500000
+18 Pa.C.S. § 3921,Felony,Theft by Unlawful Taking,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 3925,Felony,Receiving Stolen Property,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 4101,Felony,Forgery,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 4105,Felony,Bad Checks,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 4106,Felony,Access Device Fraud,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 4304,Felony,Endangering Welfare of Children,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 4904,Misdemeanor,Unsworn Falsification to Authorities,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 4906,Misdemeanor,False Reports to Law Enforcement,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 4910,Misdemeanor,Tampering with Evidence,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 4952,Felony,Intimidation of Witnesses or Victims,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 4953,Felony,Retaliation Against Witnesses or Victims,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 5101,Misdemeanor,Obstructing Administration of Law,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 5104,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 2 Years,10000
+18 Pa.C.S. § 5503,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 1 Year,5000
+18 Pa.C.S. § 5505,Misdemeanor,Public Drunkenness,State Bail Bond,Up to 90 Days,2500
+18 Pa.C.S. § 5507,Misdemeanor,Obstructing Highways and Other Public Passages,State Bail Bond,Up to 90 Days,2500
+18 Pa.C.S. § 5901,Misdemeanor,Open Lewdness,State Bail Bond,Up to 1 Year,5000
+18 Pa.C.S. § 6105,Felony,Persons Not to Possess Firearms,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 6106,Felony,Firearms Not to be Carried Without a License,Federal Bail Bond,Up to 7 Years,250000
+18 Pa.C.S. § 6110.2,Felony,Possession of Firearm with Altered Manufacturer's Number,Federal Bail Bond,Up to 10 Years,250000
+18 Pa.C.S. § 6301,Misdemeanor,Corruption of Minors,State Bail Bond,Up to 5 Years,10000
+18 Pa.C.S. § 6308,Misdemeanor,Purchase, Consumption, Possession or Transportation of Liquor or Malt or Brewed Beverages by a Minor,State Bail Bond,Up to 90 Days,2500

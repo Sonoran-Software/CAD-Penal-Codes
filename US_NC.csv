@@ -1,0 +1,46 @@
+code,type,title,bondType,jailTime,bondAmount
+G.S. 14-17,Felony,First Degree Murder,No Bail,Life Without Parole,0
+G.S. 14-18,Felony,Second Degree Murder,No Bail,Up to Life,0
+G.S. 14-27.21,Felony,First Degree Forcible Rape,Cash Bail,Up to 40 Years,500000
+G.S. 14-27.22,Felony,Second Degree Forcible Rape,Cash Bail,Up to 25 Years,400000
+G.S. 14-27.26,Felony,First Degree Sexual Offense,Cash Bail,Up to 40 Years,500000
+G.S. 14-27.27,Felony,Second Degree Sexual Offense,Cash Bail,Up to 25 Years,400000
+G.S. 14-39,Felony,Kidnapping First Degree,Cash Bail,Up to 30 Years,300000
+G.S. 14-39,Felony,Kidnapping Second Degree,Cash Bail,Up to 20 Years,200000
+G.S. 14-32,Felony,Assault with Deadly Weapon with Intent to Kill Inflicting Serious Injury,Cash Bail,Up to 20 Years,200000
+G.S. 14-33,Misdemeanor,Simple Assault,Recognizance,Up to 1 Year,5000
+G.S. 14-34.1,Felony,Discharging Firearm into Occupied Property,Cash Bail,Up to 10 Years,100000
+G.S. 14-51,Felony,First Degree Burglary,Cash Bail,Up to 30 Years,300000
+G.S. 14-54,Felony,Breaking or Entering Buildings,Cash Bail,Up to 10 Years,100000
+G.S. 14-56,Felony,Breaking or Entering Motor Vehicles,Cash Bail,Up to 5 Years,50000
+G.S. 14-58,Felony,Arson First Degree,Cash Bail,Up to 30 Years,300000
+G.S. 14-59,Felony,Arson Second Degree,Cash Bail,Up to 25 Years,250000
+G.S. 14-62,Felony,Burning Personal Property,Cash Bail,Up to 10 Years,100000
+G.S. 14-71,Felony,Receiving Stolen Goods,Cash Bail,Up to 5 Years,50000
+G.S. 14-72,Felony,Larceny of Property Over $1,000,Cash Bail,Up to 10 Years,100000
+G.S. 14-72,Misdemeanor,Larceny of Property $1,000 or Less,Recognizance,Up to 1 Year,5000
+G.S. 14-100,Felony,Obtaining Property by False Pretenses,Cash Bail,Up to 10 Years,100000
+G.S. 14-118,Felony,Embezzlement,Cash Bail,Up to 10 Years,100000
+G.S. 14-190.16,Felony,First Degree Sexual Exploitation of a Minor,Cash Bail,Up to 20 Years,200000
+G.S. 14-190.17,Felony,Second Degree Sexual Exploitation of a Minor,Cash Bail,Up to 15 Years,150000
+G.S. 14-190.18,Felony,Third Degree Sexual Exploitation of a Minor,Cash Bail,Up to 10 Years,100000
+G.S. 14-196,Misdemeanor,Harassing Phone Calls,Recognizance,Up to 1 Year,5000
+G.S. 14-223,Misdemeanor,Resisting Public Officer,Recognizance,Up to 1 Year,5000
+G.S. 14-225,Misdemeanor,False Report to Law Enforcement,Recognizance,Up to 1 Year,5000
+G.S. 14-269,Felony,Carrying Concealed Weapon Without Permit,Cash Bail,Up to 5 Years,50000
+G.S. 14-269.2,Felony,Weapons on Campus or Educational Property,Cash Bail,Up to 7 Years,70000
+G.S. 14-277.1,Misdemeanor,Communicating Threats,Recognizance,Up to 1 Year,5000
+G.S. 14-288.4,Misdemeanor,Disorderly Conduct,Recognizance,Up to 1 Year,5000
+G.S. 14-288.6,Felony,Inciting to Riot,Cash Bail,Up to 10 Years,100000
+G.S. 14-318.2,Misdemeanor,Child Abuse,Recognizance,Up to 1 Year,5000
+G.S. 14-318.4,Felony,Child Abuse Inflicting Serious Injury,Cash Bail,Up to 10 Years,100000
+G.S. 14-360,Misdemeanor,Cruelty to Animals,Recognizance,Up to 1 Year,5000
+G.S. 14-401.11,Felony,Poisoning Food or Drink,Cash Bail,Up to 20 Years,200000
+G.S. 14-401.14,Felony,Willfully Burning Cross on Property of Another,Cash Bail,Up to 5 Years,50000
+G.S. 14-401.20,Felony,Identity Theft,Cash Bail,Up to 5 Years,50000
+G.S. 14-415.21,Felony,Carrying Concealed Handgun Without Permit,Cash Bail,Up to 5 Years,50000
+G.S. 14-415.26,Felony,Carrying Concealed Handgun While Consuming Alcohol,Cash Bail,Up to 5 Years,50000
+G.S. 14-415.27,Felony,Carrying Concealed Handgun in Prohibited Areas,Cash Bail,Up to 5 Years,50000
+G.S. 20-138.1,Misdemeanor,Driving While Impaired (First Offense),Recognizance,Up to 1 Year,5000
+G.S. 20-138.5,Felony,Driving While Impaired (Habitual),Cash Bail,Up to 5 Years,50000
+G.S. 20-141.4,Felony,Felony Death by Vehicle,Cash Bail,Up to 10 Years,100000

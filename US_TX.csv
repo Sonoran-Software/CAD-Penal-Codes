@@ -1,0 +1,54 @@
+code,type,title,bondType,jailTime,bondAmount
+19.02,Felony,Murder,Federal Bail Bond,5 to 99 Years or Life,1000000
+19.03,Felony,Capital Murder,Federal Bail Bond,Life Without Parole or Death,1000000
+19.04,Felony,Manslaughter,Federal Bail Bond,2 to 20 Years,500000
+19.05,Felony,Criminally Negligent Homicide,Federal Bail Bond,180 Days to 2 Years,100000
+20.03,Felony,Kidnapping,Federal Bail Bond,2 to 20 Years,500000
+20.04,Felony,Aggravated Kidnapping,Federal Bail Bond,5 to 99 Years or Life,1000000
+20.05,Felony,Smuggling of Persons,Federal Bail Bond,2 to 20 Years,500000
+20A.02,Felony,Trafficking of Persons,Federal Bail Bond,5 to 99 Years or Life,1000000
+21.11,Felony,Indecency with a Child,Federal Bail Bond,2 to 20 Years,500000
+22.01,Misdemeanor,Assault,State Bail Bond,Up to 1 Year,10000
+22.02,Felony,Aggravated Assault,Federal Bail Bond,2 to 20 Years,500000
+22.011,Felony,Sexual Assault,Federal Bail Bond,2 to 20 Years,500000
+22.021,Felony,Aggravated Sexual Assault,Federal Bail Bond,5 to 99 Years or Life,1000000
+22.04,Felony,Injury to a Child, Elderly Individual, or Disabled Individual,Federal Bail Bond,2 to 10 Years,250000
+22.041,Felony,Abandoning or Endangering a Child,Federal Bail Bond,180 Days to 2 Years,100000
+22.05,Felony,Deadly Conduct,Federal Bail Bond,2 to 10 Years,250000
+22.07,Misdemeanor,Terroristic Threat,State Bail Bond,Up to 1 Year,10000
+25.03,Felony,Interference with Child Custody,Federal Bail Bond,2 to 10 Years,250000
+25.07,Misdemeanor,Violation of Protective Order,State Bail Bond,Up to 1 Year,10000
+25.11,Felony,Continuous Violence Against the Family,Federal Bail Bond,2 to 10 Years,250000
+28.02,Felony,Arson,Federal Bail Bond,2 to 20 Years,500000
+28.03,Misdemeanor,Criminal Mischief,State Bail Bond,Up to 1 Year,10000
+28.08,Misdemeanor,Graffiti,State Bail Bond,Up to 1 Year,10000
+29.02,Felony,Robbery,Federal Bail Bond,2 to 20 Years,500000
+29.03,Felony,Aggravated Robbery,Federal Bail Bond,5 to 99 Years or Life,1000000
+30.02,Felony,Burglary,Federal Bail Bond,2 to 20 Years,500000
+30.04,Misdemeanor,Burglary of Vehicles,State Bail Bond,Up to 1 Year,10000
+30.05,Misdemeanor,Criminal Trespass,State Bail Bond,Up to 1 Year,10000
+31.03,Misdemeanor,Theft,State Bail Bond,Up to 1 Year,10000
+31.04,Felony,Theft of Service,Federal Bail Bond,2 to 20 Years,500000
+31.07,Felony,Unauthorized Use of a Vehicle,Federal Bail Bond,180 Days to 2 Years,100000
+31.16,Felony,Organized Retail Theft,Federal Bail Bond,2 to 20 Years,500000
+32.21,Felony,Forgery,Federal Bail Bond,2 to 10 Years,250000
+32.31,Felony,Credit Card or Debit Card Abuse,Federal Bail Bond,180 Days to 2 Years,100000
+32.51,Felony,Identity Theft,Federal Bail Bond,2 to 10 Years,250000
+33.02,Felony,Breach of Computer Security,Federal Bail Bond,180 Days to 2 Years,100000
+33.021,Felony,Online Solicitation of a Minor,Federal Bail Bond,2 to 20 Years,500000
+34.02,Felony,Money Laundering,Federal Bail Bond,2 to 99 Years or Life,1000000
+35.02,Felony,Insurance Fraud,Federal Bail Bond,2 to 10 Years,250000
+36.02,Felony,Bribery,Federal Bail Bond,2 to 20 Years,500000
+36.06,Felony,Obstruction or Retaliation,Federal Bail Bond,2 to 10 Years,250000
+37.02,Felony,Perjury,Federal Bail Bond,2 to 10 Years,250000
+37.09,Felony,Tampering with Evidence,Federal Bail Bond,2 to 10 Years,250000
+38.03,Misdemeanor,Resisting Arrest,Search, or Transportation,State Bail Bond,Up to 1 Year,10000
+38.04,Felony,Evading Arrest or Detention,Federal Bail Bond,180 Days to 2 Years,100000
+39.02,Felony,Abuse of Official Capacity,Federal Bail Bond,2 to 20 Years,500000
+42.01,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 1 Year,10000
+42.062,Misdemeanor,Interference with Emergency Request for Assistance,State Bail Bond,Up to 1 Year,10000
+43.02,Misdemeanor,Prostitution,State Bail Bond,Up to 1 Year,10000
+43.25,Felony,Sexual Performance by a Child,Federal Bail Bond,2 to 20 Years,500000
+46.02,Misdemeanor,Unlawful Carrying Weapons,State Bail Bond,Up to 1 Year,10000
+46.04,Felony,Unlawful Possession of Firearm,Federal Bail Bond,2 to 10 Years,250000
+49.04,Misdemeanor,Driving While Intoxicated,State Bail Bond,Up to 1 Year,10000

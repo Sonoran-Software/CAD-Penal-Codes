@@ -1,0 +1,52 @@
+code,type,title,bondType,jailTime,bondAmount
+2C:11-3,Felony,Murder,Federal Bail Bond,30 Years to Life,500000
+2C:11-4,Felony,Manslaughter,Federal Bail Bond,5-10 Years,250000
+2C:12-1,Felony,Aggravated Assault,Federal Bail Bond,5-10 Years,150000
+2C:12-3,Felony,Terroristic Threats,Federal Bail Bond,3-5 Years,100000
+2C:13-1,Felony,Kidnapping,Federal Bail Bond,15-30 Years,400000
+2C:14-2,Felony,Sexual Assault,Federal Bail Bond,5-10 Years,200000
+2C:14-3,Felony,Criminal Sexual Contact,Federal Bail Bond,3-5 Years,100000
+2C:15-1,Felony,Robbery,Federal Bail Bond,5-20 Years,300000
+2C:17-1,Felony,Arson,Federal Bail Bond,5-10 Years,200000
+2C:18-2,Felony,Burglary,Federal Bail Bond,3-5 Years,100000
+2C:20-3,Felony,Theft by Unlawful Taking,Federal Bail Bond,3-5 Years,100000
+2C:20-4,Felony,Theft by Deception,Federal Bail Bond,3-5 Years,100000
+2C:20-7,Felony,Receiving Stolen Property,Federal Bail Bond,3-5 Years,100000
+2C:20-11,Misdemeanor,Shoplifting,State Bail Bond,Up to 6 Months,2500
+2C:21-2.1,Felony,Forgery,Federal Bail Bond,3-5 Years,100000
+2C:21-6,Felony,Credit Card Fraud,Federal Bail Bond,3-5 Years,100000
+2C:21-25,Felony,Identity Theft,Federal Bail Bond,3-5 Years,100000
+2C:24-4,Felony,Endangering Welfare of Children,Federal Bail Bond,5-10 Years,200000
+2C:28-1,Felony,Perjury,Federal Bail Bond,3-5 Years,100000
+2C:28-5,Felony,Tampering with Witnesses,Federal Bail Bond,3-5 Years,100000
+2C:29-2,Felony,Resisting Arrest,Federal Bail Bond,3-5 Years,100000
+2C:29-3,Felony,Hindering Apprehension,Federal Bail Bond,3-5 Years,100000
+2C:29-9,Felony,Contempt,Federal Bail Bond,3-5 Years,100000
+2C:35-5,Felony,Manufacturing, Distributing, or Dispensing Controlled Dangerous Substances,Federal Bail Bond,5-10 Years,200000
+2C:35-10,Felony,Possession of Controlled Dangerous Substances,Federal Bail Bond,3-5 Years,100000
+2C:36-2,Misdemeanor,Possession of Drug Paraphernalia,State Bail Bond,Up to 6 Months,2500
+2C:39-4,Felony,Possession of Weapons for Unlawful Purposes,Federal Bail Bond,5-10 Years,200000
+2C:39-5,Felony,Unlawful Possession of Weapons,Federal Bail Bond,3-5 Years,100000
+2C:39-7,Felony,Certain Persons Not to Have Weapons,Federal Bail Bond,5-10 Years,200000
+2C:40-26,Felony,Driving While Suspended for DUI,Federal Bail Bond,180 Days,10000
+2C:44-1,Felony,Aggravating and Mitigating Factors in Sentencing,Federal Bail Bond,Varies,0
+2C:58-3.3,Felony,Failure to Report Loss or Theft of Firearm,Federal Bail Bond,3-5 Years,100000
+2C:58-4,Felony,Possession of Firearm Without Permit,Federal Bail Bond,3-5 Years,100000
+2C:58-5,Felony,Defacing Firearms,Federal Bail Bond,3-5 Years,100000
+2C:64-1,Felony,Seizure and Forfeiture of Property,Federal Bail Bond,Varies,0
+2C:65-1,Felony,Leader of Organized Crime,Federal Bail Bond,10-20 Years,500000
+2C:66-1,Felony,Money Laundering,Federal Bail Bond,5-10 Years,200000
+2C:67-1,Felony,Counterfeiting,Federal Bail Bond,3-5 Years,100000
+2C:68-1,Felony,Computer Criminal Activity,Federal Bail Bond,3-5 Years,100000
+2C:70-1,Felony,Bribery in Official Matters,Federal Bail Bond,3-5 Years,100000
+2C:71-1,Felony,Perjury in Official Matters,Federal Bail Bond,3-5 Years,100000
+2C:72-1,Felony,Official Misconduct,Federal Bail Bond,5-10 Years,200000
+2C:73-1,Felony,Unlawful Official Business Transaction,Federal Bail Bond,3-5 Years,100000
+2C:74-1,Felony,Unlawful Benefit to Public Servant,Federal Bail Bond,3-5 Years,100000
+2C:75-1,Felony,Theft by Extortion,Federal Bail Bond,5-10 Years,200000
+2C:76-1,Felony,Criminal Usury,Federal Bail Bond,3-5 Years,100000
+2C:77-1,Felony,Unlawful Use of Body Vest,Federal Bail Bond,3-5 Years,100000
+2C:78-1,Felony,Unlawful Use of Police Badge,Federal Bail Bond,3-5 Years,100000
+2C:79-1,Felony,Unlawful Use of Police Uniform,Federal Bail Bond,3-5 Years,100000
+2C:80-1,Felony,Unlawful Use of Police Vehicle,Federal Bail Bond,3-5 Years,100000
+2C:81-1,Felony,Unlawful Use of Police Equipment,Federal Bail Bond,3-5 Years,100000

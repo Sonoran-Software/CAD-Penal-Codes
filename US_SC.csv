@@ -1,0 +1,42 @@
+code,type,title,bondType,jailTime,bondAmount
+SC Code § 16-3-10,Felony,Murder,Federal Bail Bond,30 years to life,1000000
+SC Code § 16-3-50,Felony,Voluntary Manslaughter,Federal Bail Bond,2-30 years,500000
+SC Code § 16-3-85(A)(1),Felony,Homicide by Child Abuse,Federal Bail Bond,20 years to life,750000
+SC Code § 16-3-210(B),Felony,Assault and Battery by Mob in the First Degree,Federal Bail Bond,30 years,1000000
+SC Code § 16-3-600(B)(1),Felony,Assault and Battery of a High and Aggravated Nature,Federal Bail Bond,0-20 years,500000
+SC Code § 16-3-620,Felony,Assault and Battery with Intent to Kill,Federal Bail Bond,0-20 years,500000
+SC Code § 16-3-910,Felony,Kidnapping,Federal Bail Bond,0-30 years,750000
+SC Code § 16-3-920,Felony,Conspiracy to Kidnap,Federal Bail Bond,0-5 years,250000
+SC Code § 16-3-930,Felony,Trafficking in Persons,Federal Bail Bond,0-30 years,750000
+SC Code § 16-3-1050,Felony,Sexual Conduct with an Inmate,Federal Bail Bond,0-10 years,250000
+SC Code § 16-3-1075(A),Felony,Carjacking,Federal Bail Bond,0-20 years,500000
+SC Code § 16-3-2020,Felony,Trafficking in Persons,Federal Bail Bond,0-30 years,750000
+SC Code § 16-11-110(A),Felony,Arson in the First Degree,Federal Bail Bond,0-30 years,750000
+SC Code § 16-11-311(A),Felony,Burglary in the First Degree,Federal Bail Bond,0-30 years,750000
+SC Code § 16-11-312(A),Felony,Burglary in the Second Degree,Federal Bail Bond,0-15 years,500000
+SC Code § 16-11-313(A),Felony,Burglary in the Third Degree,Federal Bail Bond,0-5 years,250000
+SC Code § 16-11-330(A),Felony,Armed Robbery,Federal Bail Bond,0-30 years,750000
+SC Code § 16-11-330(B),Felony,Attempted Armed Robbery,Federal Bail Bond,0-20 years,500000
+SC Code § 16-11-380(A),Felony,Theft of Person Using Automated Teller Machine,Federal Bail Bond,0-30 years,750000
+SC Code § 16-11-510,Felony,Malicious Injury to Real Property,Federal Bail Bond,0-10 years,250000
+SC Code § 16-11-520,Felony,Malicious Injury to Personal Property,Federal Bail Bond,0-10 years,250000
+SC Code § 16-13-10,Felony,Forgery,Federal Bail Bond,0-10 years,250000
+SC Code § 16-13-30(B)(1),Felony,Petit Larceny (value less than $2,000),State Bail Bond,0-30 days,1000
+SC Code § 16-13-30(B)(2),Felony,Grand Larceny (value $2,000 or more but less than $10,000),Federal Bail Bond,0-5 years,250000
+SC Code § 16-13-30(B)(3),Felony,Grand Larceny (value $10,000 or more),Federal Bail Bond,0-10 years,500000
+SC Code § 16-13-50,Felony,Embezzlement of Public Funds,Federal Bail Bond,0-10 years,250000
+SC Code § 16-13-210,Felony,False Pretenses,Federal Bail Bond,0-10 years,250000
+SC Code § 16-13-425,Felony,Possession of Stolen Vehicle,Federal Bail Bond,0-10 years,250000
+SC Code § 16-14-60,Felony,Financial Transaction Card Fraud,Federal Bail Bond,0-5 years,250000
+SC Code § 16-15-305,Misdemeanor,Obscenity,State Bail Bond,0-2 years,5000
+SC Code § 16-15-385,Felony,Disseminating Obscene Material to a Minor,Federal Bail Bond,0-10 years,250000
+SC Code § 16-15-395,Felony,Sexual Exploitation of a Minor in the First Degree,Federal Bail Bond,0-20 years,500000
+SC Code § 16-15-405,Felony,Sexual Exploitation of a Minor in the Second Degree,Federal Bail Bond,0-10 years,250000
+SC Code § 16-15-410,Felony,Sexual Exploitation of a Minor in the Third Degree,Federal Bail Bond,0-5 years,250000
+SC Code § 16-15-415,Felony,Promoting Prostitution of a Minor,Federal Bail Bond,0-20 years,500000
+SC Code § 16-15-425,Felony,Participating in Prostitution of a Minor,Federal Bail Bond,0-10 years,250000
+SC Code § 16-17-410,Felony,Conspiracy,Federal Bail Bond,0-5 years,250000
+SC Code § 16-17-490,Felony,Contributing to the Delinquency of a Minor,Federal Bail Bond,0-3 years,100000
+SC Code § 16-21-80,Felony,Unauthorized Use of a Motor Vehicle,Federal Bail Bond,0-3 years,100000
+SC Code § 16-23-20,Misdemeanor,Unlawful Carrying of Handgun,State Bail Bond,0-1 year,5000
+SC Code § 16-23-50(A)(2),Felony,Possession of Firearm by Person Convicted of Violent Offense,Federal Bail Bond,0-5 years,250000

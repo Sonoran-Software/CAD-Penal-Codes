@@ -1,0 +1,50 @@
+code,type,title,bondType,jailTime,bondAmount
+12.1-16-01,Felony,Murder,Federal Bail Bond,Life Imprisonment,1000000
+12.1-16-02,Felony,Manslaughter,Federal Bail Bond,Up to 10 Years,500000
+12.1-17-02,Felony,Aggravated Assault,Federal Bail Bond,Up to 5 Years,250000
+12.1-17-01.2,Misdemeanor,Domestic Violence,State Bail Bond,Up to 1 Year,10000
+12.1-17-03,Felony,Reckless Endangerment,Federal Bail Bond,Up to 5 Years,250000
+12.1-18-01,Felony,Kidnapping,Federal Bail Bond,Up to 20 Years,500000
+12.1-20-03,Felony,Sexual Assault,Federal Bail Bond,Up to 20 Years,500000
+12.1-22-01,Felony,Robbery,Federal Bail Bond,Up to 10 Years,250000
+12.1-22-02,Felony,Burglary,Federal Bail Bond,Up to 10 Years,250000
+12.1-23-02,Felony,Theft of Property,Federal Bail Bond,Up to 10 Years,250000
+12.1-23-04,Misdemeanor,Theft of Services,State Bail Bond,Up to 1 Year,10000
+12.1-24-01,Felony,Forgery,Federal Bail Bond,Up to 5 Years,250000
+12.1-25-01,Felony,Riot,Federal Bail Bond,Up to 5 Years,250000
+12.1-29-02,Misdemeanor,Prostitution,State Bail Bond,Up to 1 Year,10000
+12.1-31-01,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 30 Days,5000
+12.1-31-05,Misdemeanor,Harassment,State Bail Bond,Up to 1 Year,10000
+12.1-32-07,Felony,Failure to Appear After Release,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-09,Felony,Escape,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-10,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,10000
+12.1-32-11,Misdemeanor,Obstructing Governmental Function,State Bail Bond,Up to 1 Year,10000
+12.1-32-12,Felony,Perjury,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-13,Felony,Bribery,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-14,Felony,Tampering with Witnesses,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-15,Felony,Retaliation Against a Witness,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-16,Felony,Criminal Conspiracy,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-17,Felony,Criminal Facilitation,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-18,Felony,Money Laundering,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-19,Felony,Identity Theft,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-20,Felony,Computer Fraud,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-21,Felony,Unauthorized Use of Personal Identifying Information,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-22,Felony,Possession of Controlled Substance,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-23,Felony,Manufacture or Delivery of Controlled Substance,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-24,Misdemeanor,Possession of Drug Paraphernalia,State Bail Bond,Up to 1 Year,10000
+12.1-32-25,Misdemeanor,Driving Under the Influence (DUI),State Bail Bond,Up to 1 Year,10000
+12.1-32-26,Misdemeanor,Open Container Violation,State Bail Bond,Up to 30 Days,5000
+12.1-32-27,Misdemeanor,Minor in Possession of Alcohol,State Bail Bond,Up to 30 Days,5000
+12.1-32-28,Misdemeanor,Public Intoxication,State Bail Bond,Up to 30 Days,5000
+12.1-32-29,Misdemeanor,Indecent Exposure,State Bail Bond,Up to 1 Year,10000
+12.1-32-30,Felony,Child Abuse,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-31,Felony,Child Neglect,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-32,Felony,Endangering the Welfare of a Child,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-33,Felony,Possession of Child Pornography,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-34,Felony,Distribution of Child Pornography,Federal Bail Bond,Up to 20 Years,1000000
+12.1-32-35,Felony,Failure to Register as a Sex Offender,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-36,Felony,Arson,Federal Bail Bond,Up to 10 Years,500000
+12.1-32-37,Felony,Terrorizing,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-38,Felony,Criminal Mischief,Federal Bail Bond,Up to 5 Years,250000
+12.1-32-39,Misdemeanor,Trespassing,State Bail Bond,Up to 1 Year,10000
+12.1-32-40,Felony,Stalking,Federal Bail Bond,Up to 5 Years,250000

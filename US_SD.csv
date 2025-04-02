@@ -1,0 +1,47 @@
+code,type,title,bondType,jailTime,bondAmount
+SDCL 22-16-4,Felony,First Degree Murder,No Bail,Life Without Parole or Death,0
+SDCL 22-16-7,Felony,Second Degree Murder,Cash Bail,Up to Life,1000000
+SDCL 22-16-15,Felony,Manslaughter in the First Degree,Cash Bail,Up to Life,750000
+SDCL 22-16-20,Felony,Manslaughter in the Second Degree,Cash Bail,Up to 10 Years,500000
+SDCL 22-18-1.1,Felony,Aggravated Assault,Cash or Surety,Up to 15 Years,250000
+SDCL 22-18-1,Misdemeanor,Simple Assault,Recognizance,Up to 1 Year,2000
+SDCL 22-19-1,Felony,First Degree Kidnapping,Cash Bail,Up to Life,500000
+SDCL 22-19-5,Felony,Second Degree Kidnapping,Cash Bail,Up to 15 Years,250000
+SDCL 22-22-1,Felony,Rape in the First Degree,Cash Bail,Up to Life,750000
+SDCL 22-22-7,Felony,Sexual Contact with a Child Under 16,Cash Bail,Up to 15 Years,250000
+SDCL 22-22-24.3,Misdemeanor,Sexual Contact Without Consent,Recognizance,Up to 1 Year,2000
+SDCL 22-30-1,Felony,Theft Over $1,000,Cash Bail,Up to 10 Years,200000
+SDCL 22-30-1,Misdemeanor,Theft Under $1,000,Recognizance,Up to 1 Year,2000
+SDCL 22-32-1,Felony,First Degree Burglary,Cash Bail,Up to 25 Years,500000
+SDCL 22-32-3,Felony,Second Degree Burglary,Cash Bail,Up to 15 Years,250000
+SDCL 22-33-1,Felony,First Degree Arson,Cash Bail,Up to 25 Years,500000
+SDCL 22-33-3,Felony,Second Degree Arson,Cash Bail,Up to 10 Years,200000
+SDCL 22-33-9,Misdemeanor,Reckless Burning,Recognizance,Up to 1 Year,2000
+SDCL 22-11-4,Felony,Resisting Arrest with Violence,Cash Bail,Up to 2 Years,4000
+SDCL 22-11-6,Misdemeanor,Resisting Arrest Without Violence,Recognizance,Up to 1 Year,2000
+SDCL 22-18-35,Misdemeanor,Disorderly Conduct,Recognizance,Up to 30 Days,500
+SDCL 22-18-31,Misdemeanor,Harassment,Recognizance,Up to 1 Year,2000
+SDCL 22-19A-1,Misdemeanor,Stalking,Recognizance,Up to 1 Year,2000
+SDCL 22-42-5,Felony,Possession of Controlled Substance,Cash Bail,Up to 10 Years,200000
+SDCL 22-42-7,Misdemeanor,Possession of Marijuana (2 oz or less),Recognizance,Up to 1 Year,2000
+SDCL 22-42-3,Felony,Distribution of Controlled Substance,Cash Bail,Up to 15 Years,250000
+SDCL 22-42A-3,Misdemeanor,Possession of Drug Paraphernalia,Recognizance,Up to 30 Days,500
+SDCL 22-14-12,Felony,Possession of Firearm by Felon,Cash Bail,Up to 5 Years,100000
+SDCL 22-14-9,Misdemeanor,Carrying Concealed Weapon Without Permit,Recognizance,Up to 1 Year,2000
+SDCL 22-14-15,Felony,Possession of Firearm with Altered Serial Number,Cash Bail,Up to 5 Years,100000
+SDCL 32-23-1,Misdemeanor,Driving Under Influence (First Offense),Recognizance,Up to 1 Year,2000
+SDCL 32-23-4,Felony,Driving Under Influence (Third Offense),Cash Bail,Up to 2 Years,4000
+SDCL 32-33-9,Felony,Hit and Run Resulting in Injury,Cash Bail,Up to 2 Years,4000
+SDCL 32-33-10,Misdemeanor,Hit and Run Resulting in Property Damage,Recognizance,Up to 1 Year,2000
+SDCL 32-12-65,Misdemeanor,Driving While Suspended License,Recognizance,Up to 30 Days,500
+SDCL 32-12-39,Misdemeanor,Driving Without Valid License,Recognizance,Up to 30 Days,500
+SDCL 32-25-9.1,Misdemeanor,Reckless Driving,Recognizance,Up to 1 Year,2000
+SDCL 22-30A-17,Felony,Robbery in the First Degree,Cash Bail,Up to 25 Years,500000
+SDCL 22-30A-17.1,Felony,Robbery in the Second Degree,Cash Bail,Up to 15 Years,250000
+SDCL 22-30A-8,Felony,Embezzlement,Cash Bail,Up to 10 Years,200000
+SDCL 22-39-36,Felony,Forgery,Cash Bail,Up to 10 Years,200000
+SDCL 22-39-28,Misdemeanor,Issuing Bad Checks,Recognizance,Up to 1 Year,2000
+SDCL 22-19-12,Felony,False Imprisonment,Cash Bail,Up to 10 Years,200000
+SDCL 22-11A-2,Felony,Escape from Custody,Cash Bail,Up to 5 Years,100000
+SDCL 22-11-12,Misdemeanor,Obstructing Justice,Recognizance,Up to 1 Year,2000
+SDCL 22-14A-24,Felony,Possession of Explosive Device,Cash Bail,Up to 10 Years,200000

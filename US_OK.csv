@@ -1,0 +1,48 @@
+
+code,type,title,bondType,jailTime,bondAmount
+OK Stat § 21-701.7,Felony,Murder in the First Degree,Federal Bail Bond,Life without Parole,2000000
+OK Stat § 21-701.8,Felony,Murder in the Second Degree,Federal Bail Bond,10-45 Years,1000000
+OK Stat § 21-711,Felony,Manslaughter in the First Degree,Federal Bail Bond,4-15 Years,500000
+OK Stat § 21-716,Felony,Manslaughter in the Second Degree,Federal Bail Bond,2-4 Years,250000
+OK Stat § 21-641,Felony,Assault and Battery with a Dangerous Weapon,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-645,Felony,Assault with Intent to Commit a Felony,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1114,Felony,Rape in the First Degree,Federal Bail Bond,5-Life,1000000
+OK Stat § 21-1111,Felony,Rape in the Second Degree,Federal Bail Bond,1-15 Years,500000
+OK Stat § 21-741,Felony,Robbery in the First Degree,Federal Bail Bond,10-Life,1000000
+OK Stat § 21-1421,Felony,Burglary in the First Degree,Federal Bail Bond,7-20 Years,750000
+OK Stat § 21-1431,Felony,Burglary in the Second Degree,Federal Bail Bond,2-7 Years,500000
+OK Stat § 21-1704,Felony,Grand Larceny,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1705,Misdemeanor,Petit Larceny,State Bail Bond,0-6 Months,5000
+OK Stat § 21-1541.1,Felony,Obtaining Property by False Pretenses,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-1451,Felony,Embezzlement,Federal Bail Bond,0-8 Years,400000
+OK Stat § 21-1761,Felony,Receiving Stolen Property,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1438,Felony,Possession of Burglary Tools,Federal Bail Bond,0-2 Years,100000
+OK Stat § 21-1283,Felony,Possession of Firearm After Felony Conviction,Federal Bail Bond,1-10 Years,500000
+OK Stat § 21-1272,Misdemeanor,Carrying a Weapon Unlawfully,State Bail Bond,0-30 Days,1000
+OK Stat § 21-1289.11,Felony,Use of Firearm While Committing a Felony,Federal Bail Bond,2-10 Years,500000
+OK Stat § 21-843.5,Felony,Child Abuse,Federal Bail Bond,0-25 Years,1000000
+OK Stat § 21-843.5,Felony,Child Neglect,Federal Bail Bond,0-25 Years,1000000
+OK Stat § 21-644,Felony,Domestic Abuse,Federal Bail Bond,0-4 Years,200000
+OK Stat § 21-1171,Felony,Stalking,Federal Bail Bond,0-3 Years,150000
+OK Stat § 21-1029,Misdemeanor,Prostitution,State Bail Bond,0-1 Year,5000
+OK Stat § 21-1031,Felony,Pandering,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1040.8,Felony,Distribution of Obscene Material,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-1081,Felony,Indecent Exposure,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-1123,Felony,Lewd Acts with a Minor,Federal Bail Bond,0-20 Years,1000000
+OK Stat § 21-701.12,Felony,Aggravated Murder,Federal Bail Bond,Death Penalty,0
+OK Stat § 21-801,Felony,Arson in the First Degree,Federal Bail Bond,7-35 Years,750000
+OK Stat § 21-1767.1,Felony,Unauthorized Use of a Vehicle,Federal Bail Bond,0-2 Years,100000
+OK Stat § 21-1835,Felony,Extortion,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1481,Felony,Forgery in the First Degree,Federal Bail Bond,0-7 Years,350000
+OK Stat § 21-1482,Felony,Forgery in the Second Degree,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-1993,Misdemeanor,Tampering with Security Equipment,State Bail Bond,0-1 Year,5000
+OK Stat § 21-540,Felony,Obstruction of Justice,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-540A,Felony,Resisting Arrest with Violence,Federal Bail Bond,0-2 Years,100000
+OK Stat § 21-540B,Misdemeanor,Resisting Arrest without Violence,State Bail Bond,0-1 Year,5000
+OK Stat § 21-540C,Felony,Escape from Custody,Federal Bail Bond,0-7 Years,350000
+OK Stat § 21-540D,Felony,Aiding Escape,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-540E,Felony,Harboring a Fugitive,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-540F,Felony,Perjury,Federal Bail Bond,0-5 Years,250000
+OK Stat § 21-540G,Felony,Bribery,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-540H,Felony,Corruption,Federal Bail Bond,0-10 Years,500000
+OK Stat § 21-540I,Felony,Conspiracy,Federal Bail Bond,0-10 Years,500000

@@ -1,0 +1,48 @@
+code,type,title,bondType,jailTime,bondAmount
+9A.32.030,Felony,Murder in the First Degree,Federal Bail Bond,Life Imprisonment,1000000
+9A.32.050,Felony,Murder in the Second Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.32.060,Felony,Manslaughter in the First Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.32.070,Felony,Manslaughter in the Second Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.36.011,Felony,Assault in the First Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.36.021,Felony,Assault in the Second Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.36.031,Felony,Assault in the Third Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.36.041,Misdemeanor,Assault in the Fourth Degree,State Bail Bond,Up to 1 Year,10000
+9A.40.020,Felony,Kidnapping in the First Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.40.030,Felony,Kidnapping in the Second Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.40.040,Felony,Unlawful Imprisonment,Federal Bail Bond,Up to 5 Years,250000
+9A.44.040,Felony,Rape in the First Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.44.050,Felony,Rape in the Second Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.44.060,Felony,Rape in the Third Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.44.100,Felony,Indecent Liberties,Federal Bail Bond,Up to 10 Years,500000
+9A.44.132,Felony,Failure to Register as a Sex Offender,Federal Bail Bond,Up to 5 Years,250000
+9A.46.020,Misdemeanor,Harassment,State Bail Bond,Up to 1 Year,10000
+9A.46.110,Felony,Stalking,Federal Bail Bond,Up to 5 Years,250000
+9A.48.020,Felony,Arson in the First Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.48.030,Felony,Arson in the Second Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.48.060,Felony,Reckless Burning in the First Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.48.080,Misdemeanor,Reckless Burning in the Second Degree,State Bail Bond,Up to 1 Year,10000
+9A.48.090,Misdemeanor,Malicious Mischief in the Third Degree,State Bail Bond,Up to 1 Year,10000
+9A.52.020,Felony,Burglary in the First Degree,Federal Bail Bond,Up to Life Imprisonment,750000
+9A.52.030,Felony,Burglary in the Second Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.52.060,Felony,Criminal Trespass in the First Degree,Federal Bail Bond,Up to 1 Year,10000
+9A.52.070,Misdemeanor,Criminal Trespass in the Second Degree,State Bail Bond,Up to 90 Days,5000
+9A.56.030,Felony,Theft in the First Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.56.040,Felony,Theft in the Second Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.56.050,Misdemeanor,Theft in the Third Degree,State Bail Bond,Up to 1 Year,10000
+9A.56.070,Felony,Possessing Stolen Property in the First Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.56.080,Felony,Possessing Stolen Property in the Second Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.56.150,Felony,Theft of a Firearm,Federal Bail Bond,Up to 10 Years,500000
+9A.56.300,Felony,Theft of a Motor Vehicle,Federal Bail Bond,Up to 10 Years,500000
+9A.56.310,Felony,Possession of a Stolen Motor Vehicle,Federal Bail Bond,Up to 10 Years,500000
+9A.60.020,Felony,Forgery,Federal Bail Bond,Up to 5 Years,250000
+9A.72.020,Felony,Perjury in the First Degree,Federal Bail Bond,Up to 10 Years,500000
+9A.72.030,Felony,Perjury in the Second Degree,Federal Bail Bond,Up to 5 Years,250000
+9A.76.020,Misdemeanor,Obstructing a Law Enforcement Officer,State Bail Bond,Up to 1 Year,10000
+9A.76.040,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,10000
+9A.76.050,Misdemeanor,Rendering Criminal Assistance in the Second Degree,State Bail Bond,Up to 1 Year,10000
+9A.84.010,Misdemeanor,Riot,State Bail Bond,Up to 1 Year,10000
+9A.84.020,Misdemeanor,Failure to Disperse,State Bail Bond,Up to 1 Year,10000
+9A.84.030,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 90 Days,5000
+9A.88.010,Misdemeanor,Indecent Exposure,State Bail Bond,Up to 1 Year,10000
+9A.88.030,Misdemeanor,Prostitution,State Bail Bond,Up to 1 Year,10000
+9A.88.090,Misdemeanor,Permitting Prostitution,State Bail Bond,Up to 1 Year,10000

@@ -1,0 +1,52 @@
+code,type,title,bondType,jailTime,bondAmount
+6-2-101,Felony,Murder in the First Degree,Federal Bail Bond,Life Imprisonment or Death,1000000
+6-2-104,Felony,Murder in the Second Degree,Federal Bail Bond,20 Years to Life,750000
+6-2-105,Felony,Voluntary Manslaughter,Federal Bail Bond,Up to 20 Years,500000
+6-2-202,Felony,Kidnapping,Federal Bail Bond,Up to 20 Years,500000
+6-2-303,Felony,Aggravated Assault and Battery,Federal Bail Bond,Up to 10 Years,250000
+6-2-501,Misdemeanor,Simple Assault,State Bail Bond,Up to 6 Months,750
+6-2-502,Felony,Aggravated Assault and Battery,Federal Bail Bond,Up to 10 Years,250000
+6-2-301,Felony,Robbery,Federal Bail Bond,Up to 10 Years,250000
+6-3-301,Felony,Burglary,Federal Bail Bond,Up to 10 Years,250000
+6-3-402,Felony,Theft,Federal Bail Bond,Up to 10 Years,250000
+6-3-410,Misdemeanor,Shoplifting,State Bail Bond,Up to 6 Months,750
+6-3-201,Misdemeanor,Property Destruction and Defacement,State Bail Bond,Up to 6 Months,750
+6-3-101,Felony,Arson,Federal Bail Bond,Up to 20 Years,500000
+6-3-501,Felony,Computer Crimes,Federal Bail Bond,Up to 10 Years,250000
+6-3-602,Felony,Fraud,Federal Bail Bond,Up to 10 Years,250000
+6-3-701,Misdemeanor,Check Fraud,State Bail Bond,Up to 6 Months,750
+6-4-101,Felony,Bigamy,Federal Bail Bond,Up to 5 Years,100000
+6-4-402,Felony,Child Abuse,Federal Bail Bond,Up to 5 Years,100000
+6-4-404,Misdemeanor,Endangering Children,State Bail Bond,Up to 1 Year,1000
+6-4-305,Felony,Sexual Exploitation of Children,Federal Bail Bond,Up to 12 Years,300000
+6-4-103,Misdemeanor,Prostitution,State Bail Bond,Up to 6 Months,750
+6-5-204,Felony,Bribery,Federal Bail Bond,Up to 10 Years,250000
+6-5-102,Felony,Perjury,Federal Bail Bond,Up to 5 Years,100000
+6-5-206,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,1000
+6-5-209,Misdemeanor,Escape from Official Detention,State Bail Bond,Up to 1 Year,1000
+6-6-102,Misdemeanor,Public Intoxication,State Bail Bond,Up to 6 Months,750
+6-6-103,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 6 Months,750
+6-6-104,Misdemeanor,Riot,State Bail Bond,Up to 1 Year,1000
+6-6-107,Misdemeanor,Stalking,State Bail Bond,Up to 1 Year,1000
+6-8-102,Felony,Possession of Deadly Weapon with Unlawful Intent,Federal Bail Bond,Up to 5 Years,100000
+6-8-104,Misdemeanor,Carrying Concealed Weapon Without Permit,State Bail Bond,Up to 6 Months,750
+6-8-401,Felony,Firearms - Possession by Felon,Federal Bail Bond,Up to 3 Years,75000
+6-2-302,Felony,Sexual Assault in the First Degree,Federal Bail Bond,5 to 50 Years,500000
+6-2-303,Felony,Sexual Assault in the Second Degree,Federal Bail Bond,2 to 20 Years,250000
+6-2-304,Felony,Sexual Assault in the Third Degree,Federal Bail Bond,Up to 15 Years,150000
+6-2-315,Felony,Sexual Abuse of a Minor in the Second Degree,Federal Bail Bond,Up to 20 Years,250000
+6-2-316,Felony,Sexual Abuse of a Minor in the Third Degree,Federal Bail Bond,Up to 15 Years,150000
+6-2-317,Felony,Sexual Abuse of a Minor in the Fourth Degree,Federal Bail Bond,Up to 5 Years,100000
+6-2-506,Misdemeanor,Reckless Endangering,State Bail Bond,Up to 1 Year,1000
+6-2-509,Felony,Strangulation of a Household Member,Federal Bail Bond,Up to 10 Years,250000
+6-3-303,Felony,Aggravated Burglary,Federal Bail Bond,5 to 25 Years,500000
+6-3-405,Felony,Theft of Livestock,Federal Bail Bond,Up to 10 Years,250000
+6-3-407,Misdemeanor,Theft of Services,State Bail Bond,Up to 6 Months,750
+6-3-411,Felony,Motor Vehicle Theft,Federal Bail Bond,Up to 10 Years,250000
+6-3-702,Misdemeanor,Defrauding an Innkeeper,State Bail Bond,Up to 6 Months,750
+6-5-107,Felony,Escape from Incarceration,Federal Bail Bond,Up to 10 Years,250000
+6-5-108,Misdemeanor,Aiding Escape,State Bail Bond,Up to 1 Year,1000
+6-6-203,Misdemeanor,False Reporting to Authorities,State Bail Bond,Up to 1 Year,1000
+6-8-301,Felony,Use of Firearm During Commission of Felony,Federal Bail Bond,Additional 10 Years,250000
+6-8-102,Felony,Possession of Deadly Weapon with Unlawful Intent,Federal Bail Bond,Up to 5 Years,100000
+6-8-104,Misdemeanor,Carrying Concealed Weapon Without Permit,State Bail Bond,Up to 6 Months,750

@@ -1,0 +1,47 @@
+code,type,title,bondType,jailTime,bondAmount
+UCA 76-5-202,Felony,Aggravated Murder,Federal Bail Bond,25 years to life,1000000
+UCA 76-5-203,Felony,Murder,Federal Bail Bond,15 years to life,750000
+UCA 76-5-205,Felony,Manslaughter,Federal Bail Bond,1-15 years,500000
+UCA 76-5-206,Felony,Negligent Homicide,Federal Bail Bond,0-5 years,250000
+UCA 76-5-207,Felony,Automobile Homicide,Federal Bail Bond,0-15 years,500000
+UCA 76-5-301,Felony,Kidnapping,Federal Bail Bond,1-15 years,500000
+UCA 76-5-302,Felony,Aggravated Kidnapping,Federal Bail Bond,15 years to life,750000
+UCA 76-5-404,Felony,Forcible Sexual Abuse,Federal Bail Bond,1-15 years,500000
+UCA 76-5-402,Felony,Rape,Federal Bail Bond,5 years to life,750000
+UCA 76-5-403,Felony,Forcible Sodomy,Federal Bail Bond,5 years to life,750000
+UCA 76-5-404.1,Felony,Sexual Abuse of a Child,Federal Bail Bond,1-15 years,500000
+UCA 76-5-405,Felony,Aggravated Sexual Assault,Federal Bail Bond,15 years to life,750000
+UCA 76-6-101,Felony,Arson,Federal Bail Bond,1-15 years,500000
+UCA 76-6-202,Felony,Burglary,Federal Bail Bond,1-15 years,500000
+UCA 76-6-203,Felony,Aggravated Burglary,Federal Bail Bond,5 years to life,750000
+UCA 76-6-302,Felony,Robbery,Federal Bail Bond,1-15 years,500000
+UCA 76-6-303,Felony,Aggravated Robbery,Federal Bail Bond,5 years to life,750000
+UCA 76-6-404,Felony,Theft,Federal Bail Bond,0-15 years,500000
+UCA 76-6-412,Misdemeanor,Theft (Value less than $500),State Bail Bond,0-6 months,1000
+UCA 76-6-412,Felony,Theft (Value $500 or more),Federal Bail Bond,0-15 years,500000
+UCA 76-6-602,Misdemeanor,Criminal Trespass,State Bail Bond,0-6 months,1000
+UCA 76-6-703,Felony,Identity Fraud,Federal Bail Bond,1-15 years,500000
+UCA 76-6-1102,Felony,Computer Crimes,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1103,Felony,Unlawful Access to a Computer,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1104,Felony,Unlawful Use of a Computer,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1105,Felony,Computer Fraud,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1106,Felony,Computer Damage,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1107,Felony,Computer Contamination,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1108,Felony,Electronic Communication Harassment,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1109,Felony,Personal Identifying Information Fraud,Federal Bail Bond,1-15 years,500000
+UCA 76-6-1110,Felony,Phishing,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1111,Felony,Spyware,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1112,Felony,Adware,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1113,Felony,Malware,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1114,Felony,Ransomware,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1115,Felony,Denial of Service Attack,Federal Bail Bond,0-15 years,500000
+UCA 76-6-1116,Felony,Unauthorized Decryption,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1117,Felony,Unauthorized Encryption,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1118,Felony,Unauthorized Access to Encrypted Data,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1119,Felony,Unauthorized Use of Encryption,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1120,Felony,Unauthorized Possession of Encryption Device,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1121,Felony,Unauthorized Distribution of Encryption Device,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1122,Felony,Unauthorized Manufacture of Encryption Device,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1123,Felony,Unauthorized Sale of Encryption Device,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1124,Felony,Unauthorized Importation of Encryption Device,Federal Bail Bond,0-5 years,250000
+UCA 76-6-1125,Felony,Unauthorized Exportation of Encryption Device,Federal Bail Bond,0-5 years,250000

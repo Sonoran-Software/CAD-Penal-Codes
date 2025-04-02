@@ -1,0 +1,50 @@
+code,type,title,bondType,jailTime,bondAmount
+ORS 163.115,Felony,Murder in the Second Degree,No Bail,Life with possibility of parole after 25 years,0
+ORS 163.118,Felony,Manslaughter in the First Degree,Cash Bail,Up to 20 Years,500000
+ORS 163.125,Felony,Manslaughter in the Second Degree,Cash Bail,Up to 10 Years,250000
+ORS 163.145,Felony,Criminally Negligent Homicide,Cash Bail,Up to 5 Years,100000
+ORS 163.175,Felony,Assault in the Second Degree,Cash or Surety,Up to 10 Years,150000
+ORS 163.185,Felony,Assault in the First Degree,Cash or Surety,Up to 20 Years,250000
+ORS 163.190,Misdemeanor,Menacing,Recognizance,Up to 1 Year,10000
+ORS 163.225,Felony,Kidnapping in the Second Degree,Cash Bail,Up to 10 Years,200000
+ORS 163.235,Felony,Kidnapping in the First Degree,Cash Bail,Up to 20 Years,400000
+ORS 163.275,Felony,Coercion,Cash Bail,Up to 5 Years,75000
+ORS 163.355,Felony,Rape in the Third Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.365,Felony,Rape in the Second Degree,Cash Bail,Up to 10 Years,200000
+ORS 163.375,Felony,Rape in the First Degree,Cash Bail,Up to 20 Years,400000
+ORS 163.385,Felony,Sodomy in the Third Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.395,Felony,Sodomy in the Second Degree,Cash Bail,Up to 10 Years,200000
+ORS 163.405,Felony,Sodomy in the First Degree,Cash Bail,Up to 20 Years,400000
+ORS 163.415,Felony,Sexual Abuse in the Third Degree,Recognizance,Up to 1 Year,10000
+ORS 163.425,Felony,Sexual Abuse in the Second Degree,Cash Bail,Up to 5 Years,75000
+ORS 163.427,Felony,Sexual Abuse in the First Degree,Cash Bail,Up to 10 Years,150000
+ORS 163.432,Felony,Online Sexual Corruption of a Child in the Second Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.433,Felony,Online Sexual Corruption of a Child in the First Degree,Cash Bail,Up to 10 Years,200000
+ORS 163.445,Misdemeanor,Public Indecency,Recognizance,Up to 1 Year,5000
+ORS 163.465,Misdemeanor,Public Indecency,Recognizance,Up to 1 Year,5000
+ORS 163.467,Felony,Private Indecency,Cash Bail,Up to 5 Years,75000
+ORS 163.525,Felony,Incest,Cash Bail,Up to 5 Years,100000
+ORS 163.535,Misdemeanor,Abandonment of a Child,Recognizance,Up to 1 Year,10000
+ORS 163.545,Misdemeanor,Child Neglect in the Second Degree,Recognizance,Up to 1 Year,10000
+ORS 163.547,Felony,Child Neglect in the First Degree,Cash Bail,Up to 5 Years,75000
+ORS 163.575,Misdemeanor,Endangering the Welfare of a Minor,Recognizance,Up to 1 Year,10000
+ORS 163.670,Felony,Using Child in Display of Sexually Explicit Conduct,Cash Bail,Up to 10 Years,200000
+ORS 163.684,Felony,Encouraging Child Sexual Abuse in the First Degree,Cash Bail,Up to 10 Years,200000
+ORS 163.686,Felony,Encouraging Child Sexual Abuse in the Second Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.688,Felony,Possession of Materials Depicting Sexually Explicit Conduct of a Child in the First Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.689,Felony,Possession of Materials Depicting Sexually Explicit Conduct of a Child in the Second Degree,Cash Bail,Up to 5 Years,100000
+ORS 163.700,Misdemeanor,Invasion of Personal Privacy,Recognizance,Up to 1 Year,10000
+ORS 163.732,Misdemeanor,Stalking,Recognizance,Up to 1 Year,10000
+ORS 163.750,Felony,Violation of a Court's Stalking Protective Order,Cash Bail,Up to 5 Years,75000
+ORS 164.015,Felony,Theft in the First Degree,Cash Bail,Up to 5 Years,100000
+ORS 164.045,Misdemeanor,Theft in the Second Degree,Recognizance,Up to 1 Year,10000
+ORS 164.055,Misdemeanor,Theft in the Third Degree,Recognizance,Up to 1 Year,5000
+ORS 164.057,Felony,Aggravated Theft in the First Degree,Cash Bail,Up to 10 Years,200000
+ORS 164.075,Felony,Extortion,Cash Bail,Up to 5 Years,100000
+ORS 164.125,Felony,Theft of Services,Cash Bail,Up to 5 Years,100000
+ORS 164.135,Felony,Unauthorized Use of a Vehicle,Cash Bail,Up to 5 Years,100000
+ORS 164.140,Misdemeanor,Criminal Possession of Rented or Leased Personal Property,Recognizance,Up to 1 Year,10000
+ORS 164.215,Felony,Burglary in the Second Degree,Cash Bail,Up to 5 Years,100000
+ORS 164.225,Felony,Burglary in the First Degree,Cash Bail,Up to 10 Years,200000
+ORS 164.235,Felony,Possession of Burglary Tools,Cash Bail,Up to 5 Years,75000
+ORS 164.255,Felony,Criminal Trespass in the First Degree,Cash Bail,Up to 5 Years,75000

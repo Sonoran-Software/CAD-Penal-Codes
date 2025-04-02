@@ -1,0 +1,46 @@
+
+code,type,title,bondType,jailTime,bondAmount
+NYPL 125.25,Felony,Murder in the Second Degree,Federal Bail Bond,25 Years to Life,1000000
+NYPL 125.27,Felony,Murder in the First Degree,Federal Bail Bond,Life without Parole,2000000
+NYPL 125.15,Felony,Manslaughter in the Second Degree,Federal Bail Bond,3-15 Years,500000
+NYPL 125.20,Felony,Manslaughter in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 120.05,Felony,Assault in the Second Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 120.10,Felony,Assault in the First Degree,Federal Bail Bond,5-25 Years,500000
+NYPL 130.35,Felony,Rape in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 130.65,Felony,Sexual Abuse in the First Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 130.50,Felony,Criminal Sexual Act in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 135.25,Felony,Kidnapping in the First Degree,Federal Bail Bond,15-25 Years,1000000
+NYPL 135.20,Felony,Kidnapping in the Second Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 160.15,Felony,Robbery in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 160.10,Felony,Robbery in the Second Degree,Federal Bail Bond,3-15 Years,500000
+NYPL 160.05,Felony,Robbery in the Third Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 140.30,Felony,Burglary in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 140.25,Felony,Burglary in the Second Degree,Federal Bail Bond,3-15 Years,500000
+NYPL 140.20,Felony,Burglary in the Third Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 155.42,Felony,Grand Larceny in the First Degree,Federal Bail Bond,8-25 Years,1000000
+NYPL 155.40,Felony,Grand Larceny in the Second Degree,Federal Bail Bond,5-15 Years,750000
+NYPL 155.35,Felony,Grand Larceny in the Third Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 155.30,Felony,Grand Larceny in the Fourth Degree,Federal Bail Bond,1-4 Years,150000
+NYPL 165.45,Felony,Criminal Possession of Stolen Property in the Second Degree,Federal Bail Bond,3-15 Years,500000
+NYPL 165.50,Felony,Criminal Possession of Stolen Property in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 165.40,Misdemeanor,Criminal Possession of Stolen Property in the Fifth Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 165.15,Misdemeanor,Theft of Services,State Bail Bond,Up to 1 Year,5000
+NYPL 145.10,Felony,Criminal Mischief in the Second Degree,Federal Bail Bond,3-15 Years,500000
+NYPL 145.12,Felony,Criminal Mischief in the First Degree,Federal Bail Bond,5-25 Years,750000
+NYPL 145.00,Misdemeanor,Criminal Mischief in the Fourth Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 240.30,Misdemeanor,Aggravated Harassment in the Second Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 240.25,Misdemeanor,Harassment in the First Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 240.20,Violation,Disorderly Conduct,State Bail Bond,Up to 15 Days,500
+NYPL 205.30,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,5000
+NYPL 195.05,Misdemeanor,Obstructing Governmental Administration in the Second Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 215.50,Misdemeanor,Criminal Contempt in the Second Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 220.16,Felony,Criminal Possession of a Controlled Substance in the Third Degree,Federal Bail Bond,1-9 Years,200000
+NYPL 220.18,Felony,Criminal Possession of a Controlled Substance in the Second Degree,Federal Bail Bond,3-10 Years,500000
+NYPL 220.21,Felony,Criminal Possession of a Controlled Substance in the First Degree,Federal Bail Bond,8-20 Years,1000000
+NYPL 220.06,Misdemeanor,Criminal Possession of a Controlled Substance in the Fifth Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 265.03,Felony,Criminal Possession of a Weapon in the Second Degree,Federal Bail Bond,3.5-15 Years,500000
+NYPL 265.02,Felony,Criminal Possession of a Weapon in the Third Degree,Federal Bail Bond,2-7 Years,300000
+NYPL 265.01,Misdemeanor,Criminal Possession of a Weapon in the Fourth Degree,State Bail Bond,Up to 1 Year,5000
+NYPL 240.26,Violation,Harassment in the Second Degree,State Bail Bond,Up to 15 Days,500
+NYPL 230.00,Misdemeanor,Prostitution,State Bail Bond,Up to 1 Year,5000
+NYPL 230.20,Misdemeanor,Promoting Prostitution in the Fourth Degree,State Bail Bond,Up to 1 Year,5000

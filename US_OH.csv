@@ -1,0 +1,50 @@
+code,type,title,bondType,jailTime,bondAmount
+2903.01,Felony,Aggravated Murder,Federal Bail Bond,Life Imprisonment or Death,1000000
+2903.02,Felony,Murder,Federal Bail Bond,15 Years to Life,750000
+2903.03,Felony,Voluntary Manslaughter,Federal Bail Bond,3 to 11 Years,500000
+2903.04,Felony,Involuntary Manslaughter,Federal Bail Bond,3 to 11 Years,500000
+2903.11,Felony,Felonious Assault,Federal Bail Bond,2 to 8 Years,250000
+2903.12,Felony,Aggravated Assault,Federal Bail Bond,18 Months to 6 Years,200000
+2903.13,Misdemeanor,Assault,State Bail Bond,Up to 6 Months,10000
+2903.21,Misdemeanor,Aggravated Menacing,State Bail Bond,Up to 6 Months,10000
+2903.211,Misdemeanor,Menacing by Stalking,State Bail Bond,Up to 6 Months,10000
+2905.01,Felony,Kidnapping,Federal Bail Bond,3 to 11 Years,500000
+2905.02,Felony,Abduction,Federal Bail Bond,2 to 8 Years,250000
+2905.03,Misdemeanor,Unlawful Restraint,State Bail Bond,Up to 60 Days,5000
+2905.05,Felony,Criminal Child Enticement,Federal Bail Bond,6 Months to 5 Years,200000
+2907.02,Felony,Rape,Federal Bail Bond,3 to 11 Years,500000
+2907.03,Felony,Sexual Battery,Federal Bail Bond,2 to 8 Years,250000
+2907.04,Felony,Unlawful Sexual Conduct with a Minor,Federal Bail Bond,6 Months to 5 Years,200000
+2907.05,Felony,Gross Sexual Imposition,Federal Bail Bond,1 to 5 Years,200000
+2907.06,Misdemeanor,Sexual Imposition,State Bail Bond,Up to 60 Days,5000
+2907.07,Misdemeanor,Importuning,State Bail Bond,Up to 6 Months,10000
+2909.02,Felony,Aggravated Arson,Federal Bail Bond,3 to 11 Years,500000
+2909.03,Felony,Arson,Federal Bail Bond,6 Months to 5 Years,200000
+2909.05,Felony,Vandalism,Federal Bail Bond,6 Months to 5 Years,200000
+2909.06,Misdemeanor,Criminal Damaging or Endangering,State Bail Bond,Up to 90 Days,7500
+2911.01,Felony,Aggravated Robbery,Federal Bail Bond,3 to 11 Years,500000
+2911.02,Felony,Robbery,Federal Bail Bond,2 to 8 Years,250000
+2911.11,Felony,Aggravated Burglary,Federal Bail Bond,3 to 11 Years,500000
+2911.12,Felony,Burglary,Federal Bail Bond,1 to 8 Years,250000
+2911.13,Felony,Breaking and Entering,Federal Bail Bond,6 Months to 1 Year,100000
+2911.21,Misdemeanor,Criminal Trespass,State Bail Bond,Up to 30 Days,5000
+2913.02,Felony,Theft,Federal Bail Bond,6 Months to 11 Years,Varies by Amount Stolen
+2913.03,Felony,Unauthorized Use of a Vehicle,Federal Bail Bond,6 Months to 3 Years,100000
+2913.04,Felony,Unauthorized Use of Property,Federal Bail Bond,6 Months to 3 Years,100000
+2913.11,Felony,Passing Bad Checks,Federal Bail Bond,6 Months to 3 Years,100000
+2913.21,Felony,Misuse of Credit Cards,Federal Bail Bond,6 Months to 3 Years,100000
+2913.31,Felony,Forgery,Federal Bail Bond,6 Months to 3 Years,100000
+2913.49,Felony,Identity Fraud,Federal Bail Bond,6 Months to 8 Years,250000
+2917.11,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 30 Days,5000
+2917.13,Misdemeanor,Misconduct at an Emergency,State Bail Bond,Up to 90 Days,7500
+2919.25,Misdemeanor,Domestic Violence,State Bail Bond,Up to 6 Months,10000
+2921.02,Felony,Bribery,Federal Bail Bond,1 to 5 Years,200000
+2921.03,Felony,Intimidation,Federal Bail Bond,1 to 5 Years,200000
+2921.31,Misdemeanor,Obstructing Official Business,State Bail Bond,Up to 90 Days,7500
+2921.33,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 90 Days,7500
+2923.12,Felony,Carrying Concealed Weapons,Federal Bail Bond,6 Months to 18 Months,100000
+2923.13,Felony,Having Weapons While Under Disability,Federal Bail Bond,1 to 5 Years,200000
+2923.161,Felony,Improperly Discharging Firearm at or into Habitation,Federal Bail Bond,2 to 8 Years,250000
+2925.03,Felony,Trafficking in Drugs,Federal Bail Bond,6 Months to 11 Years,Varies by Substance and Amount
+2925.11,Felony,Possession of Drugs,Federal Bail Bond,6 Months to 11 Years,Varies by Substance and Amount
+2927.12,Felony,Ethnic Intimidation,Federal Bail Bond,6 Months to 3 Years,100000

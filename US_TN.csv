@@ -1,0 +1,53 @@
+code,type,title,bondType,jailTime,bondAmount
+39-13-202,Felony,First Degree Murder,Federal Bail Bond,Life Imprisonment or Death,1000000
+39-13-210,Felony,Second Degree Murder,Federal Bail Bond,15-60 Years,750000
+39-13-211,Felony,Voluntary Manslaughter,Federal Bail Bond,3-15 Years,500000
+39-13-212,Felony,Criminally Negligent Homicide,Federal Bail Bond,1-6 Years,250000
+39-13-102,Felony,Aggravated Assault,Federal Bail Bond,3-15 Years,500000
+39-13-101,Misdemeanor,Assault,State Bail Bond,Up to 1 Year,5000
+39-13-103,Felony,Reckless Endangerment,Federal Bail Bond,1-6 Years,250000
+39-13-305,Felony,Especially Aggravated Kidnapping,Federal Bail Bond,15-60 Years,750000
+39-13-304,Felony,Aggravated Kidnapping,Federal Bail Bond,8-30 Years,500000
+39-13-303,Felony,Kidnapping,Federal Bail Bond,3-15 Years,250000
+39-13-302,Felony,False Imprisonment,Federal Bail Bond,1-6 Years,100000
+39-13-502,Felony,Aggravated Rape,Federal Bail Bond,15-60 Years,750000
+39-13-503,Felony,Rape,Federal Bail Bond,8-30 Years,500000
+39-13-504,Felony,Aggravated Sexual Battery,Federal Bail Bond,8-30 Years,500000
+39-13-505,Felony,Sexual Battery,Federal Bail Bond,3-15 Years,250000
+39-13-506,Felony,Statutory Rape,Federal Bail Bond,1-6 Years,100000
+39-13-401,Felony,Robbery,Federal Bail Bond,3-15 Years,250000
+39-13-402,Felony,Aggravated Robbery,Federal Bail Bond,8-30 Years,500000
+39-13-403,Felony,Especially Aggravated Robbery,Federal Bail Bond,15-60 Years,750000
+39-14-103,Felony,Theft of Property,Federal Bail Bond,1-12 Years,100000
+39-14-104,Felony,Theft of Services,Federal Bail Bond,1-12 Years,100000
+39-14-114,Felony,Forgery,Federal Bail Bond,1-12 Years,100000
+39-14-115,Felony,Criminal Simulation,Federal Bail Bond,1-6 Years,100000
+39-14-118,Felony,Illegal Possession or Fraudulent Use of Credit or Debit Card,Federal Bail Bond,1-6 Years,100000
+39-14-121,Misdemeanor,Shoplifting,State Bail Bond,Up to 1 Year,5000
+39-14-203,Felony,Arson,Federal Bail Bond,3-15 Years,250000
+39-14-208,Felony,Aggravated Arson,Federal Bail Bond,15-60 Years,750000
+39-14-301,Felony,Burglary,Federal Bail Bond,3-15 Years,250000
+39-14-403,Felony,Aggravated Burglary,Federal Bail Bond,3-15 Years,250000
+39-14-405,Felony,Especially Aggravated Burglary,Federal Bail Bond,8-30 Years,500000
+39-14-405,Felony,Especially Aggravated Burglary,Federal Bail Bond,8-30 Years,500000
+39-14-406,Felony,Possession of Burglary Tools,Federal Bail Bond,1-6 Years,100000
+39-14-602,Misdemeanor,Criminal Trespass,State Bail Bond,Up to 1 Year,5000
+39-14-603,Felony,Aggravated Criminal Trespass,Federal Bail Bond,1-6 Years,100000
+39-14-408,Felony,Vandalism,Federal Bail Bond,1-12 Years,100000
+39-17-417,Felony,Manufacture, Delivery, Sale, or Possession of Controlled Substance,Federal Bail Bond,1-30 Years,500000
+39-17-418,Misdemeanor,Simple Possession or Casual Exchange,State Bail Bond,Up to 1 Year,5000
+39-17-422,Misdemeanor,Possession of Drug Paraphernalia,State Bail Bond,Up to 1 Year,5000
+39-17-1307,Felony,Unlawful Carrying or Possession of a Weapon,Federal Bail Bond,1-6 Years,100000
+39-17-1324,Felony,Possession of a Firearm During Commission of a Dangerous Felony,Federal Bail Bond,3-15 Years,250000
+39-17-1352,Felony,Carrying Weapon on School Property,Federal Bail Bond,1-6 Years,100000
+39-16-502,Felony,False Reports,Federal Bail Bond,1-6 Years,100000
+39-16-603,Misdemeanor,Evading Arrest,State Bail Bond,Up to 1 Year,5000
+39-16-605,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,5000
+39-16-703,Felony,Bribery of Public Servant,Federal Bail Bond,3-15 Years,250000
+39-16-705,Felony,Coercion of Public Servant,Federal Bail Bond,1-6 Years,100000
+39-16-201,Felony,Perjury,Federal Bail Bond,1-6 Years,100000
+39-16-507,Felony,Tampering with or Fabricating Evidence,Federal Bail Bond,1-6 Years,100000
+39-13-113,Misdemeanor,Violation of Order of Protection or Restraining Order,State Bail Bond,Up to 1 Year,5000
+39-13-111,Misdemeanor,Domestic Assault,State Bail Bond,Up to 1 Year,5000
+39-17-305,Felony,Inciting to Riot,Federal Bail Bond,1-6 Years,100000
+39-17-309,Felony,Civil Rights Intimidation,Federal Bail Bond,1-6 Years,100000

@@ -1,0 +1,44 @@
+code,type,title,bondType,jailTime,bondAmount
+WV Code § 61-2-1,Felony,Murder in the First Degree,Federal Bail Bond,Life without Parole,2000000
+WV Code § 61-2-1,Felony,Murder in the Second Degree,Federal Bail Bond,10-40 Years,1000000
+WV Code § 61-2-4,Felony,Voluntary Manslaughter,Federal Bail Bond,3-15 Years,500000
+WV Code § 61-2-5,Felony,Involuntary Manslaughter,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-2-9,Felony,Malicious Assault,Federal Bail Bond,2-10 Years,500000
+WV Code § 61-2-9a,Felony,Stalking,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-2-10b,Felony,Domestic Assault,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-2-10c,Felony,Domestic Battery,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-2-12,Felony,Robbery or Attempted Robbery,Federal Bail Bond,10-25 Years,750000
+WV Code § 61-2-14,Felony,Abduction of Person,Federal Bail Bond,3-10 Years,500000
+WV Code § 61-2-14a,Felony,Human Trafficking,Federal Bail Bond,3-15 Years,750000
+WV Code § 61-3-1,Felony,Arson in the First Degree,Federal Bail Bond,2-20 Years,750000
+WV Code § 61-3-2,Felony,Arson in the Second Degree,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3-3,Felony,Arson in the Third Degree,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-3-11,Felony,Burglary,Federal Bail Bond,1-15 Years,500000
+WV Code § 61-3-12,Felony,Entry of Building other than Dwelling,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3-13,Felony,Grand Larceny,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3-13,Misdemeanor,Petit Larceny,State Bail Bond,Up to 1 Year,5000
+WV Code § 61-3-18,Felony,Receiving or Transferring Stolen Goods,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3-20,Felony,Embezzlement,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3-24,Felony,Obtaining Property by False Pretenses,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3A-1,Misdemeanor,Shoplifting (First Offense),State Bail Bond,Up to 6 Months,1000
+WV Code § 61-3A-1,Misdemeanor,Shoplifting (Second Offense),State Bail Bond,6 Months to 1 Year,2500
+WV Code § 61-3A-1,Felony,Shoplifting (Third Offense),Federal Bail Bond,1-5 Years,500000
+WV Code § 61-3C-4,Felony,Computer Fraud,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-3C-14a,Felony,Unauthorized Access to Computer Services,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-4-3,Felony,Forgery,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-4-5,Felony,Uttering,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-5-17,Misdemeanor,Obstructing an Officer,State Bail Bond,Up to 1 Year,5000
+WV Code § 61-5-19,Felony,Escape from Custody,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-5-27,Felony,Perjury,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-5A-2,Felony,Bribery,Federal Bail Bond,1-10 Years,500000
+WV Code § 61-6-1,Misdemeanor,Inciting to Riot,State Bail Bond,Up to 1 Year,5000
+WV Code § 61-6-7,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 6 Months,1000
+WV Code § 61-6-24,Felony,Terrorist Threats,Federal Bail Bond,1-3 Years,250000
+WV Code § 61-7-3,Felony,Carrying a Concealed Weapon without License,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-7-7,Felony,Possession of Firearm by Prohibited Person,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-8-12,Misdemeanor,Engaging in Prostitution,State Bail Bond,Up to 6 Months,1000
+WV Code § 61-8-19,Felony,Cruelty to Animals,Federal Bail Bond,1-5 Years,250000
+WV Code § 61-8B-3,Felony,Sexual Assault in the First Degree,Federal Bail Bond,15-35 Years,1000000
+WV Code § 61-8B-4,Felony,Sexual Assault in the Second Degree,Federal Bail Bond,10-25 Years,750000
+WV Code § 61-8B-5,Felony,Sexual Assault in the Third Degree,Federal Bail Bond,1-5 Years,500000
+WV Code § 61-8B-7,Felony,Sexual Abuse in the First Degree,Federal Bail Bond,1-5 Years,500000

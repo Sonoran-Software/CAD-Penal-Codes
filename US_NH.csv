@@ -1,0 +1,53 @@
+code,type,title,bondType,jailTime,bondAmount
+RSA 630:1-a,Felony,First Degree Murder,No Bail,Life Without Parole,0
+RSA 630:1-b,Felony,Second Degree Murder,No Bail,Life,0
+RSA 630:2,Felony,Manslaughter,Cash Bail,Up to 30 Years,500000
+RSA 630:3,Felony,Negligent Homicide,Cash Bail,Up to 7 Years,250000
+RSA 631:1,Felony,First Degree Assault,Cash or Surety,Up to 15 Years,100000
+RSA 631:2,Felony,Second Degree Assault,Cash or Surety,Up to 7 Years,75000
+RSA 631:2-a,Misdemeanor,Simple Assault,Recognizance,Up to 1 Year,5000
+RSA 632-A:2,Felony,Aggravated Felonious Sexual Assault,No Bail,Up to 20 Years,0
+RSA 632-A:3,Felony,Felonious Sexual Assault,Cash Bail,Up to 7 Years,100000
+RSA 632-A:4,Misdemeanor,Sexual Assault,Recognizance,Up to 1 Year,5000
+RSA 633:1,Felony,Kidnapping,Cash or Surety,Up to 15 Years,150000
+RSA 633:2,Felony,Criminal Restraint,Cash Bail,Up to 7 Years,75000
+RSA 633:3-a,Misdemeanor,Stalking,Recognizance,Up to 1 Year,5000
+RSA 634:1,Felony,Arson,Cash or Surety,Up to 15 Years,100000
+RSA 634:2,Felony,Vandalism,Cash Bail,Up to 7 Years,50000
+RSA 635:1,Felony,Burglary,Cash or Surety,Up to 7 Years,75000
+RSA 636:1,Felony,Robbery,Cash or Surety,Up to 15 Years,100000
+RSA 637:3,Felony,Theft Over $1,500,Cash Bail,Up to 7 Years,75000
+RSA 637:4,Misdemeanor,Theft Under $1,500,Recognizance,Up to 1 Year,5000
+RSA 638:2,Felony,Forgery,Cash Bail,Up to 7 Years,50000
+RSA 638:4,Felony,Issuing Bad Checks Over $1,500,Cash Bail,Up to 7 Years,50000
+RSA 639:2,Felony,Endangering Welfare of Child,Cash Bail,Up to 7 Years,75000
+RSA 641:1,Felony,Perjury,Cash Bail,Up to 7 Years,50000
+RSA 641:7,Misdemeanor,False Report to Law Enforcement,Recognizance,Up to 1 Year,5000
+RSA 642:2,Felony,Resisting Arrest,Cash Bail,Up to 7 Years,50000
+RSA 643:1,Felony,Official Oppression,Cash Bail,Up to 7 Years,75000
+RSA 644:2,Misdemeanor,Disorderly Conduct,Recognizance,Up to 1 Year,2500
+RSA 644:4,Misdemeanor,Harassment,Recognizance,Up to 1 Year,2500
+RSA 645:1,Misdemeanor,Prostitution,Recognizance,Up to 1 Year,2500
+RSA 649-A:3,Felony,Possession of Child Sexual Abuse Images,Cash Bail,Up to 7 Years,100000
+RSA 649-B:3,Felony,Computer Pornography,Cash Bail,Up to 7 Years,100000
+RSA 650:2,Misdemeanor,Obscene Matter Offenses,Recognizance,Up to 1 Year,2500
+RSA 650-A:1,Felony,Felonious Use of Firearms,Cash Bail,Up to 7 Years,75000
+RSA 265-A:2,Misdemeanor,Driving Under Influence (First Offense),Recognizance,Up to 1 Year,2500
+RSA 265-A:3,Felony,Aggravated Driving While Intoxicated,Cash Bail,Up to 7 Years,50000
+RSA 262:1,Felony,Unauthorized Use of Vehicle,Cash Bail,Up to 7 Years,50000
+RSA 262:12,Misdemeanor,Operating Without Valid License,Recognizance,Up to 1 Year,2500
+RSA 263:64,Misdemeanor,Operating After Suspension,Recognizance,Up to 1 Year,2500
+RSA 264:25,Misdemeanor,Conduct After Accident (Hit and Run),Recognizance,Up to 1 Year,5000
+RSA 265:79,Felony,Reckless Conduct with a Motor Vehicle,Cash Bail,Up to 7 Years,50000
+RSA 318-B:2,Felony,Manufacture of Controlled Drugs,Cash Bail,Up to 20 Years,500000
+RSA 318-B:26,Felony,Possession of Controlled Drugs,Cash Bail,Up to 7 Years,100000
+RSA 318-B:28,Felony,Sale of Controlled Drugs,Cash Bail,Up to 20 Years,500000
+RSA 318-B:29,Felony,Possession with Intent to Distribute,Cash Bail,Up to 20 Years,500000
+RSA 318-B:31,Misdemeanor,Possession of Drug Paraphernalia,Recognizance,Up to 1 Year,2500
+RSA 159:3,Felony,Convicted Felon in Possession of Firearm,Cash Bail,Up to 7 Years,75000
+RSA 159:7,Misdemeanor,Unlawful Carrying of Firearms,Recognizance,Up to 1 Year,2500
+RSA 159:8,Felony,Sale of Firearms to Prohibited Persons,Cash Bail,Up to 7 Years,50000
+RSA 159:20,Misdemeanor,False Information on Firearm Purchase,Recognizance,Up to 1 Year,5000
+RSA 159:22,Felony,Use of Firearm in Commission of Felony,Cash Bail,Up to 10 Years,100000
+RSA 214:11,Misdemeanor,Illegal Taking of Wildlife,Recognizance,Up to 1 Year,2500
+RSA 214:14,Misdemeanor,Hunting Without License,Recognizance,Up to 1 Year,2500

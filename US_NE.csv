@@ -1,0 +1,51 @@
+code,type,title,bondType,jailTime,bondAmount
+28-303,Felony,Murder in the First Degree,Federal Bail Bond,Life,1000000
+28-304,Felony,Manslaughter,Federal Bail Bond,1-20 Years,500000
+28-305,Felony,Motor Vehicle Homicide,Federal Bail Bond,1-20 Years,500000
+28-308,Felony,Assault in the First Degree,Federal Bail Bond,1-50 Years,500000
+28-310,Misdemeanor,Assault in the Third Degree,State Bail Bond,Up to 1 Year,10000
+28-311.01,Felony,Terroristic Threats,Federal Bail Bond,Up to 20 Years,250000
+28-311.04,Felony,Stalking,Federal Bail Bond,Up to 3 Years,100000
+28-315,Felony,Kidnapping,Federal Bail Bond,1-50 Years,500000
+28-316,Misdemeanor,False Imprisonment,State Bail Bond,Up to 1 Year,10000
+28-319,Felony,Sexual Assault in the First Degree,Federal Bail Bond,1-50 Years,500000
+28-320,Misdemeanor,Sexual Assault in the Third Degree,State Bail Bond,Up to 1 Year,10000
+28-322.05,Felony,Sexual Assault of a Child,Federal Bail Bond,1-50 Years,500000
+28-324,Felony,Robbery,Federal Bail Bond,1-50 Years,500000
+28-327,Felony,Human Trafficking,Federal Bail Bond,1-50 Years,500000
+28-401,Felony,Manufacture of Controlled Substance,Federal Bail Bond,1-50 Years,500000
+28-416,Felony,Distribution of Controlled Substance,Federal Bail Bond,1-50 Years,500000
+28-417,Misdemeanor,Possession of Controlled Substance,State Bail Bond,Up to 1 Year,10000
+28-502,Felony,Arson in the First Degree,Federal Bail Bond,1-50 Years,500000
+28-507,Felony,Burglary,Federal Bail Bond,1-20 Years,250000
+28-511,Misdemeanor,Theft by Unlawful Taking,State Bail Bond,Up to 1 Year,10000
+28-517,Misdemeanor,Criminal Mischief,State Bail Bond,Up to 1 Year,10000
+28-603,Felony,Forgery in the First Degree,Federal Bail Bond,1-20 Years,250000
+28-611,Felony,Identity Theft,Federal Bail Bond,1-20 Years,250000
+28-631,Felony,Issuing a Bad Check,Federal Bail Bond,1-20 Years,250000
+28-703,Misdemeanor,Child Abuse,State Bail Bond,Up to 1 Year,10000
+28-707,Felony,Child Abuse Resulting in Serious Injury,Federal Bail Bond,1-50 Years,500000
+28-802,Felony,Prostitution,Federal Bail Bond,1-20 Years,250000
+28-831,Felony,Pandoring,Federal Bail Bond,1-20 Years,250000
+28-906,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,10000
+28-907,Misdemeanor,Obstructing a Peace Officer,State Bail Bond,Up to 1 Year,10000
+28-912,Misdemeanor,False Reporting,State Bail Bond,Up to 1 Year,10000
+28-924,Felony,Escape,Federal Bail Bond,1-20 Years,250000
+28-929,Felony,Assault on an Officer,Federal Bail Bond,1-50 Years,500000
+28-931,Felony,Assault by a Confined Person,Federal Bail Bond,1-50 Years,500000
+28-1009,Misdemeanor,Cruelty to Animals,State Bail Bond,Up to 1 Year,10000
+28-1102,Felony,Gambling,Federal Bail Bond,1-20 Years,250000
+28-1202,Felony,Carrying Concealed Weapon,Federal Bail Bond,1-20 Years,250000
+28-1206,Felony,Possession of Firearm by Prohibited Person,Federal Bail Bond,1-50 Years,500000
+28-1212.02,Felony,Unlawful Discharge of Firearm,Federal Bail Bond,1-50 Years,500000
+28-1221,Felony,Use of Explosives to Commit a Felony,Federal Bail Bond,1-50 Years,500000
+28-1344,Felony,Participation in Criminal Gang,Federal Bail Bond,1-20 Years,250000
+28-1463.03,Felony,Child Pornography,Federal Bail Bond,1-50 Years,500000
+28-1465,Felony,Unlawful Use of a Computer,Federal Bail Bond,1-20 Years,250000
+28-1466,Felony,Unauthorized Access to Computer,Federal Bail Bond,1-20 Years,250000
+28-1467,Felony,Computer Tampering,Federal Bail Bond,1-20 Years,250000
+28-1468,Felony,Unlawful Duplication of Computer Data,Federal Bail Bond,1-20 Years,250000
+28-1470,Felony,Unlawful Possession of Device to Obtain Telecommunications Service,Federal Bail Bond,1-20 Years,250000
+28-1471,Felony,Theft of Telecommunications Service,Federal Bail Bond,1-20 Years,250000
+28-1472,Felony,Unlawful Use of Encryption,Federal Bail Bond,1-20 Years,250000
+28-1473,Felony,Unlawful Interception of Communications,Federal Bail Bond,1-20 Years,250000

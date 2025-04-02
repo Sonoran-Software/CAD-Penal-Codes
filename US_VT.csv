@@ -1,0 +1,42 @@
+code,type,title,bondType,jailTime,bondAmount
+13 V.S.A. § 2301,Felony,Murder in the First Degree,No Bail,Life Imprisonment,0
+13 V.S.A. § 2303,Felony,Manslaughter,Cash Bail,Up to 15 Years,500000
+13 V.S.A. § 1024,Felony,Aggravated Assault,Cash or Surety,Up to 15 Years,250000
+13 V.S.A. § 1023,Misdemeanor,Simple Assault,Recognizance,Up to 1 Year,10000
+13 V.S.A. § 2405,Felony,Kidnapping,Cash Bail,Up to Life,500000
+13 V.S.A. § 3252,Felony,Sexual Assault,Cash Bail,Up to Life,500000
+13 V.S.A. § 2602,Felony,Lewd and Lascivious Conduct with Child,Cash Bail,Up to 15 Years,250000
+13 V.S.A. § 2501,Felony,Arson,Cash Bail,Up to 20 Years,300000
+13 V.S.A. § 1201,Felony,Burglary,Cash Bail,Up to 15 Years,250000
+13 V.S.A. § 608,Felony,Assault and Robbery with Weapon,Cash Bail,Up to 10 Years,200000
+13 V.S.A. § 2502,Felony,Unlawful Mischief,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 3701,Felony,Embezzlement,Cash Bail,Up to 10 Years,200000
+13 V.S.A. § 3016,Felony,False Pretenses or Tokens,Cash Bail,Up to 10 Years,200000
+13 V.S.A. § 2002,Felony,Bribery,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 3019,Felony,Identity Theft,Cash Bail,Up to 3 Years,75000
+13 V.S.A. § 4005,Felony,Unlawful Possession of Firearm,Cash Bail,Up to 3 Years,75000
+13 V.S.A. § 4003,Felony,Carrying Dangerous Weapon with Intent to Injure,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4004,Misdemeanor,Possession of Firearm in Court,Recognizance,Up to 1 Year,10000
+13 V.S.A. § 4011,Misdemeanor,Negligent Use of Gun,Recognizance,Up to 1 Year,10000
+13 V.S.A. § 4016,Felony,Possession of a Stolen Firearm,Cash Bail,Up to 10 Years,200000
+13 V.S.A. § 4017,Felony,Possession of Firearm During Commission of a Felony,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4021,Felony,Unlawful Discharge of Firearm,Cash Bail,Up to 3 Years,75000
+13 V.S.A. § 4023,Felony,Possession of Firearm by Person Convicted of Violent Crime,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4024,Felony,Possession of Firearm in Drug Trafficking Crime,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4025,Felony,Possession of Firearm by Fugitive from Justice,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4026,Felony,Possession of Firearm by Person Under Indictment,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4027,Felony,Possession of Firearm by Person Adjudicated Mentally Ill,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4028,Felony,Possession of Firearm by Person Dishonorably Discharged,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4029,Felony,Possession of Firearm by Person Renounced Citizenship,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4030,Felony,Possession of Firearm by Person Subject to Restraining Order,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4031,Felony,Possession of Firearm by Person Convicted of Misdemeanor Domestic Violence,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4032,Felony,Possession of Firearm by Person Addicted to Controlled Substance,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4033,Felony,Possession of Firearm by Person Unlawfully in United States,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4034,Felony,Possession of Firearm by Person Who Has Renounced U.S. Citizenship,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4035,Felony,Possession of Firearm by Person Under Age of 18,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4036,Felony,Possession of Firearm by Person Under Age of 21,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4037,Felony,Possession of Firearm by Person Convicted of Felony,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4038,Felony,Possession of Firearm by Person Convicted of Misdemeanor Crime of Domestic Violence,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4039,Felony,Possession of Firearm by Person Subject to Domestic Violence Protective Order,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4040,Felony,Possession of Firearm by Person Convicted of Crime Punishable by Imprisonment for Term Exceeding One Year,Cash Bail,Up to 5 Years,100000
+13 V.S.A. § 4041,Felony,Possession of Firearm by Person Who Is a Fugitive from Justice,Cash Bail,Up to 5 Years,100000
