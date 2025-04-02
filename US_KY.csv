@@ -13,10 +13,10 @@ KRS 510.110,Felony,Sexual Abuse in the First Degree,Cash Bond,1-5 Years,100000
 KRS 511.020,Felony,Burglary in the First Degree,Cash Bond,10-20 Years,200000
 KRS 511.030,Felony,Burglary in the Second Degree,Cash Bond,5-10 Years,150000
 KRS 511.040,Felony,Burglary in the Third Degree,Cash Bond,1-5 Years,100000
-KRS 514.030,Felony,Theft by Unlawful Taking or Disposition (Over $10,000),Cash Bond,5-10 Years,150000
-KRS 514.030,Misdemeanor,Theft by Unlawful Taking or Disposition ($500-$10,000),Cash Bond,Up to 1 Year,50000
-KRS 514.040,Felony,Theft by Deception (Over $10,000),Cash Bond,5-10 Years,150000
-KRS 514.040,Misdemeanor,Theft by Deception ($500-$10,000),Cash Bond,Up to 1 Year,50000
+KRS 514.030,Felony,"Theft by Unlawful Taking or Disposition (Over $10,000)",Cash Bond,5-10 Years,150000
+KRS 514.030,Misdemeanor,"Theft by Unlawful Taking or Disposition ($500-$10,000)",Cash Bond,Up to 1 Year,50000
+KRS 514.040,Felony,"Theft by Deception (Over $10,000)",Cash Bond,5-10 Years,150000
+KRS 514.040,Misdemeanor,"Theft by Deception ($500-$10,000)",Cash Bond,Up to 1 Year,50000
 KRS 515.020,Felony,Robbery in the First Degree,Cash Bond,10-20 Years,200000
 KRS 515.030,Felony,Robbery in the Second Degree,Cash Bond,5-10 Years,150000
 KRS 516.030,Felony,Forgery in the First Degree,Cash Bond,5-10 Years,150000
