@@ -17,8 +17,8 @@ G.S. 14-58,Felony,Arson First Degree,Cash Bail,Up to 30 Years,300000
 G.S. 14-59,Felony,Arson Second Degree,Cash Bail,Up to 25 Years,250000
 G.S. 14-62,Felony,Burning Personal Property,Cash Bail,Up to 10 Years,100000
 G.S. 14-71,Felony,Receiving Stolen Goods,Cash Bail,Up to 5 Years,50000
-G.S. 14-72,Felony,Larceny of Property Over $1,000,Cash Bail,Up to 10 Years,100000
-G.S. 14-72,Misdemeanor,Larceny of Property $1,000 or Less,Recognizance,Up to 1 Year,5000
+G.S. 14-72,Felony,"Larceny of Property Over $1,000",Cash Bail,Up to 10 Years,100000
+G.S. 14-72,Misdemeanor,"Larceny of Property $1,000 or Less",Recognizance,Up to 1 Year,5000
 G.S. 14-100,Felony,Obtaining Property by False Pretenses,Cash Bail,Up to 10 Years,100000
 G.S. 14-118,Felony,Embezzlement,Cash Bail,Up to 10 Years,100000
 G.S. 14-190.16,Felony,First Degree Sexual Exploitation of a Minor,Cash Bail,Up to 20 Years,200000
@@ -41,6 +41,6 @@ G.S. 14-401.20,Felony,Identity Theft,Cash Bail,Up to 5 Years,50000
 G.S. 14-415.21,Felony,Carrying Concealed Handgun Without Permit,Cash Bail,Up to 5 Years,50000
 G.S. 14-415.26,Felony,Carrying Concealed Handgun While Consuming Alcohol,Cash Bail,Up to 5 Years,50000
 G.S. 14-415.27,Felony,Carrying Concealed Handgun in Prohibited Areas,Cash Bail,Up to 5 Years,50000
-G.S. 20-138.1,Misdemeanor,Driving While Impaired (First Offense),Recognizance,Up to 1 Year,5000
-G.S. 20-138.5,Felony,Driving While Impaired (Habitual),Cash Bail,Up to 5 Years,50000
+G.S. 20-138.1,Misdemeanor,"Driving While Impaired (First Offense)",Recognizance,Up to 1 Year,5000
+G.S. 20-138.5,Felony,"Driving While Impaired (Habitual)",Cash Bail,Up to 5 Years,50000
 G.S. 20-141.4,Felony,Felony Death by Vehicle,Cash Bail,Up to 10 Years,100000
