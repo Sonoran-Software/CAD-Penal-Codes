@@ -25,7 +25,7 @@ code,type,title,bondType,jailTime,bondAmount
 (GA)40-6-391,Misdemeanor,Driving Under the Influence (DUI),Cash Bond,Up to 1 Year,1000
 (GA)40-5-121,Misdemeanor,Driving with Suspended License,Cash Bond,Up to 1 Year,1000
 (GA)40-6-393,Felony,Homicide by Vehicle,Cash Bond,3-15 Years,20000
-(GA)40-6-270,"Felony,Hit and Run",Cash Bond,1-5 Years,10000
+(GA)40-6-270,"Felony,Hit and Run",Cash Bond,1-5 Years,10000,0
 (GA)40-6-395,Felony,Fleeing or Attempting to Elude Police Officer,Cash Bond,1-5 Years,10000
 (GA)16-5-60,Misdemeanor,Reckless Conduct,Recognizance Bond,Up to 1 Year,1000
 (GA)16-5-90,Misdemeanor,Stalking,Recognizance Bond,Up to 1 Year,1000
@@ -46,4 +46,3 @@ code,type,title,bondType,jailTime,bondAmount
 (GA)16-9-93,Felony,Computer Theft,Cash Bond,1-15 Years,20000
 (GA)16-10-52,Felony,Escape,Cash Bond,1-5 Years,10000
 (GA)16-11-34,Misdemeanor,Inciting to Riot,Recognizance Bond,Up to 1 Year,1000
-(GA)16-11-43,Misdemeanor,Obstructing Highways and Streets,,,
