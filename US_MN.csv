@@ -17,9 +17,9 @@ code,type,title,bondType,jailTime,bondAmount
 609.582,Felony,Burglary in the First Degree,Cash Bond,Up to 20 Years,200000
 609.582,Felony,Burglary in the Second Degree,Cash Bond,Up to 10 Years,100000
 609.582,Felony,Burglary in the Third Degree,Cash Bond,Up to 5 Years,50000
-609.52,Felony,Theft (Over $35,000),Cash Bond,Up to 20 Years,200000
-609.52,Felony,Theft ($5,000 - $35,000),Cash Bond,Up to 10 Years,100000
-609.52,Misdemeanor,Theft (Under $500),Cash Bond,Up to 90 Days,10000
+609.52,Felony,"Theft (Over $35,000)",Cash Bond,Up to 20 Years,200000
+609.52,Felony,"Theft ($5,000 - $35,000)",Cash Bond,Up to 10 Years,100000
+609.52,Misdemeanor,"Theft (Under $500)",Cash Bond,Up to 90 Days,10000
 609.24,Felony,Simple Robbery,Cash Bond,Up to 10 Years,100000
 609.245,Felony,Aggravated Robbery in the First Degree,Cash Bond,Up to 20 Years,200000
 609.245,Felony,Aggravated Robbery in the Second Degree,Cash Bond,Up to 15 Years,150000
