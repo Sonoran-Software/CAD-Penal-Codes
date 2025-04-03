@@ -12,8 +12,8 @@ code,type,title,bondType,jailTime,bondAmount
 97-17-33,Felony,Burglary of a Non-Dwelling,Cash Bond,Up to 7 Years,100000
 97-17-41,Felony,Grand Larceny,Cash Bond,Up to 10 Years,100000
 97-17-43,Misdemeanor,Petit Larceny,Recognizance,Up to 6 Months,1000
-97-17-67,Felony,Malicious Mischief (Damage over $1,000),Cash Bond,Up to 5 Years,100000
-97-17-67,Misdemeanor,Malicious Mischief (Damage under $1,000),Recognizance,Up to 1 Year,1000
+97-17-67,Felony,"Malicious Mischief (Damage over $1,000)",Cash Bond,Up to 5 Years,100000
+97-17-67,Misdemeanor,"Malicious Mischief (Damage under $1,000)",Recognizance,Up to 1 Year,1000
 97-17-1,Felony,Arson of a Dwelling,Cash Bond,Up to 20 Years,250000
 97-17-3,Felony,Arson of Other Buildings,Cash Bond,Up to 10 Years,100000
 97-5-39,Felony,Child Abuse,Cash Bond,Up to Life,500000
