@@ -13,12 +13,12 @@ code,type,title,bondType,jailTime,bondAmount
 45-5-601,Misdemeanor,Prostitution,State Bail Bond,Up to 6 Months,2500
 45-5-602,Felony,Promotion of Prostitution,Federal Bail Bond,2-20 Years,250000
 45-5-625,Felony,Sexual Abuse of Children,Federal Bail Bond,4-100 Years,750000
-45-6-101,Misdemeanor,Criminal Mischief (Damage under $1,500),State Bail Bond,Up to 6 Months,2500
-45-6-101,Felony,Criminal Mischief (Damage over $1,500),Federal Bail Bond,1-10 Years,100000
+45-6-101,Misdemeanor,"Criminal Mischief (Damage under $1,500)",State Bail Bond,Up to 6 Months,2500
+45-6-101,Felony,"Criminal Mischief (Damage over $1,500)",Federal Bail Bond,1-10 Years,100000
 45-6-202,Misdemeanor,Criminal Trespass to Vehicles,State Bail Bond,Up to 6 Months,2500
 45-6-203,Felony,Burglary,Federal Bail Bond,2-20 Years,250000
-45-6-301,Misdemeanor,Theft (Property under $1,500),State Bail Bond,Up to 6 Months,2500
-45-6-301,Felony,Theft (Property over $1,500),Federal Bail Bond,1-10 Years,100000
+45-6-301,Misdemeanor,"Theft (Property under $1,500)",State Bail Bond,Up to 6 Months,2500
+45-6-301,Felony,"Theft (Property over $1,500)",Federal Bail Bond,1-10 Years,100000
 45-6-327,Misdemeanor,Unauthorized Use of a Motor Vehicle,State Bail Bond,Up to 1 Year,5000
 45-7-102,Felony,Obstructing Justice,Federal Bail Bond,1-10 Years,100000
 45-7-301,Misdemeanor,Resisting Arrest,State Bail Bond,Up to 1 Year,5000
@@ -33,14 +33,14 @@ code,type,title,bondType,jailTime,bondAmount
 45-9-110,Felony,Criminal Production or Manufacture of Dangerous Drugs,Federal Bail Bond,2-20 Years,250000
 45-10-103,Misdemeanor,Possession of Alcohol by a Minor,State Bail Bond,Up to 6 Months,2500
 61-5-212,Misdemeanor,Driving with a Suspended License,State Bail Bond,Up to 6 Months,2500
-61-8-401,Misdemeanor,Driving Under the Influence (DUI),State Bail Bond,Up to 6 Months,2500
+61-8-401,Misdemeanor,"Driving Under the Influence (DUI)",State Bail Bond,Up to 6 Months,2500
 61-8-465,Felony,Aggravated DUI,Federal Bail Bond,1-5 Years,50000
 61-8-302,Misdemeanor,Reckless Driving,State Bail Bond,Up to 6 Months,2500
 61-8-316,Misdemeanor,Careless Driving,State Bail Bond,Up to 6 Months,2500
 61-8-321,Misdemeanor,Failure to Yield Right of Way,State Bail Bond,Up to 6 Months,2500
 61-8-322,Misdemeanor,Failure to Obey Traffic Control Device,State Bail Bond,Up to 6 Months,2500
-61-8-711,Misdemeanor,Hit and Run (Property Damage),State Bail Bond,Up to 6 Months,2500
-61-8-712,Felony,Hit and Run (Injury or Death),Federal Bail Bond,2-20 Years,250000
+61-8-711,Misdemeanor,"Hit and Run (Property Damage)",State Bail Bond,Up to 6 Months,2500
+61-8-712,Felony,"Hit and Run (Injury or Death)",Federal Bail Bond,2-20 Years,250000
 61-9-203,Misdemeanor,Seat Belt Violation,State Bail Bond,Up to 6 Months,2500
 61-9-406,Misdemeanor,Equipment Violation,State Bail Bond,Up to 6 Months,2500
 61-12-601,Misdemeanor,Failure to Maintain Insurance,State Bail Bond,Up to 6 Months,2500
