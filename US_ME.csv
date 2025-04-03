@@ -21,7 +21,7 @@ code,type,title,bondType,jailTime,bondAmount
 17-A M.R.S. §301,Felony,Kidnapping,Federal Bail Bond,Up to 30 Years,1000000
 17-A M.R.S. §302,Felony,Criminal Restraint,Federal Bail Bond,Up to 5 Years,250000
 17-A M.R.S. §303,Felony,Criminal Forced Labor,Federal Bail Bond,Up to 10 Years,500000
-17-A M.R.S. §351,Misdemeanor,Theft by Unauthorized Taking or Transfer (Under $1,000),Personal Recognizance,Up to 1 Year,5000
+17-A M.R.S. §351,Misdemeanor,"Theft by Unauthorized Taking or Transfer (Under $1,000)",Personal Recognizance,Up to 1 Year,5000
 17-A M.R.S. §353,Felony,Theft by Deception (Over $1,000),Federal Bail Bond,Up to 10 Years,500000
 17-A M.R.S. §355,Felony,Theft of Services,Federal Bail Bond,Up to 5 Years,250000
 17-A M.R.S. §357,Felony,Theft by Extortion,Federal Bail Bond,Up to 10 Years,500000
