@@ -15,7 +15,7 @@ RSA 633:3-a,Misdemeanor,Stalking,Recognizance,Up to 1 Year,5000
 RSA 634:1,Felony,Arson,"Cash or Surety",Up to 15 Years,100000
 RSA 634:2,Felony,Vandalism,Cash Bail,Up to 7 Years,50000
 RSA 635:1,Felony,Burglary,"Cash or Surety",Up to 7 Years,75000
-RSA 636:1,Felony,"Robbery,Cash or Surety",Up to 15 Years,100000
+RSA 636:1,Felony,Robbery,"Cash or Surety",Up to 15 Years,100000
 RSA 637:3,Felony,"Theft Over $1,500,Cash Bail",Up to 7 Years,75000
 RSA 637:4,Misdemeanor,"Theft Under $1,500,Recognizance",Up to 1 Year,5000
 RSA 638:2,Felony,Forgery,Cash Bail,Up to 7 Years,50000
