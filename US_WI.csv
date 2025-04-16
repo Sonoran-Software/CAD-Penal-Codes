@@ -13,8 +13,8 @@ code,type,title,bondType,jailTime,bondAmount
 940.30,Felony,False Imprisonment,Cash Bail,Up to 6 Years,100000
 940.31,Felony,Kidnapping,Cash Bail,Up to 40 Years,500000
 943.10(1),Felony,Burglary,Cash Bail,Up to 12.5 Years,250000
-943.20(1)(a),Felony,Theft (Property Over $2,500),Cash Bail,Up to 10 Years,200000
-943.20(1)(a),Misdemeanor,Theft (Property $2,500 or Less),Recognizance,Up to 9 Months,10000
+943.20(1)(a),Felony,"Theft (Property Over $2,500)",Cash Bail,Up to 10 Years,200000
+943.20(1)(a),Misdemeanor,"Theft (Property $2,500 or Less)",Recognizance,Up to 9 Months,10000
 943.23(1g),Felony,Operating Vehicle Without Owner's Consent,Cash Bail,Up to 6 Years,100000
 943.32(2),Felony,Armed Robbery,Cash Bail,Up to 40 Years,500000
 943.32(1),Felony,Robbery,Cash Bail,Up to 15 Years,250000
@@ -46,5 +46,5 @@ code,type,title,bondType,jailTime,bondAmount
 961.41(1)(cm)3, Felony, Manufacture/Deliver Cocaine (>40g), Cash Bail, Up to 40 Years, 500000
 961.41(1)(cm)1, Felony, Manufacture/Deliver Cocaine (1-5g), Cash Bail, Up to 12.5 Years, 250000
 961.41(3g)(c), Misdemeanor, Possession of Cocaine, Recognizance, Up to 1 Year, 10000
-961.41(1)(h)4, Felony, Manufacture/Deliver THC (>10,000g), Cash Bail, Up to 15 Years, 250000
+961.41(1)(h)4, Felony,"Manufacture/Deliver THC (>10,000g)", Cash Bail, Up to 15 Years, 250000
 961.41(3g)(e), Misdemeanor, Possession of THC (Marijuana), Recognizance, Up to 6 Months, 1000

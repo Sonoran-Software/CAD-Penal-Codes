@@ -22,7 +22,7 @@ code,type,title,bondType,jailTime,bondAmount
 2C:29-2,Felony,Resisting Arrest,Federal Bail Bond,3-5 Years,100000
 2C:29-3,Felony,Hindering Apprehension,Federal Bail Bond,3-5 Years,100000
 2C:29-9,Felony,Contempt,Federal Bail Bond,3-5 Years,100000
-2C:35-5,Felony,Manufacturing, Distributing, or Dispensing Controlled Dangerous Substances,Federal Bail Bond,5-10 Years,200000
+2C:35-5,Felony,"Manufacturing, Distributing, or Dispensing Controlled Dangerous Substances",Federal Bail Bond,5-10 Years,200000
 2C:35-10,Felony,Possession of Controlled Dangerous Substances,Federal Bail Bond,3-5 Years,100000
 2C:36-2,Misdemeanor,Possession of Drug Paraphernalia,State Bail Bond,Up to 6 Months,2500
 2C:39-4,Felony,Possession of Weapons for Unlawful Purposes,Federal Bail Bond,5-10 Years,200000

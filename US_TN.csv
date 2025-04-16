@@ -34,7 +34,7 @@ code,type,title,bondType,jailTime,bondAmount
 39-14-602,Misdemeanor,Criminal Trespass,State Bail Bond,Up to 1 Year,5000
 39-14-603,Felony,Aggravated Criminal Trespass,Federal Bail Bond,1-6 Years,100000
 39-14-408,Felony,Vandalism,Federal Bail Bond,1-12 Years,100000
-39-17-417,Felony,Manufacture, Delivery, Sale, or Possession of Controlled Substance,Federal Bail Bond,1-30 Years,500000
+39-17-417,Felony,"Manufacture, Delivery, Sale, or Possession of Controlled Substance",Federal Bail Bond,1-30 Years,500000
 39-17-418,Misdemeanor,Simple Possession or Casual Exchange,State Bail Bond,Up to 1 Year,5000
 39-17-422,Misdemeanor,Possession of Drug Paraphernalia,State Bail Bond,Up to 1 Year,5000
 39-17-1307,Felony,Unlawful Carrying or Possession of a Weapon,Federal Bail Bond,1-6 Years,100000

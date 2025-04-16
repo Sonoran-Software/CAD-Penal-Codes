@@ -12,7 +12,7 @@ code,type,title,bondType,jailTime,bondAmount
 22.02,Felony,Aggravated Assault,Federal Bail Bond,2 to 20 Years,500000
 22.011,Felony,Sexual Assault,Federal Bail Bond,2 to 20 Years,500000
 22.021,Felony,Aggravated Sexual Assault,Federal Bail Bond,5 to 99 Years or Life,1000000
-22.04,Felony,Injury to a Child, Elderly Individual, or Disabled Individual,Federal Bail Bond,2 to 10 Years,250000
+22.04,Felony,"Injury to a Child, Elderly Individual, or Disabled Individual",Federal Bail Bond,2 to 10 Years,250000
 22.041,Felony,Abandoning or Endangering a Child,Federal Bail Bond,180 Days to 2 Years,100000
 22.05,Felony,Deadly Conduct,Federal Bail Bond,2 to 10 Years,250000
 22.07,Misdemeanor,Terroristic Threat,State Bail Bond,Up to 1 Year,10000
@@ -42,7 +42,7 @@ code,type,title,bondType,jailTime,bondAmount
 36.06,Felony,Obstruction or Retaliation,Federal Bail Bond,2 to 10 Years,250000
 37.02,Felony,Perjury,Federal Bail Bond,2 to 10 Years,250000
 37.09,Felony,Tampering with Evidence,Federal Bail Bond,2 to 10 Years,250000
-38.03,Misdemeanor,Resisting Arrest,Search, or Transportation,State Bail Bond,Up to 1 Year,10000
+38.03,Misdemeanor,"Resisting Arrest, Search, or Transportation",State Bail Bond,Up to 1 Year,10000
 38.04,Felony,Evading Arrest or Detention,Federal Bail Bond,180 Days to 2 Years,100000
 39.02,Felony,Abuse of Official Capacity,Federal Bail Bond,2 to 20 Years,500000
 42.01,Misdemeanor,Disorderly Conduct,State Bail Bond,Up to 1 Year,10000

@@ -33,12 +33,12 @@ code,type,title,bondType,jailTime,bondAmount
 30-17-1,Felony,Arson,Federal Bail Bond,Up to 9 Years,500000
 30-18-1,Felony,Perjury,Federal Bail Bond,Up to 3 Years,250000
 30-22-1,Felony,Bribery of Public Officer or Employee,Federal Bail Bond,Up to 3 Years,250000
-30-22-3,Misdemeanor,Resisting, Evading or Obstructing an Officer,State Bail Bond,Up to 1 Year,10000
+30-22-3,Misdemeanor,"Resisting, Evading or Obstructing an Officer",State Bail Bond,Up to 1 Year,10000
 30-22-5,Felony,Escape from Custody,Federal Bail Bond,Up to 3 Years,250000
 30-22-8,Felony,Tampering with Evidence,Federal Bail Bond,Up to 3 Years,250000
 30-23-2,Felony,Bribery or Intimidation of a Witness,Federal Bail Bond,Up to 3 Years,250000
 30-23-3,Felony,Retaliation Against a Witness,Federal Bail Bond,Up to 3 Years,250000
-30-26-1,Felony,Use of Telephone to Terrify, Intimidate, Threaten, Harass, Annoy or Offend,Federal Bail Bond,Up to 3 Years,250000
+30-26-1,Felony,"Use of Telephone to Terrify, Intimidate, Threaten, Harass, Annoy or Offend",Federal Bail Bond,Up to 3 Years,250000
 30-28-2,Felony,Conspiracy,Federal Bail Bond,Up to 3 Years,250000
 30-29-2,Felony,Criminal Solicitation,Federal Bail Bond,Up to 3 Years,250000
 30-31-20,Felony,Trafficking Controlled Substances,Federal Bail Bond,Up to 18 Years,750000
